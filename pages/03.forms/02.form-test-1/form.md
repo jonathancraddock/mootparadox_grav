@@ -9,12 +9,15 @@ form:
         name:
             label: 'Your Name'
             type: text
+        favcol:
+            label: 'Favourite Colour'
+            type: text
     buttons:
         submit:
             type: submit
             value: Submit
     process:
-        message: 'Thank you for your submission!'
+        message: 'Nothing has happened... just showing you a pointless message! ;-)'
 ---
 
 ### Form Test 1
