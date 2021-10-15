@@ -22,7 +22,7 @@ form:
 
 ### Form Test 1
 
-Some sample text here
+This form doesn't do anything, but if you enter some info, it will display a message...
 
 <div id="form-result"></div>
 
