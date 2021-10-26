@@ -1,5 +1,5 @@
 ---
-title: 'Blog Listing Test'
+title: Blog
 taxonomy:
     category:
         - test
@@ -18,4 +18,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-Body text here?
+Body text here? (listing page test)
