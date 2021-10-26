@@ -1,6 +1,9 @@
 ---
 title: Home
 body_classes: 'title-center title-h1h2'
+child_type: item
+admin:
+    children_display_order: collection
 ---
 
 # Welcome to mootParadox
