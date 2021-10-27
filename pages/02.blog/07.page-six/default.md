@@ -1,5 +1,6 @@
 ---
 title: 'Page Six'
+visible: false
 ---
 
 ## Six
