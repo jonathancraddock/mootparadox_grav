@@ -18,6 +18,4 @@ content:
     url_taxonomy_filters: true
 show_sidebar: false
 show_pagination: true
-hero_image: header.jpg
 ---
-
