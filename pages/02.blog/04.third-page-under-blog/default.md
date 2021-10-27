@@ -1,5 +1,6 @@
 ---
 title: 'Third page under blog'
+visible: false
 ---
 
 ## Third Page
