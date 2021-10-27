@@ -21,6 +21,13 @@
 {% block hero %}
     {# % include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} % #}
     <!-- hero -->
+
+    <p>
+      Path: {{ page.url|e }}
+    </p>
+
+
+
 {% endblock %}
 
 {% block body %}
