@@ -1,5 +1,6 @@
 ---
 title: 'Fifth (last one)'
+visible: false
 ---
 
 ## Five
