@@ -19,5 +19,7 @@ content:
 show_sidebar: false
 show_pagination: true
 hero_classes: hero-tiny
+media_order: header.jpg
+hero_image: header.jpg
 ---
 
