@@ -20,4 +20,3 @@ show_sidebar: false
 show_pagination: true
 ---
 
-Body text here? (listing page test)
