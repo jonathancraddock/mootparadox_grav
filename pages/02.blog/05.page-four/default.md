@@ -1,5 +1,6 @@
 ---
 title: 'Page Four'
+visible: false
 ---
 
 ## Another Layout Test
