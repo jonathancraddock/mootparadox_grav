@@ -16,7 +16,7 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-show_sidebar: true
+show_sidebar: false
 show_pagination: true
 ---
 
