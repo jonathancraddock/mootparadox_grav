@@ -56,3 +56,8 @@ a:visited {
 .blog-listing .card {
     margin-bottom: 10px; }
 
+/* Grey background on blockquote */
+blockquote {
+  border-left: .3rem solid #dfdfdf;
+  background-color: #e7e9ed80;
+}
