@@ -1,7 +1,7 @@
 ---
 title: 'Scafell Pike from Seathwaite'
 visible: false
-media_order: '00scafell.jpg,broad-crag-to-crinkles_av1f.jpg'
+media_order: '00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg'
 taxonomy:
     category:
         - hiking
@@ -36,6 +36,8 @@ In these conditions, crampons (or Pogu Spikes, which proved fine for my purposes
 For such fantastic conditions, the road to Seathwaite Farm was almost empty, with only about a dozen cars parked. Not being a natural early riser, this is probably the closest parking spot I'll ever find at this location. Great End seems to be a popular destination for winter climbing, it's northern face holding the ice, but keep in mind this virtue also applies to some of the approach routes, and you may encounter icy conditions on the path along Grains Gill; see photo below. Remember the scouting motto, and "be prepared".
 
 Might also be worth a note that the toilets at Seathwaite Farm close for the winter.
+
+![great-end-from-ruddy-gill_av1f](great-end-from-ruddy-gill_av1f.jpg "Great End seen from a very cold Ruddy Gill")
 
 > The towering precipice of Great End increasingly dominates this section of the walk and, by the time Ruddy Gill is reached, assumes awe-inspiring proportions.
 
