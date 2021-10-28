@@ -19,3 +19,5 @@ content:
 show_sidebar: false
 show_pagination: true
 ---
+
+Content for 'blog' section?
