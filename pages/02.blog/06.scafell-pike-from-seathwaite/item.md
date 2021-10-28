@@ -3,6 +3,8 @@ title: 'Scafell Pike from Seathwaite'
 visible: false
 media_order: '00scafell.jpg,header.png'
 taxonomy:
+    category:
+        - Hiking
     tag:
         - 'scafell pike'
         - winter
