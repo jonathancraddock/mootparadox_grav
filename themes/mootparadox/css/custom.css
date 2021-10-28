@@ -61,3 +61,8 @@ blockquote {
   border-left: .3rem solid #dfdfdf;
   background-color: #e7e9ed80;
 }
+
+/* Slightly tighten heading spacing */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0.5rem;
+}
