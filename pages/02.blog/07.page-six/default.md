@@ -1,7 +1,7 @@
 ---
 title: 'Page Six'
 visible: false
-media_order: PICT0035.JPG
+media_order: scafell-header.jpg
 ---
 
 ## Six
