@@ -1,7 +1,7 @@
 ---
 title: 'Page Six'
 visible: false
-media_order: 00scafell.jpg
+media_order: '00scafell.jpg,header.png'
 ---
 
 ## Six
