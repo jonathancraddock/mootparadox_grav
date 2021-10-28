@@ -1,3 +1,8 @@
+@font-face {
+  font-family: quoteFont;
+  src: url(/kalam.ttf);
+}
+
 /* Pull-down menu on narrow display background colour */
 .overlay {
   background: #cacaca;
@@ -60,6 +65,7 @@ a:visited {
 blockquote {
   border-left: .3rem solid #dfdfdf;
   background-color: #e7e9ed80;
+  font-family: quoteFont;
 }
 
 /* Slightly tighten heading spacing */
