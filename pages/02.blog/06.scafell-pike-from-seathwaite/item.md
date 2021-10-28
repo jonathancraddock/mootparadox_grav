@@ -82,4 +82,4 @@ I was very pleased with the kit I was wearing, including a new pair of bamboo le
 Judging by the change in the weather now, as we approach the end of February, I suspect this is going to be my only winter walk of the season, so I'm delighted it was a good one! Great fun, and I can highly recommend this route.
 
 > to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains  
-> .
+> _A.Wainwright_
