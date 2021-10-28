@@ -20,4 +20,8 @@ show_sidebar: false
 show_pagination: true
 ---
 
-Content for 'blog' section?
+Content for 'blog' section... hidden from page 2 onwards.
+
+Second paragraph.
+
+! Message in a box!

@@ -19,9 +19,14 @@
 
 
 {% block hero %}
-    {# % include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} % #}
-    <!-- hero section commented -->
+    {% if uri.param('page') >= 2 %}
+        <!-- page 2+ -->
+    {% else %}
+        {% include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} %}
+        <!-- blog home -->
+    {% endif %}
 {% endblock %}
+
 
 {% block body %}
     <section id="body-wrapper" class="section blog-listing">
