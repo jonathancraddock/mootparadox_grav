@@ -82,3 +82,35 @@ h1, h2, h3, h4, h5, h6 {
 .h2, h2 {
   font-size: 1.5rem;
 }
+
+/* Larger 'category' taxonomy tags */
+.taxonomyCats .tags .label {
+  background-color: #c2e7f2;
+  margin: 4px;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #99d1e1;
+  font-weight: bold;
+  font-size: small;
+}
+
+/* Blog 'clear filter' button for taxonomy filter */
+.btn.clearFilter {
+    margin-top: 6em;
+    margin-bottom: -6em;
+    z-index: -1;
+    position:relative;
+}
+
+/* Allow button to be displayed over a Hero section */
+.btn, .button {
+    z-index: 1 !important;
+    position: relative !important;
+}
+
+/* Tighten spacing at bottom of Hero section */
+.hero {
+    padding-bottom: 6rem;
+    margin-bottom: -3rem;
+}

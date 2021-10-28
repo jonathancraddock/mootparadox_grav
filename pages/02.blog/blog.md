@@ -1,12 +1,5 @@
 ---
 title: Blog
-taxonomy:
-    category:
-        - test
-    tag:
-        - home
-        - blog
-        - test
 content:
     items:
         - '@self.children'
@@ -23,5 +16,3 @@ show_pagination: true
 Content for 'blog' section... hidden from page 2 onwards.
 
 Second paragraph.
-
-! Message in a box!
