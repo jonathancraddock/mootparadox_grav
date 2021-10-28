@@ -4,7 +4,7 @@ visible: false
 media_order: '00scafell.jpg,header.png'
 taxonomy:
     category:
-        - Hiking
+        - hiking
     tag:
         - 'scafell pike'
         - winter

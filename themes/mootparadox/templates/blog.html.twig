@@ -19,12 +19,20 @@
 
 
 {% block hero %}
+
     {% if uri.param('page') >= 2 %}
-        <!-- page 2+ -->
+        <!-- page 2+ ( {{uri.param('page')}}, {{uri.params}} ) -->
     {% else %}
         {% include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} %}
-        <!-- blog home -->
+        <!-- blog home ( {{uri.param('page')}}, {{uri.params}} ) -->
     {% endif %}
+
+    {% if uri.params|contains('category') or uri.params|contains('tag') %}
+        <!-- filtered -->
+    {% else %}
+        <!-- not-filtered -->
+    {% endif %}
+
 {% endblock %}
 
 
