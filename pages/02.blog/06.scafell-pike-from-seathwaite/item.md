@@ -1,7 +1,7 @@
 ---
 title: 'Scafell Pike from Seathwaite'
 visible: false
-media_order: 00scafell.jpg
+media_order: '00scafell.jpg,broad-crag-to-crinkles_av1f.jpg'
 taxonomy:
     category:
         - hiking
@@ -18,6 +18,8 @@ February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunsh
 !!!!(_Wainwright Book 4: The Southern Fells_)
 
 ===
+
+![broad-crag-to-crinkles_av1f](broad-crag-to-crinkles_av1f.jpg "Below Broad Crag and looking towards the Crinkles")
 
 > Of the many routes of approach to Scafell Pike, this, from Borrowdale via Esk Hause, is the finest. The transition from the quiet beauty of the valley pastures and woods to the rugged wilderness of the mountain top is complete, but comes gradually as height is gained...
 
@@ -82,4 +84,4 @@ I was very pleased with the kit I was wearing, including a new pair of bamboo le
 Judging by the change in the weather now, as we approach the end of February, I suspect this is going to be my only winter walk of the season, so I'm delighted it was a good one! Great fun, and I can highly recommend this route.
 
 > to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains
-> <div style="text-align: right">A.Wainwright</div>
+> <div style="text-align: right">A. Wainwright &nbsp;&nbsp;&nbsp;</div>
