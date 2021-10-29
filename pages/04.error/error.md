@@ -1,12 +1,10 @@
 ---
-title: error
+title: '404'
 visible: false
 routes:
     aliases:
         - /404
 ---
-
-# 404
 
 Probably not the page you're looking for... try the menu in the top navigation bar.
 
