@@ -1,7 +1,7 @@
 ---
 title: 'Scafell Pike from Seathwaite'
 visible: false
-media_order: '00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg'
+media_order: 'styhead-tarn-to-great-end_av1f.jpg,00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,calf-cove_av1f.jpg,scafell-pike-summit_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg,corridor-route-down_av1f.jpg'
 taxonomy:
     category:
         - hiking
@@ -49,6 +49,8 @@ It was around Ruddy Gill that the ice became more extensive. Up until that point
 
 The Grains Gill path joins the main Esk Hause to Sty Head route on a fairly level plateau below the north-face of Great End. Here the snow became deeper and more powdery on the surface. It made for some slow going most of the way to Ill Crag. I'd originally contemplated a detour up to Esk Pike, but wisely decided to head directly along the Scafell ridge.
 
+![calf-cove_av1f](calf-cove_av1f.jpg "Above the clouds from Calf Cove")
+
 > ...wishful thinkers will assume Ill Crag to be the summit - until the pike itself is finally revealed, indisputably higher and still farther distant across a waste of stones.
 
 Once onto the ridge, the going was considerably easier, with snow deep enough to completely smooth out the usually rocky terrain and, despite the lack of any companions on the mountain, the path appeared to be fairly well trodden. Having reached Ill Crag, the Scafell Pike summit is obvious and the hard work is over. It became an easy walk to the summit, with only a short climb following the drop down into the Broad Crag col.
@@ -59,6 +61,8 @@ At this point I was finding that snow cover within patches of almost black rock 
 
 I'm delighted to have visited Scafell Pike on such a perfect day and in relative solitude. There were a couple of people at the summit, and later a man on skis (with dog) arrived, looking rather warm.
 
+![scafell-pike-summit_av1f](scafell-pike-summit_av1f.jpg "Standing at the Scafell Pike trig point")
+
 > This is it: the Mecca of all weary pilgrims in Lakeland...
 
 The summit photo above was taken by Richard from the Keswick YHA, who it transpired was also planning a descent via the Corridor Route. It's not a route I was at all familiar with, in any conditions, and we ended up walking back to Seathwaite together - his extensive knowledge of the area and willingness to do a bit of impromptu guiding was much appreciated.
@@ -67,6 +71,8 @@ The summit photo above was taken by Richard from the Keswick YHA, who it transpi
 
 I'd highly recommend this route. I don't know why, but for some reason I had the impression it was just a convenient and easy alternative route over to Lingmell Col. I'm happy to say this is altogether wrong - it's an excellent route through some great mountain scenery. Personally I think better for descent than if I had reversed this route, but either way is probably good.
 
+![corridor-route-down_av1f](corridor-route-down_av1f.jpg "Looking down towards the Corridor Route")
+
 > The Corridor Route links grassy shelves on the very rough western flanks of Great End and Broad Crag and is, in fact, the one and only easy passage along this flank, which is deeply cut by ravines.
 
 The path is secure, but becomes narrow as you traverse around and over Stand Crag - due to the ravines below. So whilst it's not difficult, it might not be an ideal route if you dislike the sensation of having a steep drop-off to one side.
@@ -74,6 +80,8 @@ The path is secure, but becomes narrow as you traverse around and over Stand Cra
 #### Styhead Tarn to Seathwaite Farm
 
 I've used this same descent on two previous routes: Great Gable and Great End. There's little to add, but it's worth noting that the path became very icy as you progress down Styhead Gill, and the reputed more "interesting" path on the west side of the gill, via Taylorgill Force, looked treacherous in these conditions.
+
+![styhead-tarn-to-great-end_av1f](styhead-tarn-to-great-end_av1f.jpg "Great End seen across a frozen Styhead Tarn")
 
 > The ascent of Scafell Pike from Borrowdale is pre-eminent, because not only is the scenery excellent throughout, but there is the advantage of two interesting and well contrasted routes, so that one may be used in ascent and the alternative in descent, the whole round, in settled weather, being perhaps the finest mountain walk in the district.
 
