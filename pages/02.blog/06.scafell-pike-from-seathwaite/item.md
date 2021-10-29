@@ -1,7 +1,7 @@
 ---
 title: 'Scafell Pike from Seathwaite'
 visible: false
-media_order: 'styhead-tarn-to-great-end_av1f.jpg,scafell-from-scafell-pike_av1f.jpg,00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,calf-cove_av1f.jpg,scafell-pike-summit_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg,corridor-route-down_av1f.jpg'
+media_order: '00scafell.jpg,styhead-tarn-to-great-end_av1f.jpg,scafell-from-scafell-pike_av1f.jpg,broad-crag-to-crinkles_av1f.jpg,calf-cove_av1f.jpg,scafell-pike-summit_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg,corridor-route-down_av1f.jpg'
 taxonomy:
     category:
         - hiking
