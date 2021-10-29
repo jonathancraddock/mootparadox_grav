@@ -1,7 +1,7 @@
 ---
 title: 'Scafell Pike from Seathwaite'
 visible: false
-media_order: 'styhead-tarn-to-great-end_av1f.jpg,00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,calf-cove_av1f.jpg,scafell-pike-summit_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg,corridor-route-down_av1f.jpg'
+media_order: 'styhead-tarn-to-great-end_av1f.jpg,scafell-from-scafell-pike_av1f.jpg,00scafell.jpg,broad-crag-to-crinkles_av1f.jpg,calf-cove_av1f.jpg,scafell-pike-summit_av1f.jpg,great-end-from-ruddy-gill_av1f.jpg,corridor-route-down_av1f.jpg'
 taxonomy:
     category:
         - hiking
@@ -92,6 +92,8 @@ A little snow transforms the mountain landscape, and in these ideal conditions, 
 I was very pleased with the kit I was wearing, including a new pair of bamboo leggings under my Montane Terra trousers. Fantastic combination in the cold wind, and extremely comfortable. I was wearing a merino top, a Montane Fury fleece, and kept my Montane Lightspeed on for most of the day until it got a bit warmer, down near Sty Head col.
 
 Judging by the change in the weather now, as we approach the end of February, I suspect this is going to be my only winter walk of the season, so I'm delighted it was a good one! Great fun, and I can highly recommend this route.
+
+![scafell-from-scafell-pike_av1f](scafell-from-scafell-pike_av1f.jpg "Scafell seen from Scafell Pike")
 
 > to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains
 > <div style="text-align: right">A. Wainwright &nbsp;&nbsp;&nbsp;</div>
