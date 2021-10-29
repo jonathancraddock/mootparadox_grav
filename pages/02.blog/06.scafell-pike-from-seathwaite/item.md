@@ -27,7 +27,7 @@ February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunsh
 Park for free along the road to Seathwaite Farm. Follow the path through the farm and at Stockley Bridge, take the path that branches up Grains Gill, and at the head of Ruddy Gill, take the path for Esk Hause. Head for the distinctive X shaped shelter in Calf Cove and follow the ridge of Ill Crag, Broad Crag and Scafell Pike. Under a smooth cover of frozen snow, I presume this is somewhat different to the usual conditions; lots of rocky boulder hopping by the sounds of it! However, it looked pretty easy, and the only steep section is the drop into Broad Crag col and the subsequent short climb up to Scafell Pike.
 
 [View Full Screen](https://map.mootparadox.com/full/scafell-pike-seathwaite) | [GPX](https://map.mootparadox.com/gpx/scafell-pike-seathwaite)  
-<p><iframe src="https://map.mootparadox.com/embed/scafell-pike-seathwaite" height="500" width="100%" style="border:none;"></iframe></p>
+<p><iframe src="https://map.mootparadox.com/embed/scafell-pike-seathwaite" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Some care needs to be taken in your navigation down from the summit, and the easiest option in these conditions seemed to be returning to Broad Crag col and following the gully down to the north-west, joining the Corridor Route east of Piers Gill. This was a fairly steep descent in mostly 30-40cm of snow - I guess might be a bit of a scree slope in summer. I'd definitely not appreciated how good the Corridor Route actually is. It's easy going, contouring around the flanks of Broad Crag and Great End, and offers fantastic views in every direction. I think it might also be the easiest route back to Sty Head.
 
