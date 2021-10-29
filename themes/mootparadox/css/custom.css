@@ -125,3 +125,8 @@ h1, h2, h3, h4, h5, h6 {
 p {
     font-size: medium;
 }
+
+/* Fade links in footer */
+#footer a, #footer a:visited, #footer a:focus, #footer a:hover {
+  color: #126bd99c;
+}
