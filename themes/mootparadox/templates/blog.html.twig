@@ -19,21 +19,22 @@
 
 
 {% block hero %}
-
     {% if uri.params|contains('category') or uri.params|contains('tag') %}
+
         <!-- filtered -->
         <section class="container grid-lg"><a href="/blog" class="btn clearFilter"><i class="icon icon-cross"></i>clear filters</a></section>
+
     {% else %}
+
         <!-- not-filtered -->
-    {% endif %}
+        {% if uri.param('page') >= 2 %}
+            <!-- page 2+ ( {{uri.param('page')}}, {{uri.params}} ) -->
+        {% else %}
+            {% include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content} %}
+            <!-- blog home ( {{uri.param('page')}}, {{uri.params}} ) -->
+        {% endif %}
 
-    {% if uri.param('page') >= 2 %}
-        <!-- page 2+ ( {{uri.param('page')}}, {{uri.params}} ) -->
-    {% else %}
-        {% include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content} %}
-        <!-- blog home ( {{uri.param('page')}}, {{uri.params}} ) -->
     {% endif %}
-
 {% endblock %}
 
 

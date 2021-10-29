@@ -4,12 +4,10 @@
         {{ content|raw }}
     </section>
 
-<section class="taxonomyCats">
-
-{% include 'partials/taxonomylist.html.twig' with {base_url: '/blog', taxonomy: 'category'} %}
-
-</section>
-
+    <section class="taxonomyCats">
+        {# display list of taxonomy categories at the start of the blog listing page, below hero #}
+        {% include 'partials/taxonomylist.html.twig' with {base_url: '/blog', taxonomy: 'category'} %}
+    </section>
 
     <i id="to-start" class="pulse fa fa-angle-down"></i>
 </section>

@@ -13,6 +13,4 @@ show_sidebar: false
 show_pagination: true
 ---
 
-Content for 'blog' section... hidden from page 2 onwards.
-
-Second paragraph.
+The **category** tags below will filter blog posts by topic...
