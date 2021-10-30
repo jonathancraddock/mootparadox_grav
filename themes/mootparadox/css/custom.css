@@ -55,11 +55,11 @@ a:visited {
 /* Tighten up margins on  blog cards */
 
 .blog-listing .bricklayer-column {
-    padding-right: 5px;
-    padding-left: 5px; }
+  padding-right: 5px;
+  padding-left: 5px; }
 
 .blog-listing .card {
-    margin-bottom: 10px; }
+  margin-bottom: 20px; }
 
 /* Grey background on blockquote */
 blockquote {
@@ -85,28 +85,41 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Used by 'links' on blog listing page, increase by .2rem */
 .h5, h5 {
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 
 /* Larger 'category' taxonomy tags */
 .taxonomyCats .tags .label {
-  background-color: #c2e7f2;
-  margin: 5px;
-  border-radius: 4px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #99d1e1;
-  font-weight: bold;
+  background-color: #fff;
+  margin: 1px;
+  border-radius: .1rem;
+  font-weight: normal;
   font-size: small;
+  border: .05rem solid #3085eee6;
+  color: #3085eee6;
+  text-align: center;
+  transition: background .2s,border .2s,box-shadow .2s,color .2s;
+  cursor: pointer;
+  height: 1.8rem;
+  font-size: .8rem;
+  line-height: 1.2rem;
+  display: inline-block;
+  padding-top: 0.15rem;
+}
+
+.taxonomyCats .tags .label:focus, .taxonomyCats .tags .label:hover {
+  text-decoration: none;
+  border-color: #227ded;
+  background: #e1edfd;
 }
 
 /* Blog 'clear filter' button for taxonomy filter */
 .btn.clearFilter {
-    margin-top: 6em;
-    margin-bottom: -6em;
-    z-index: -1;
-    position:relative;
+  margin-top: 6em;
+  margin-bottom: -6em;
+  z-index: -1;
+  position:relative;
 }
 
 /* Allow button to be displayed over a Hero section */
@@ -130,3 +143,11 @@ p {
 #footer a, #footer a:visited, #footer a:focus, #footer a:hover {
   color: #126bd99c;
 }
+
+hr {
+  border: solid #e6e6e6;
+  border-width: 1px 0 0 0;
+  width: 85%;
+  margin-top: 1.2em;
+}
+
