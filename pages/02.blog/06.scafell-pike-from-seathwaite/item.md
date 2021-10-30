@@ -22,7 +22,7 @@ February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunsh
 
 > Of the many routes of approach to Scafell Pike, this, from Borrowdale via Esk Hause, is the finest. The transition from the quiet beauty of the valley pastures and woods to the rugged wilderness of the mountain top is complete, but comes gradually as height is gained...
 
-#### Route Summary
+### Route Summary
 
 Park for free along the road to Seathwaite Farm. Follow the path through the farm and at Stockley Bridge, take the path that branches up Grains Gill, and at the head of Ruddy Gill, take the path for Esk Hause. Head for the distinctive X shaped shelter in Calf Cove and follow the ridge of Ill Crag, Broad Crag and Scafell Pike. Under a smooth cover of frozen snow, I presume this is somewhat different to the usual conditions; lots of rocky boulder hopping by the sounds of it! However, it looked pretty easy, and the only steep section is the drop into Broad Crag col and the subsequent short climb up to Scafell Pike.
 
@@ -33,7 +33,7 @@ Some care needs to be taken in your navigation down from the summit, and the eas
 
 In these conditions, crampons (or Pogu Spikes, which proved fine for my purposes) were extremely helpful from around Ruddy Gill, and I did not remove them until about 1km from Sty Head on the descent.
 
-#### Seathwaite Farm to Ruddy Gill
+### Seathwaite Farm to Ruddy Gill
 
 For such fantastic conditions, the road to Seathwaite Farm was almost empty, with only about a dozen cars parked. Not being a natural early riser, this is probably the closest parking spot I'll ever find at this location. Great End seems to be a popular destination for winter climbing, it's northern face holding the ice, but keep in mind this virtue also applies to some of the approach routes, and you may encounter icy conditions on the path along Grains Gill; see photo below. Remember the scouting motto, and "be prepared".
 
@@ -47,7 +47,7 @@ This section of the walk, along Grains Gill before emerging into the sunshine wa
 
 It was around Ruddy Gill that the ice became more extensive. Up until that point boots were fine and it was easy to navigate around any icy sections. Even at this fairly low level, probably due to the shady aspect, the path was not safe without spikes or crampons.
 
-#### Esk Hause to Broad Crag
+### Esk Hause to Broad Crag
 
 The Grains Gill path joins the main Esk Hause to Sty Head route on a fairly level plateau below the north-face of Great End. Here the snow became deeper and more powdery on the surface. It made for some slow going most of the way to Ill Crag. I'd originally contemplated a detour up to Esk Pike, but wisely decided to head directly along the Scafell ridge.
 
@@ -59,7 +59,7 @@ Once onto the ridge, the going was considerably easier, with snow deep enough to
 
 At this point I was finding that snow cover within patches of almost black rock creates a bit of an optical illusion. From Broad Crag the climb on the Scafell Pike side looked almost impossibly steep, but is actually not very steep once you're onto it.
 
-#### Scafell Pike
+### Scafell Pike
 
 I'm delighted to have visited Scafell Pike on such a perfect day and in relative solitude. There were a couple of people at the summit, and later a man on skis (with dog) arrived, looking rather warm.
 
@@ -69,7 +69,7 @@ I'm delighted to have visited Scafell Pike on such a perfect day and in relative
 
 The summit photo above was taken by Richard from the Keswick YHA, who it transpired was also planning a descent via the Corridor Route. It's not a route I was at all familiar with, in any conditions, and we ended up walking back to Seathwaite together - his extensive knowledge of the area and willingness to do a bit of impromptu guiding was much appreciated.
 
-#### The Corridor Route
+### The Corridor Route
 
 I'd highly recommend this route. I don't know why, but for some reason I had the impression it was just a convenient and easy alternative route over to Lingmell Col. I'm happy to say this is altogether wrong - it's an excellent route through some great mountain scenery. Personally I think better for descent than if I had reversed this route, but either way is probably good.
 
@@ -79,7 +79,7 @@ I'd highly recommend this route. I don't know why, but for some reason I had the
 
 The path is secure, but becomes narrow as you traverse around and over Stand Crag - due to the ravines below. So whilst it's not difficult, it might not be an ideal route if you dislike the sensation of having a steep drop-off to one side.
 
-#### Styhead Tarn to Seathwaite Farm
+### Styhead Tarn to Seathwaite Farm
 
 I've used this same descent on two previous routes: Great Gable and Great End. There's little to add, but it's worth noting that the path became very icy as you progress down Styhead Gill, and the reputed more "interesting" path on the west side of the gill, via Taylorgill Force, looked treacherous in these conditions.
 
@@ -87,7 +87,7 @@ I've used this same descent on two previous routes: Great Gable and Great End. T
 
 > The ascent of Scafell Pike from Borrowdale is pre-eminent, because not only is the scenery excellent throughout, but there is the advantage of two interesting and well contrasted routes, so that one may be used in ascent and the alternative in descent, the whole round, in settled weather, being perhaps the finest mountain walk in the district.
 
-#### Summary
+### Summary
 
 A little snow transforms the mountain landscape, and in these ideal conditions, my message - get out and enjoy it, but be equipped to deal with icy paths and choose a sensible route. Even on this short and easy route, you still get to feel like an Alpiniste for the day!
 
