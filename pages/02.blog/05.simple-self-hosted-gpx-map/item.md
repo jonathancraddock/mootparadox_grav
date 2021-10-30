@@ -24,19 +24,17 @@ to embed a map/GPX route into a blog post in plain and simple fashion. I wanted 
 option to go full screen, and by "full screen" I meant actual full screen in a literal
 sense, not a postage stamp sized map in an ugly looking box, surrounded by useless clutter.
 
+I'm talking about a coloured line displayed on top of a map. There is no requirement for cookies, advertising, intrusive tracking, social media logins, licensing fees, pop-up messages, in-your-face invitations to sign up for stuff you don't need, or any other annoyances.
+
 ===
 
 ### Pennine Way, Bowlees to Dufton
 
-The map below shows a short (but very worthy) section of the Pennine Way from Bowlees 
+As an example, the map below shows a short (but very worthy) section of the Pennine Way from Bowlees 
 to Dufton via Cow Green and High Cup Nick.
 
-<p>
-
 [View Full Screen](https://map.mootparadox.com/full/bowleesdufton) | [GPX](https://map.mootparadox.com/gpx/bowleesdufton)  
-<iframe src="https://map.mootparadox.com/embed/bowleesdufton"
-        height="500" width="100%" style="border:none;">
-</iframe></p>
+<p><iframe src="https://map.mootparadox.com/embed/bowleesdufton" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 On a mobile you have to scroll using the edge of the page, and maybe that's not perfect, 
 but I hate being told to
