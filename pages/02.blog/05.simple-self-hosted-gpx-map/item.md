@@ -6,8 +6,9 @@ taxonomy:
         - coding
     tag:
         - code
-        - test
-        - syntax
+        - javascript
+        - map
+        - self-hosted
 routes:
     aliases:
         - /coding/test
@@ -23,7 +24,7 @@ to embed a map/GPX route into a blog post in plain and simple fashion. I wanted 
 option to go full screen, and by "full screen" I meant actual full screen in a literal
 sense, not a postage stamp sized map in an ugly looking box, surrounded by useless clutter.
 
----
+===
 
 ### Pennine Way, Bowlees to Dufton
 
