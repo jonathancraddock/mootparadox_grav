@@ -17,6 +17,8 @@ To give it some purpose, I intend to embark on some Wainwright bagging, with a v
 
 ![souther-fell_avif](souther-fell_avif.jpg "souther-fell_avif")
 
+> Souther Fell [...] occupies an important position as a cornerstone of the northern fells, having an extensive view out of proportion to its modest height.
+
 The mountain forecast was 10 degrees on the tops, a 50% chance of rain, and gusty south-easterly winds. I soon began to think that this was a somewhat optimistic appraisal of the conditions. I parked at Mungrisdale village (2 in the honesty box) and began walking in a very light drizzle. My route up Souther Fell was a mistake. I chose possibly the least interesting route though boggy ground, waist deep in bracken. If I do this again, I'd try to get higher up and walk more along the ridge of the fell. But in any event, after a bit of a slog, got up to the top and ticked off Wainwright number 1. That's probably why I was looking so cheerful at this point; although wind and holding the camera at arms length didn't help!
 
 The photos don't do much justice to the views, which were very nice, looking over in the direction of Ullswater, seeing the distinctive shape of Great Mell Fell and the jagged edge of Wolf Crags in the direction of Great Dodd. To the west there would have been great views into Bannerdale Crags and later towards Blencathra itself. Sadly these were mostly hidden by low cloud, but at this stage I was seeing some brightness and had a feeling the cloud might lift.
