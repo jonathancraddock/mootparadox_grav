@@ -22,7 +22,7 @@ to embed a map/GPX route into a blog post in plain and simple fashion. I wanted 
 option to go full screen, and by "full screen" I meant actual full screen in a literal
 sense, not a postage stamp sized map in an ugly looking box, surrounded by useless clutter.
 
-I'm talking about a coloured line displayed on top of a map. There is no requirement for cookies, advertising, intrusive tracking, social media logins, licensing fees, pop-up messages, in-your-face invitations to sign up for stuff you don't need, or any other annoyances.
+I'm talking about a coloured line displayed on top of a map, so there is no conceivable requirement for cookies, advertising, intrusive tracking, social media logins, licensing fees, pop-up messages, in-your-face invitations to sign up for stuff nobody needs, or any other annoyances.
 
 ===
 
