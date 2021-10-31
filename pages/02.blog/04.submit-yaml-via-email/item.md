@@ -5,7 +5,7 @@ visible: false
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file...
 
-^- *note to self, it breaks the image links, but the rest looks ok.*
+^- *note to self, it breaks the image links (replaced them below with temporary markers), but the rest looks ok.*
 
 ===
 
@@ -27,11 +27,11 @@ return msg;
 ```
 ^- *initial test script to prove the `indexOf` combo!*
 
-![](https://github.com/jonathancraddock/Jitbit-Custom/blob/9a080ab923b42a99ad7cfcd7736c8ae2a40998f6/screencap/jitbit-post-yaml.png)
+IMG?
 
 Jitbit automation rule triggers an HTTP POST when a new ticket is created in a specified category.
 
-![](https://github.com/jonathancraddock/Jitbit-Custom/blob/84fba9338730ef51c56dfde7c988fdc8f03cf94d/screencap/nodered-yaml-to-custom.png)
+IMG?
 
 Grab the ticket ID and extract the block of YAML.
 
@@ -60,7 +60,7 @@ return msg;
 
 Using the NodeRED YAML-node to turn that into a JSON object makes it easy to pick up the values required for the custom field data.
 
-![](https://github.com/jonathancraddock/Jitbit-Custom/blob/4f9674d78a98121728b1e8d940b43d7b0aee7436/screencap/yaml-to-json.png)
+IMG?
 
 ```javascript
 // Set values
@@ -83,10 +83,10 @@ return msg;
 
 In this first test case, the email was sent as follows:
 
-![](https://github.com/jonathancraddock/Jitbit-Custom/blob/f7568ae69943477344d35a40c8cbec7987950034/screencap/yaml-email-example.png)
+IMG?
 
 And the fields are populated almost immediately:
 
-![](https://github.com/jonathancraddock/Jitbit-Custom/blob/b15694b179c750294337e550294e5f679dbd2964/screencap/yaml-custom-fields-filled.png)
+IMG?
 
 A niche requirement perhaps, but could be handy if there's a requirement to accept data from a 3rd party who can't directly call the API, or you might be able to use it to accept customised data via an external web-form; perhaps a security requirement is that it literally can't interact with the API.
