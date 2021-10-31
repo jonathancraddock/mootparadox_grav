@@ -5,13 +5,13 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'Carrock Fell'
-        - 'High Pike'
-        - 'Great Sca Fell'
-        - Knott
-        - Cumbria
-        - 'Lake District'
-        - 'Northern Fells'
+        - 'carrock fell'
+        - 'high pike'
+        - 'great sca fell'
+        - knott
+        - cumbria
+        - 'lake district'
+        - 'northern fells'
 ---
 
 If I could keep up a rate of 8 Wainwrights per week, this process will not take long! Saturday 14th added four more to the total, those being Carrock Fell, High Pike, Great Sca Fell, and Knott. According to the GPS track, this is 20km and took about 6 hours. Main downside to the route is my choice of parking, which meant the walk ended with about 5km along tarmac.
