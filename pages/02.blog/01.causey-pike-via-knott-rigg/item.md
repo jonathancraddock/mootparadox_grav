@@ -36,9 +36,9 @@ Park at the large layby below Causey Pike and Barrow, marked "Uzzicar" on the OS
 
 This is an easy 12km walk, around 950 metres of total ascent. Allow between 4 and 5 hours.
 
-Wainwright, Book 6: North Western Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
-Map:
-Carpark to Knott Rigg and Ard Crags
+Map: ?
+
+### Carpark to Knott Rigg and Ard Crags
 
 In planning routes, I try and avoid too much walking on roads at the end of the day; always seems nicer to come off the fell and be somewhere close to the car. Unfortunately, today this meant a long initial walk along road to reach the start point, at Keskadale Farm.
 
@@ -86,3 +86,6 @@ A raised zig-zag path to Sail      Pacer Poles on the climb to Knott Rigg
 Zig-zag path to Sail (left) and Pacer Poles on climb to Knott Rigg (right).
 
 In the two images above, you see the strangely elevated zig-zag paths, which seem to be something of a trademark between Sail and Scar Crags. In the right image, my new Pacer Poles - which will be the subject of a future post. An excellent product (originally recommended by Steven Horner) and I would encourage anyone to give them a try.
+
+> "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> <div style="text-align: right">A. Wainwright &nbsp;</div>
