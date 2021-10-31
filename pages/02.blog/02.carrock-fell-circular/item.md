@@ -12,7 +12,7 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'northern fells'
-media_order: 'high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg,roughton-gill_avif.jpg,00carrock_avif.jpg,river-caldew_avif.jpg,river-caldew-valley_avif.jpg,east-carrock-fell_avif.jpg'
+media_order: '00carrock_avif.jpg,high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg,roughton-gill_avif.jpg,river-caldew_avif.jpg,river-caldew-valley_avif.jpg,east-carrock-fell_avif.jpg'
 ---
 
 If I could keep up a rate of 8 Wainwrights per week, this process will not take long! Saturday 14th added four more to the total, those being Carrock Fell, High Pike, Great Sca Fell, and Knott. According to the GPS track, this is 20km and took about 6 hours. Main downside to the route is my choice of parking, which meant the walk ended with about 5km along tarmac.
