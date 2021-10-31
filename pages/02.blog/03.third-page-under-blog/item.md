@@ -6,9 +6,11 @@ media_order: 'bowscale-fell_avif.jpg,bowscale-fell-descent_avif.jpg,souther-fell
 
 Monday 9th August, 2010, marked my return to the Lake District fells after an absence of about 19 years. Half a lifetime ago, my Duke of Edinburgh expedition for the Gold award, marked my last hill walking of any significance. It was a revelation to me that you don't need to carry a 20kg pack any more and I finally succumbed to the lure of the hills.
 
-To give it some purpose, I intend to embark on some Wainwright bagging, with a view to clocking up all 214. I'm ignoring the few dozen I'll have done in the past, starting with a clean slate. As of Monday, the total stands at 4. These being Souther Fell, Blencathra, Bannerdale Crags and Bowscale Fell.
+!!!! A 16km circular route, starting from Mungrisdale village. (_Wainwright Book 5: The Northern Fells_)
 
 ===
+
+To give it some purpose, I intend to embark on some Wainwright bagging, with a view to clocking up all 214. I'm ignoring the few dozen I'll have done in the past, starting with a clean slate. As of Monday, the total stands at four. These being Souther Fell, Blencathra, Bannerdale Crags and Bowscale Fell.
 
 ![souther-fell_avif](souther-fell_avif.jpg "souther-fell_avif")
 
