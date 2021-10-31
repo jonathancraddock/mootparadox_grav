@@ -45,6 +45,8 @@ The cloud never lifted from the summit of Blencathra throughout the entire journ
 
 ![blencathra-and-sharp-edge_avif](blencathra-and-sharp-edge_avif.jpg "blencathra-and-sharp-edge_avif")
 
+> ...a rocky spur goes off to the east, this latter being the well know Sharp Edge, second in fame to Striding Edge on Helvellyn as a test for walkers.
+
 Bannerdale Crags was the next Wainwright en route. After the slightly surreal and yet strangely distubing sight of watching a sheep plummet to a presumably certain death, I was imbued with a healthy respect for the edge of the crags and took ample care while taking some photographs down into the valley. The views were fascinating down into a classic glacial valley; wide and flat, the sun picking out the summit of Souther Fell below.
 
 ![bannerdale-crags-east-ridge_avif](bannerdale-crags-east-ridge_avif.jpg "bannerdale-crags-east-ridge_avif")
