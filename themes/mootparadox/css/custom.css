@@ -144,10 +144,26 @@ p {
   color: #126bd99c;
 }
 
+/* Create a subtle horizontal rule */
 hr {
   border: solid #e6e6e6;
   border-width: 1px 0 0 0;
   width: 85%;
   margin-top: 1.2em;
+}
+
+/* Balance the text inside of a 'notices' panel */
+.notices {
+    padding: 0.1rem 0.5rem 0.1rem 1rem;
+}
+
+.notices p {
+    margin: 0.6rem 0;
+}
+
+/* Faded green-grey background to code blocks */
+.hljs {
+    background: #E5F0DF69;
+    border-radius: 8px;
 }
 
