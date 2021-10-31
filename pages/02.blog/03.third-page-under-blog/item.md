@@ -53,6 +53,8 @@ Bannerdale Crags was the next Wainwright en route. After the slightly surreal an
 
 The photo above shows the East ridge of Bannerdale Crags and looks like a nice ascent for another day.
 
+> Bannerdale Crads, to be appreciated fully, should be approached from the pleasant village of Mungrisdale, for only in this direction, eastwards, is revealed the mile-long rim of cliffs that gives the fell a name...
+
 It was an easy walk to Bowscale Fell over wet ground. A mile or so of squelching along saw me to the summit cairn. Even more significantly, my first view of a fellow human being! There were three of them, a couple of miles away, but it was the closest I came to having company on the fells throughout the entire day.
 
 ![bowscale-fell_avif](bowscale-fell_avif.jpg "bowscale-fell_avif")
