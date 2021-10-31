@@ -2,7 +2,7 @@
 title: 'Causey Pike via Knott Rigg'
 visible: false
 date: '26-10-2021 18:11'
-media_order: 'view-from-knott-rigg_avif.jpg,knott-rigg-towards-ard-crags_avif.jpg,causey-pike_avif.jpg'
+media_order: 'causey-pike_avif.jpg,view-from-knott-rigg_avif.jpg,knott-rigg-towards-ard-crags_avif.jpg'
 taxonomy:
     category:
         - hiking
@@ -15,8 +15,6 @@ taxonomy:
         - 'ard crags'
         - 'scar crags'
 ---
-
-Causey Pike via Knott Rigg (12km)
 
 I chose another short route for this walk on Wednesday 26th January. Next one might need to be a bit longer to avoid developing a reputation for being the wrong type of lightweight!
 
