@@ -5,7 +5,9 @@ visible: false
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file...
 
-=====
+^- *note to self, it breaks the image links, but the rest looks ok.*
+
+===
 
 **Experiment to pull a block of YAML data from an email, and write it to custom fields.**
 
