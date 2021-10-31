@@ -15,8 +15,6 @@ routes:
 date: '27-10-2021 12:30'
 ---
 
-## Simple Self-Hosted GPX Map
-
 My aim was simple. And perhaps it was *too* simple.
 
 I wanted an open-source mapping solution that would allow me 
@@ -74,7 +72,7 @@ RewriteRule ^gpx/([A-Za-z0-9-]+)/?$ download.php?map=$1 [NC,L]
 A GPX file named "bowleesdufton.gpx" simply ends up with the route `./gpx/bowleesdufton`, and 
 similarly `./full/bowleesdufton` or `./embed/bowleesdufton` for the corresponding map.
 
-> Remember some kind of 404 behaviour. In my implementation I cuurently have
+> Remember some kind of 404 behaviour. In my implementation I currently have
 > unroutable requests dropping the user into a default blank map. (Is that the best
 > outcome?)
 
