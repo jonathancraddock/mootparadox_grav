@@ -3,6 +3,17 @@ title: 'Causey Pike via Knott Rigg'
 visible: false
 date: '26-10-2021 18:11'
 media_order: 'view-from-knott-rigg_avif.jpg,knott-rigg-towards-ard-crags_avif.jpg,causey-pike_avif.jpg'
+taxonomy:
+    category:
+        - hiking
+    tag:
+        - 'causey pike'
+        - 'knott rigg'
+        - cumbria
+        - 'lake district'
+        - 'north western fells'
+        - 'ard crags'
+        - 'scar crags'
 ---
 
 Causey Pike via Knott Rigg (12km)
@@ -13,8 +24,7 @@ I chose another short route for this walk on Wednesday 26th January. Next one mi
 
 ===
 
-Causey Pike from below Scar Crags
-Mist on Causey Pike and sun on the Northern Fells
+![causey-pike_avif](causey-pike_avif.jpg "causey-pike_avif")
 
 The route plan was a bit of a compromise involving a 5km walk in along road to get to my chosen start point; the advantage being that the car was parked right at the bottom of Causey Pike. It set me off on a route covering four Wainwrights of the North Western Fells, from Knott Rigg (556m) to Ard Crags (581m), a short descent to a col between Sail Beck and Rigg Beck, before climbing back up to Scar Crags (672m) and Causey Pike (637m).
 
@@ -23,8 +33,7 @@ Route Summary
 
 Park at the large layby below Causey Pike and Barrow, marked "Uzzicar" on the OS map. Head south along the road towards Buttermere. At "Keskadale Farm" take the path up the south side of the ridge between Knott Rigg and Ard Crags. It's an easy path through heather covered slopes. The path leads directly to the summit of Knott Rigg and it's a short walk along the ridge to Ard Crags. The drop to the south is precipitous, but there's a gentle gradient to the north - so although there's no marked path, it's an easy climb down to the col, and another gentle climb up to Scar Crags. This second section of ridge leads to Causey Pike. Bear in mind there's a bit of a steep scramble down from the summit and it could be slippery when wet, but there's no exposure if you stick to the main path.
 
-View from Knott Rigg towards Ard Crags, Scar Crags and Causey Pike behind
-View from Knott Rigg to Ard Crags, with Scar Crags and Causey Pike in background.
+![knott-rigg-towards-ard-crags_avif](knott-rigg-towards-ard-crags_avif.jpg "knott-rigg-towards-ard-crags_avif")
 
 This is an easy 12km walk, around 950 metres of total ascent. Allow between 4 and 5 hours.
 
@@ -34,8 +43,7 @@ Carpark to Knott Rigg and Ard Crags
 
 In planning routes, I try and avoid too much walking on roads at the end of the day; always seems nicer to come off the fell and be somewhere close to the car. Unfortunately, today this meant a long initial walk along road to reach the start point, at Keskadale Farm.
 
-View from below east ridge of Knott Rigg
-Looking back from the climb to the summit of Knott Rigg.
+![view-from-knott-rigg_avif](view-from-knott-rigg_avif.jpg "view-from-knott-rigg_avif")
 
 The path stays below the peak of the ridge, offering a nice easy gradient through deep heather. You emerge from the heather onto a gentle grassy area (image below left) before gaining the ridge. There are some steep cliffs to the south, with mostly grassy slopes to the north; although here too it's steep in places.
 
