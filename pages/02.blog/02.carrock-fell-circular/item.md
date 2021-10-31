@@ -7,9 +7,12 @@ If I could keep up a rate of 8 Wainwrights per week, this process will not take 
 
 !!!! An easy 20km circular route, starting north of Mosedale village. (_Wainwright Book 5: The Northern Fells_)
 
+The finish on tarmac was a bit of an anti-climax, although I did pass a convoy of three old style gypsy caravans on the way. I said hello, and the guy on the middle caravan asked me if there was anyone at the swimming hole. Couldn't honestly say I'd seen a swimming hole, so I just said no - seemed a fairly safe assumption - so hopefully I wasn't proved wrong when they arrived at wherever it was.
+
 ===
 
-The finish on tarmac was a bit of an anti-climax, although I did pass a convoy of three old style gypsy caravans on the way. I said hello, and the guy on the middle caravan asked me if there was anyone at the swimming hole. Couldn't honestly say I'd seen a swimming hole, so I just said no - seemed a fairly safe assumption - so hopefully I wasn't proved wrong when they arrived at wherever it was.
+[View Full Screen](https://map.mootparadox.com/full/carrock-20k-loop) | [GPX](https://map.mootparadox.com/gpx/carrock-20k-loop)  
+<p><iframe src="https://map.mootparadox.com/embed/carrock-20k-loop" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 My plan was to climb Carrock Fell from the east and follow the ridge to High Pike. Then, dropping down to Great Lingly Hill and working my way around to Knott, via Great Sca Fell. Being a fairly elongated loop, it could have been easily cut short at several points.
 
