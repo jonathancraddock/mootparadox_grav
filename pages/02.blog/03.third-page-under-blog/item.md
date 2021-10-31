@@ -63,7 +63,9 @@ I'd conquered my first four Wainwrights, and will be happy to return to Blencath
 
 ![bowscale-fell-descent_avif](bowscale-fell-descent_avif.jpg "bowscale-fell-descent_avif")
 
-The final drop back to Mungrisdale is particularly steep, down a crumbling gravel path. Trekking pole is essential!
+The final drop back to Mungrisdale is particularly steep, down a crumbling gravel path. A good trekking pole will come in handy!
+
+> Best of all is the east ridge. Climbing starts at once over a pleasant alp of gorse and bracken and grey rock, after which there is a gentle rise to the heathery ridge.
 
 And so to gear. This was my first walk in a long time and I'd bought new waterproofs; a Rab Latok Alpine jacket and Berghaus Paclite overtrousers. Both were excellent, no trace of condensation, apart from the camera and GPS in the inside mesh pockets. GPS is waterproof but the camera issue is going to need a better solution. The Paclite pants were light and allowed for plenty of movement. I ended up wearing them most of the day, with no real need to remove them.
 
