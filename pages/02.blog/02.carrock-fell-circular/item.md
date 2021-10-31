@@ -12,6 +12,7 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'northern fells'
+media_order: '00carrock_avif.jpg,roughton-gill_avif.jpg,river-caldew-valley_avif.jpg,river-caldew_avif.jpg,east-carrock-fell_avif.jpg,high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg'
 ---
 
 If I could keep up a rate of 8 Wainwrights per week, this process will not take long! Saturday 14th added four more to the total, those being Carrock Fell, High Pike, Great Sca Fell, and Knott. According to the GPS track, this is 20km and took about 6 hours. Main downside to the route is my choice of parking, which meant the walk ended with about 5km along tarmac.
@@ -27,11 +28,11 @@ The finish on tarmac was a bit of an anti-climax, although I did pass a convoy o
 
 My plan was to climb Carrock Fell from the east and follow the ridge to High Pike. Then, dropping down to Great Lingly Hill and working my way around to Knott, via Great Sca Fell. Being a fairly elongated loop, it could have been easily cut short at several points.
 
-Ascent of Carrock Fell from the east
+![east-carrock-fell_avif](east-carrock-fell_avif.jpg "east-carrock-fell_avif")
 
 My car is visible in the picture above, as a tiny blue dot middle right of the photo. I had a quick glance back to make sure I'd locked the passenger door (yes, the button was pushed down) before making my way across some rocky scree and into Further Gill Sike. It was steep, but fairly easy path, taking care where the path edges were giving way.
 
-At the summit of Carrock Fell
+![00carrock_avif](00carrock_avif.jpg "00carrock_avif")
 
 It was worth a slight detour to the North which provided some nice views down towards Carrock Beck, then an easy walk to a well constructed summit cairn. It sits on a rocky outcrop, and to the southerly side, someone had laid a couple of flat rocks to form a sheltered seat. A good spot for lunch with views of Bowscale and the clouds that were still hiding the summit of Blencathra.
 
