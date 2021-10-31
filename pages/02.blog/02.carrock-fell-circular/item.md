@@ -12,7 +12,7 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'northern fells'
-media_order: '00carrock_avif.jpg,roughton-gill_avif.jpg,river-caldew-valley_avif.jpg,river-caldew_avif.jpg,east-carrock-fell_avif.jpg,high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg'
+media_order: 'high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg,roughton-gill_avif.jpg,00carrock_avif.jpg,river-caldew_avif.jpg,river-caldew-valley_avif.jpg,east-carrock-fell_avif.jpg'
 ---
 
 If I could keep up a rate of 8 Wainwrights per week, this process will not take long! Saturday 14th added four more to the total, those being Carrock Fell, High Pike, Great Sca Fell, and Knott. According to the GPS track, this is 20km and took about 6 hours. Main downside to the route is my choice of parking, which meant the walk ended with about 5km along tarmac.
@@ -32,29 +32,27 @@ My plan was to climb Carrock Fell from the east and follow the ridge to High Pik
 
 My car is visible in the picture above, as a tiny blue dot middle right of the photo. I had a quick glance back to make sure I'd locked the passenger door (yes, the button was pushed down) before making my way across some rocky scree and into Further Gill Sike. It was steep, but fairly easy path, taking care where the path edges were giving way.
 
-![00carrock_avif](00carrock_avif.jpg "00carrock_avif")
+![carrock-fell-summit_avif](carrock-fell-summit_avif.jpg "carrock-fell-summit_avif")
 
 It was worth a slight detour to the North which provided some nice views down towards Carrock Beck, then an easy walk to a well constructed summit cairn. It sits on a rocky outcrop, and to the southerly side, someone had laid a couple of flat rocks to form a sheltered seat. A good spot for lunch with views of Bowscale and the clouds that were still hiding the summit of Blencathra.
 
-View from High Pike
+![high-pike-towards-blencathra_avif](high-pike-towards-blencathra_avif.jpg "high-pike-towards-blencathra_avif")
 
 Squelching along through wet peat was the main order of the day. It was a trifle moist underfoot. Passed a couple of people on the way towards High Pike, and there were six people at the summit, although they seemed to take one look at my hat and promptly departed. View above is from the summit cairn. Skiddaw in the distance, looking across Great (and Little) Lingly Hill, Knott, and I think top of Great Calva is just visible at the left.
 
-View down to Roughton Gill from Little Lingly Hill
+![roughton-gill_avif](roughton-gill_avif.jpg "roughton-gill_avif")
 
 From Little Lingley Hill, you have views into the deceptively steep sided gully that is Roughton Gill. It's not very clear in these photos, but there were reasonable view throughout the day down to the Solway Firth, although a bit hazy with the cloud. This could be a nice ascent, and one to add on the to-do list for another time.
 
-View of Knott from the Great Sca Fell summit cairn
-
 From the cairn at the summit of Great Sca Fell, this is the view of Knott. Not the most exciting mountain in the world, but great views of Blencathra and Skiddaw. Along the way I passed someone else who said "I'm on my way to Knott. Is that the summit?" I checked my GPS and said "It's Knott". He looked a bit disappointed and walked off. Was it something I said?
 
-On the way back to Mosedale
+![river-caldew-valley_avif](river-caldew-valley_avif.jpg "river-caldew-valley_avif")
 
 The weather was really starting to improve as I descended from Knott back down towards Mosedale. I followed the course of Grainsgill Beck, stopping for a rest on a large boulder, watching a yellow helicopter flying back and forth. Hopefully they were keeping an eye out for the paragliders that were everywhere as I climbed down. Blended paraglider can't be a pretty sight!
 
-Looking to Bowscale Tarn
+![river-caldew_avif](river-caldew_avif.jpg "river-caldew_avif")
 
-You might just be able to see a new moon above Bowscale Tarn in the picture above. Another one for the to-do list and would make a nice easy stroll if you parked up in Mosedale, or along the valley road.
+Bowscale Tarn is just out of sight in the picture above, seen on the side of the valley above the River Caldew. Another one for the to-do list and would make a nice easy stroll if you parked up in Mosedale, or along the valley road.
 
 All in all, another very enjoyable day in the Northern Fells.
 
