@@ -1,6 +1,15 @@
 ---
 title: 'Submit YAML via Email'
 visible: false
+taxonomy:
+    category:
+        - coding
+    tag:
+        - jitbit
+        - yaml
+        - email
+        - javascript
+        - nodered
 ---
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file...
