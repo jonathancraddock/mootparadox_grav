@@ -2,6 +2,17 @@
 title: 'Blencathra circular via Scales Fell'
 visible: false
 media_order: '00blencathra_avif.jpg,souther-fell_avif.jpg,blencathra-from-souther-fell_avif.jpg,scales-fell_avif.jpg,river-glenderamackin-valley_avif.jpg,blencathra-and-sharp-edge_avif.jpg,bannerdale-crags-east-ridge_avif.jpg,bowscale-fell_avif.jpg,bowscale-fell-descent_avif.jpg,souther-fell-from-bowscale_avif.jpg'
+taxonomy:
+    category:
+        - hiking
+    tag:
+        - blencathra
+        - 'souther fell'
+        - 'bannerdale crags'
+        - 'bowscale fell'
+        - cumbria
+        - 'lake district'
+        - 'northern fells'
 ---
 
 Monday 9th August, 2010, marked my return to the Lake District fells after an absence of about 19 years. Half a lifetime ago, my Duke of Edinburgh expedition for the Gold award, marked my last hill walking of any significance. It was a revelation to me that you don't need to carry a 20kg pack any more and I finally succumbed to the lure of the hills.
