@@ -5,7 +5,6 @@ taxonomy:
     category:
         - coding
     tag:
-        - code
         - javascript
         - map
         - self-hosted
