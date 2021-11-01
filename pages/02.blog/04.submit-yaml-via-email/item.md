@@ -36,11 +36,11 @@ return msg;
 ```
 ^- *initial test script to prove the `indexOf` combo!*
 
-IMG?
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/9a080ab923b42a99ad7cfcd7736c8ae2a40998f6/screencap/jitbit-post-yaml.png)
 
 Jitbit automation rule triggers an HTTP POST when a new ticket is created in a specified category.
 
-![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/9a080ab923b42a99ad7cfcd7736c8ae2a40998f6/screencap/jitbit-post-yaml.png)
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/84fba9338730ef51c56dfde7c988fdc8f03cf94d/screencap/nodered-yaml-to-custom.png)
 
 Grab the ticket ID and extract the block of YAML.
 
@@ -69,7 +69,7 @@ return msg;
 
 Using the NodeRED YAML-node to turn that into a JSON object makes it easy to pick up the values required for the custom field data.
 
-IMG?
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/4f9674d78a98121728b1e8d940b43d7b0aee7436/screencap/yaml-to-json.png)
 
 ```javascript
 // Set values
@@ -92,10 +92,10 @@ return msg;
 
 In this first test case, the email was sent as follows:
 
-IMG?
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/f7568ae69943477344d35a40c8cbec7987950034/screencap/yaml-email-example.png)
 
 And the fields are populated almost immediately:
 
-IMG?
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/b15694b179c750294337e550294e5f679dbd2964/screencap/yaml-custom-fields-filled.png)
 
 A niche requirement perhaps, but could be handy if there's a requirement to accept data from a 3rd party who can't directly call the API, or you might be able to use it to accept customised data via an external web-form; perhaps a security requirement is that it literally can't interact with the API.
