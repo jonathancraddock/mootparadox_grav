@@ -40,7 +40,7 @@ IMG?
 
 Jitbit automation rule triggers an HTTP POST when a new ticket is created in a specified category.
 
-IMG?
+![](https://raw.githubusercontent.com/jonathancraddock/Jitbit-Custom/9a080ab923b42a99ad7cfcd7736c8ae2a40998f6/screencap/jitbit-post-yaml.png)
 
 Grab the ticket ID and extract the block of YAML.
 
