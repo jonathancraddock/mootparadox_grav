@@ -12,9 +12,9 @@ taxonomy:
         - nodered
 ---
 
-!!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file...
+!!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file.
 
-^- *note to self, it breaks the image links (replaced them below with temporary markers), but the rest looks ok.*
+^- *note to self, it breaks the image links, but works if replaced with githubusercontent raw links.*
 
 ===
 
