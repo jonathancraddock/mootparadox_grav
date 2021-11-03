@@ -16,6 +16,8 @@ taxonomy:
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
 
+===
+
 At the summit of Hart Crag
 
 After a month off, I finally got back to the Lakes for a 13km circuit around the Dovedale Valley. Fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. Had a few opportunities to try out my Pogu Spikes on frozen snow and water ice, but will write a separate post about that.
