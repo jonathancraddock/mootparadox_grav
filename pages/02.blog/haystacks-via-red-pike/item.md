@@ -1,5 +1,15 @@
 ---
 title: 'Haystacks via Red Pike'
+taxonomy:
+    category:
+        - hiking
+    tag:
+        - cumbria
+        - 'lake district'
+        - 'red pike'
+        - 'high stile'
+        - haystacks
+        - 'western fells'
 ---
 
 Haystacks felt like a significant milestone on my continued exploration of the Wainwright Fells, being the location where Betty Wainwright scattered her late husband's ashes in 1991.
