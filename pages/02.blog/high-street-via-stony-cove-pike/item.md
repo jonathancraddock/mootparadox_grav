@@ -7,11 +7,11 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'far eastern fells'
+        - 'high street'
+        - 'mardale ill bell'
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
-        - 'high street'
-        - 'mardale ill bell'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
