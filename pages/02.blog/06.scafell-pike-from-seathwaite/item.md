@@ -19,6 +19,7 @@ February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunsh
 ===
 
 ![broad-crag-to-crinkles_av1f](broad-crag-to-crinkles_av1f.jpg "Below Broad Crag and looking towards the Crinkles")
+*Below Broad Crag and looking towards the Crinkles.*
 
 > "Of the many routes of approach to Scafell Pike, this, from Borrowdale via Esk Hause, is the finest. The transition from the quiet beauty of the valley pastures and woods to the rugged wilderness of the mountain top is complete, but comes gradually as height is gained..."
 
@@ -40,6 +41,7 @@ For such fantastic conditions, the road to Seathwaite Farm was almost empty, wit
 Might also be worth a note that the toilets at Seathwaite Farm close for the winter.
 
 ![great-end-from-ruddy-gill_av1f](great-end-from-ruddy-gill_av1f.jpg "Great End seen from a very cold Ruddy Gill")
+*Great End seen from a very cold Ruddy Gill.*
 
 > "The towering precipice of Great End increasingly dominates this section of the walk and, by the time Ruddy Gill is reached, assumes awe-inspiring proportions."
 
@@ -52,6 +54,7 @@ It was around Ruddy Gill that the ice became more extensive. Up until that point
 The Grains Gill path joins the main Esk Hause to Sty Head route on a fairly level plateau below the north-face of Great End. Here the snow became deeper and more powdery on the surface. It made for some slow going most of the way to Ill Crag. I'd originally contemplated a detour up to Esk Pike, but wisely decided to head directly along the Scafell ridge.
 
 ![calf-cove_av1f](calf-cove_av1f.jpg "Above the clouds from Calf Cove")
+*Above the clouds from Calf Cove.*
 
 > "...wishful thinkers will assume Ill Crag to be the summit - until the pike itself is finally revealed, indisputably higher and still farther distant across a waste of stones."
 
@@ -64,6 +67,7 @@ At this point I was finding that snow cover within patches of almost black rock 
 I'm delighted to have visited Scafell Pike on such a perfect day and in relative solitude. There were a couple of people at the summit, and later a man on skis (with dog) arrived, looking rather warm.
 
 ![scafell-pike-summit_av1f](scafell-pike-summit_av1f.jpg "Standing at the Scafell Pike trig point")
+*Standing at the Scafell Pike trig point.*
 
 > "This is it: the Mecca of all weary pilgrims in Lakeland..."
 
@@ -74,6 +78,7 @@ The summit photo above was taken by Richard from the Keswick YHA, who it transpi
 I'd highly recommend this route. I don't know why, but for some reason I had the impression it was just a convenient and easy alternative route over to Lingmell Col. I'm happy to say this is altogether wrong - it's an excellent route through some great mountain scenery. Personally I think better for descent than if I had reversed this route, but either way is probably good.
 
 ![corridor-route-down_av1f](corridor-route-down_av1f.jpg "Looking down towards the Corridor Route")
+*Looking down towards the Corridor Route.*
 
 > "The Corridor Route links grassy shelves on the very rough western flanks of Great End and Broad Crag and is, in fact, the one and only easy passage along this flank, which is deeply cut by ravines."
 
@@ -84,6 +89,7 @@ The path is secure, but becomes narrow as you traverse around and over Stand Cra
 I've used this same descent on two previous routes: Great Gable and Great End. There's little to add, but it's worth noting that the path became very icy as you progress down Styhead Gill, and the reputed more "interesting" path on the west side of the gill, via Taylorgill Force, looked treacherous in these conditions.
 
 ![styhead-tarn-to-great-end_av1f](styhead-tarn-to-great-end_av1f.jpg "Great End seen across a frozen Styhead Tarn")
+*Great End seen across a frozen Styhead Tarn.*
 
 > "The ascent of Scafell Pike from Borrowdale is pre-eminent, because not only is the scenery excellent throughout, but there is the advantage of two interesting and well contrasted routes, so that one may be used in ascent and the alternative in descent, the whole round, in settled weather, being perhaps the finest mountain walk in the district."
 
@@ -96,6 +102,7 @@ I was very pleased with the kit I was wearing, including a new pair of bamboo le
 Judging by the change in the weather now, as we approach the end of February, I suspect this is going to be my only winter walk of the season, so I'm delighted it was a good one! Great fun, and I can highly recommend this route.
 
 ![scafell-from-scafell-pike_av1f](scafell-from-scafell-pike_av1f.jpg "Scafell seen from Scafell Pike")
+*Scafell seen from Scafell Pike.*
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
