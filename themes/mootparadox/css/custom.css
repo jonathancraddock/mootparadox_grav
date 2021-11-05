@@ -172,6 +172,16 @@ hr {
     margin: 0.6rem 0;
 }
 
+/* Use <em> after image as a caption */
+img + em {
+    font-size: small;
+    margin-top: -6px;
+    display: block;
+    text-align: center;
+    font-style: normal;
+    opacity: 0.8;
+}
+
 /* Faded green-grey background to code blocks */
 .hljs {
     background: #E5F0DF69;
