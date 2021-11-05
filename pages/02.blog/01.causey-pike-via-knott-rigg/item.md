@@ -22,6 +22,9 @@ I chose another short route for this walk on Wednesday 26th January. Next one mi
 
 ===
 
+[View Full Screen](https://map.mootparadox.com/full/causey-pike) | [GPX](https://map.mootparadox.com/gpx/causey-pike)  
+<p><iframe src="https://map.mootparadox.com/embed/causey-pike" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
 ![causey-pike](causey-pike.jpg "causey-pike")
 
 The route plan was a bit of a compromise involving a 5km walk in along road to get to my chosen start point; the advantage being that the car was parked right at the bottom of Causey Pike. It set me off on a route covering four Wainwrights of the North Western Fells, from Knott Rigg (556m) to Ard Crags (581m), a short descent to a col between Sail Beck and Rigg Beck, before climbing back up to Scar Crags (672m) and Causey Pike (637m).
