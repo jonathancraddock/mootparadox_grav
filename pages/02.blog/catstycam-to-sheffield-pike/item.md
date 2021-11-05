@@ -19,3 +19,10 @@ taxonomy:
 ---
 
 Notes and route plan to follow.
+
+===
+
+[View Full Screen](https://map.mootparadox.com/full/catstye-cam) | [GPX](https://map.mootparadox.com/gpx/catstye-cam)  
+<p><iframe src="https://map.mootparadox.com/embed/catstye-cam" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
+Map.
