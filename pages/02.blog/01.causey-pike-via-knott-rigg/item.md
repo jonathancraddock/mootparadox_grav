@@ -84,4 +84,5 @@ In conclusion, this is a pleasant, easy route, but the long walk in along road d
 In the two images above, you see the strangely elevated zig-zag paths, which seem to be something of a trademark between Sail and Scar Crags. In the right image, my new Pacer Poles - which will be the subject of a future post. An excellent product (originally recommended by Steven Horner) and I would encourage anyone to give them a try.
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
 > ![a.wainwright](/user/images/aw-sig.png?classes=awsig)
