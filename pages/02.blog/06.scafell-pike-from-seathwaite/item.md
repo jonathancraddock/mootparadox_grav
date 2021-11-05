@@ -99,4 +99,4 @@ Judging by the change in the weather now, as we approach the end of February, I 
 
 > "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 >  
-> ![a.wainwright](/user/images/aw-sig.png?classes=awsig)
+> ![a.wainwright](/user/images/aw-sig.png?classes=img-right)
