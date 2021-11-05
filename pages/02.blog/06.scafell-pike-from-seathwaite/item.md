@@ -20,7 +20,7 @@ February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunsh
 
 ![broad-crag-to-crinkles_av1f](broad-crag-to-crinkles_av1f.jpg "Below Broad Crag and looking towards the Crinkles")
 
-> Of the many routes of approach to Scafell Pike, this, from Borrowdale via Esk Hause, is the finest. The transition from the quiet beauty of the valley pastures and woods to the rugged wilderness of the mountain top is complete, but comes gradually as height is gained...
+> "Of the many routes of approach to Scafell Pike, this, from Borrowdale via Esk Hause, is the finest. The transition from the quiet beauty of the valley pastures and woods to the rugged wilderness of the mountain top is complete, but comes gradually as height is gained..."
 
 ### Route Summary
 
@@ -41,7 +41,7 @@ Might also be worth a note that the toilets at Seathwaite Farm close for the win
 
 ![great-end-from-ruddy-gill_av1f](great-end-from-ruddy-gill_av1f.jpg "Great End seen from a very cold Ruddy Gill")
 
-> The towering precipice of Great End increasingly dominates this section of the walk and, by the time Ruddy Gill is reached, assumes awe-inspiring proportions.
+> "The towering precipice of Great End increasingly dominates this section of the walk and, by the time Ruddy Gill is reached, assumes awe-inspiring proportions."
 
 This section of the walk, along Grains Gill before emerging into the sunshine was surprisingly cold. I don't think it was much below zero, so I attribute it purely to the effect of wind-chill. I caught up with a couple of climbers struggling with a jammed crampon bar, and found that I could barely speak to them due to my face being frozen. (Only a slight exaggeration!)
 
@@ -53,7 +53,7 @@ The Grains Gill path joins the main Esk Hause to Sty Head route on a fairly leve
 
 ![calf-cove_av1f](calf-cove_av1f.jpg "Above the clouds from Calf Cove")
 
-> ...wishful thinkers will assume Ill Crag to be the summit - until the pike itself is finally revealed, indisputably higher and still farther distant across a waste of stones.
+> "...wishful thinkers will assume Ill Crag to be the summit - until the pike itself is finally revealed, indisputably higher and still farther distant across a waste of stones."
 
 Once onto the ridge, the going was considerably easier, with snow deep enough to completely smooth out the usually rocky terrain and, despite the lack of any companions on the mountain, the path appeared to be fairly well trodden. Having reached Ill Crag, the Scafell Pike summit is obvious and the hard work is over. It became an easy walk to the summit, with only a short climb following the drop down into the Broad Crag col.
 
@@ -65,7 +65,7 @@ I'm delighted to have visited Scafell Pike on such a perfect day and in relative
 
 ![scafell-pike-summit_av1f](scafell-pike-summit_av1f.jpg "Standing at the Scafell Pike trig point")
 
-> This is it: the Mecca of all weary pilgrims in Lakeland...
+> "This is it: the Mecca of all weary pilgrims in Lakeland..."
 
 The summit photo above was taken by Richard from the Keswick YHA, who it transpired was also planning a descent via the Corridor Route. It's not a route I was at all familiar with, in any conditions, and we ended up walking back to Seathwaite together - his extensive knowledge of the area and willingness to do a bit of impromptu guiding was much appreciated.
 
@@ -75,7 +75,7 @@ I'd highly recommend this route. I don't know why, but for some reason I had the
 
 ![corridor-route-down_av1f](corridor-route-down_av1f.jpg "Looking down towards the Corridor Route")
 
-> The Corridor Route links grassy shelves on the very rough western flanks of Great End and Broad Crag and is, in fact, the one and only easy passage along this flank, which is deeply cut by ravines.
+> "The Corridor Route links grassy shelves on the very rough western flanks of Great End and Broad Crag and is, in fact, the one and only easy passage along this flank, which is deeply cut by ravines."
 
 The path is secure, but becomes narrow as you traverse around and over Stand Crag - due to the ravines below. So whilst it's not difficult, it might not be an ideal route if you dislike the sensation of having a steep drop-off to one side.
 
@@ -85,7 +85,7 @@ I've used this same descent on two previous routes: Great Gable and Great End. T
 
 ![styhead-tarn-to-great-end_av1f](styhead-tarn-to-great-end_av1f.jpg "Great End seen across a frozen Styhead Tarn")
 
-> The ascent of Scafell Pike from Borrowdale is pre-eminent, because not only is the scenery excellent throughout, but there is the advantage of two interesting and well contrasted routes, so that one may be used in ascent and the alternative in descent, the whole round, in settled weather, being perhaps the finest mountain walk in the district.
+> "The ascent of Scafell Pike from Borrowdale is pre-eminent, because not only is the scenery excellent throughout, but there is the advantage of two interesting and well contrasted routes, so that one may be used in ascent and the alternative in descent, the whole round, in settled weather, being perhaps the finest mountain walk in the district."
 
 ### Summary
 
@@ -97,6 +97,6 @@ Judging by the change in the weather now, as we approach the end of February, I 
 
 ![scafell-from-scafell-pike_av1f](scafell-from-scafell-pike_av1f.jpg "Scafell seen from Scafell Pike")
 
-> "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 >  
 > ![a.wainwright](/user/images/aw-sig.png?classes=awsig)

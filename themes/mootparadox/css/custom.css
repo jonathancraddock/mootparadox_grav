@@ -77,7 +77,8 @@ blockquote p {
 .awsig {
   display: flex;
   margin-left: auto;
-  margin-top: -20px;
+  margin-top: -18px;
+  opacity: 0.85;
 }
 
 .notices.green {
