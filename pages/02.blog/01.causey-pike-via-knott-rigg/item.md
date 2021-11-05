@@ -85,4 +85,4 @@ In the two images above, you see the strangely elevated zig-zag paths, which see
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
-> ![a.wainwright](/user/images/aw-sig.png?classes=awsig)
+> ![a.wainwright](/user/images/aw-sig.png)

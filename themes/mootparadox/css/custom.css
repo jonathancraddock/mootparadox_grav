@@ -74,11 +74,11 @@ blockquote p {
   font-size: large;
 }
 
-.awsig {
+blockquote p img[src="/user/images/aw-sig.png"] {
   display: flex;
   margin-left: auto;
   margin-top: -18px;
-  opacity: 0.85;
+  opacity: 0.75;
 }
 
 .notices.green {
