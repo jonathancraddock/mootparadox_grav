@@ -7,9 +7,9 @@ taxonomy:
         - hiking
     tag:
         - cumbria
+        - 'lake district'
         - 'scafell pike'
         - winter
-        - 'lake district'
 ---
 
 February 8th 2012 was undoubtedly a perfect Lakeland winter day. Beautiful sunshine, but plenty of snow and ice above about 400m, and the forecast for a temperature inversion at around 750m. I wanted to be high, and so I headed for Scafell Pike, setting off from Seathwaite Farm. I emerged onto the plateau above Sprinkling Tarn, in the shadow of Great End, into a winter wonderland, and the beginning of what I am confidently declaring to be my favourite walk so far!
@@ -98,4 +98,4 @@ Judging by the change in the weather now, as we approach the end of February, I 
 ![scafell-from-scafell-pike_av1f](scafell-from-scafell-pike_av1f.jpg "Scafell seen from Scafell Pike")
 
 > "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
-> <div style="text-align: right">A. Wainwright &nbsp;</div>
+> <div style="text-align: right"><img src="/user/images/aw-sig.png">&nbsp;</div>
