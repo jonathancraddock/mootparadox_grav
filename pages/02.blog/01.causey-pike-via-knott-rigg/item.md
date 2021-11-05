@@ -1,7 +1,7 @@
 ---
 title: 'Causey Pike via Knott Rigg'
 visible: false
-media_order: 'barrow_web.jpg,00causey-pike.jpg,causey-pike-towards-high-spy_web.jpg,causey-pike-east_web.jpg,ard-crags_web.jpg,causey-pike_web.jpg,knott-rigg-towards-ard-crags_web.jpg,view-from-knott-rigg_web.jpg'
+media_order: '00causey-pike.jpg,barrow_web.jpg,causey-pike-towards-high-spy_web.jpg,causey-pike-east_web.jpg,ard-crags_web.jpg,causey-pike_web.jpg,knott-rigg-towards-ard-crags_web.jpg,view-from-knott-rigg_web.jpg'
 taxonomy:
     category:
         - hiking
