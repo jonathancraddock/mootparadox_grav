@@ -74,6 +74,12 @@ blockquote p {
   font-size: large;
 }
 
+.awsig {
+  display: flex;
+  margin-left: auto;
+  margin-top: -20px;
+}
+
 .notices.green {
   border-left: 0.3rem solid #5cb85c4a;
 }
