@@ -35,7 +35,7 @@ The mountain forecast was 10 degrees on the tops, a 50% chance of rain, and gust
 
 The photos don't do much justice to the views, which were very nice, looking over in the direction of Ullswater, seeing the distinctive shape of Great Mell Fell and the jagged edge of Wolf Crags in the direction of Great Dodd. To the west there would have been great views into Bannerdale Crags and later towards Blencathra itself. Sadly these were mostly hidden by low cloud, but at this stage I was seeing some brightness and had a feeling the cloud might lift.
 
-![blencathra-from-souther-fell_avif](blencathra-from-souther-fell_avif.jpg "blencathra-from-souther-fell_avif")  
+![blencathra-from-souther-fell_avif](blencathra-from-souther-fell_avif.jpg "blencathra-from-souther-fell_avif")
 *Blencathra "seen" from Souther Fell.*
 
 I'd planned to drop down from Souther Fell to Scales Farm and then climb Blencathra via Hall's Fell Ridge. Two things put me off. Mainly because it would have involved a descent of between 200 to 300 metres, only to come straight back up again, and conditions being as they were, Scales Fell seemed like a more sensible option.
