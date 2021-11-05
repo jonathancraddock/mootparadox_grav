@@ -27,7 +27,7 @@ Monday 9th August, 2010, marked my return to the Lake District fells after an ab
 To give it some purpose, I intend to embark on some Wainwright bagging, with a view to clocking up all 214. I'm ignoring the few dozen I'll have done in the past, starting with a clean slate. As of Monday, the total stands at four. These being Souther Fell, Blencathra, Bannerdale Crags and Bowscale Fell.
 
 ![alt summit of souther fell](souther-fell_avif.jpg "Summit of Souther Fell")
-*test caption*
+*At the summit of Souther Fell.*
 
 The mountain forecast was 10 degrees on the tops, a 50% chance of rain, and gusty south-easterly winds. I soon began to think that this was a somewhat optimistic appraisal of the conditions. I parked at Mungrisdale village (2 in the honesty box) and began walking in a very light drizzle. My route up Souther Fell was a mistake. I chose possibly the least interesting route though boggy ground, waist deep in bracken. If I do this again, I'd try to get higher up and walk more along the ridge of the fell. But in any event, after a bit of a slog, got up to the top and ticked off Wainwright number 1. That's probably why I was looking so cheerful at this point; although wind and holding the camera at arms length didn't help!
 
@@ -36,7 +36,7 @@ The mountain forecast was 10 degrees on the tops, a 50% chance of rain, and gust
 The photos don't do much justice to the views, which were very nice, looking over in the direction of Ullswater, seeing the distinctive shape of Great Mell Fell and the jagged edge of Wolf Crags in the direction of Great Dodd. To the west there would have been great views into Bannerdale Crags and later towards Blencathra itself. Sadly these were mostly hidden by low cloud, but at this stage I was seeing some brightness and had a feeling the cloud might lift.
 
 ![blencathra-from-souther-fell_avif](blencathra-from-souther-fell_avif.jpg "blencathra-from-souther-fell_avif")  
-<figcaption>At the summit of Souther Fell</figcaption>
+*Blencathra "seen" from Souther Fell.*
 
 I'd planned to drop down from Souther Fell to Scales Farm and then climb Blencathra via Hall's Fell Ridge. Two things put me off. Mainly because it would have involved a descent of between 200 to 300 metres, only to come straight back up again, and conditions being as they were, Scales Fell seemed like a more sensible option.
 
