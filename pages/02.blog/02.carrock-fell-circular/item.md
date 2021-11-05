@@ -5,12 +5,12 @@ taxonomy:
     category:
         - hiking
     tag:
+        - cumbria
+        - 'lake district'
         - 'carrock fell'
         - 'high pike'
         - 'great sca fell'
         - knott
-        - cumbria
-        - 'lake district'
         - 'northern fells'
 media_order: '00carrock_avif.jpg,high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg,roughton-gill_avif.jpg,river-caldew_avif.jpg,river-caldew-valley_avif.jpg,east-carrock-fell_avif.jpg'
 ---
@@ -58,5 +58,6 @@ All in all, another very enjoyable day in the Northern Fells.
 
 Kit was the same as previous walk, except didn't need waterproofs, or even the Lightspeed for that matter. Wore a much lighter cotton t-shirt, which was better than the heavy Weird Fish t-shirt that I wore last time. Better, but could still do with a decent merino base layer. Also, although it was warm at times, it was still fairly windy. The buff was great for keeping my ears warm (tend to get sore ears in cold wind) but could really have done with some lightweight gloves.
 
-> "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
-> <div style="text-align: right">A. Wainwright &nbsp;</div>
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
