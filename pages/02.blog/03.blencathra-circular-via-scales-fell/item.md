@@ -6,13 +6,13 @@ taxonomy:
     category:
         - hiking
     tag:
+        - cumbria
+        - 'lake district'
+        - 'northern fells'
         - blencathra
         - 'souther fell'
         - 'bannerdale crags'
         - 'bowscale fell'
-        - cumbria
-        - 'lake district'
-        - 'northern fells'
 ---
 
 Monday 9th August, 2010, marked my return to the Lake District fells after an absence of about 19 years. Half a lifetime ago, my Duke of Edinburgh expedition for the Gold award, marked my last hill walking of any significance. It was a revelation to me that you don't need to carry a 20kg pack any more and I finally succumbed to the lure of the hills.
@@ -90,5 +90,6 @@ And, this final image above is the view from Bowscale's East Ridge towards South
 
 I can't say exactly where my next excursion will take me, but am probably going to stick with "The Northern Fells" for the time being, especially as that's the only Wainwright book I currently have! May as well be systematic. So far, four down, two-hundred and ten to go...
 
-> "To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
-> <div style="text-align: right">A. Wainwright &nbsp;</div>
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
