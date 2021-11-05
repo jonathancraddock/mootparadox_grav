@@ -18,7 +18,7 @@ taxonomy:
         - 'glenridding dodd'
 ---
 
-This route from 9th July 2015 makes for a longish day-walk from Catstycam to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it will take you to the summit of 9 Wainwrights.
+This route from 9th July 2015 made for a longish day-walk, from Catstycam to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
 
 !!!! A 20km circular route, starting from Glenridding. (_Wainwright Book 1: The Eastern Fells_)
 
