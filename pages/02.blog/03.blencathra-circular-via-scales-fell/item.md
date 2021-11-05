@@ -43,6 +43,7 @@ I'd planned to drop down from Souther Fell to Scales Farm and then climb Blencat
 Hall's Fell Ridge comes highly recommended by Wainwright, and looks a fantastic route in the photos I've seen, but it's a grade 1 scramble and is probably best saved for when the views can be appreciated in safety, and when you can be planning your route more than half a dozen steps ahead!
 
 ![scales-fell_avif](scales-fell_avif.jpg "scales-fell_avif")
+*Approaching the top of Scales Fell.*
 
 What you see above is the view from about half way up Scales Fell. From this point on it got so wet that I didn't dare to take the camera out of my pocket. I get the impression there might have been a bit of a drop either side, but who can tell? These are ideal climbing conditions for Acrophobics! I relied on my GPS to find the summit cairn and sat for 20 minutes hoping for a glimpse of blue sky. Sadly not!
 
@@ -53,16 +54,19 @@ Needless to say, it was at about this time, 800m up a cliff and in zero visibili
 On the verge of calling it a day and following the River Glenderamakin back to the car, finally there was a glimpse of daylight! I reset my GPS (if in doubt, switch it off and back on again) and decided to press on towards Bannerdale Crags.
 
 ![river-glenderamackin-valley_avif](river-glenderamackin-valley_avif.jpg "river-glenderamackin-valley_avif")
+*Valley view, with the River Glenderamackin.*
 
 The cloud never lifted from the summit of Blencathra throughout the entire journey, but there were some great views up towards Sharp Edge. In spite of the cloud cover, it's still a fantastic looking mountain.
 
 ![blencathra-and-sharp-edge_avif](blencathra-and-sharp-edge_avif.jpg "blencathra-and-sharp-edge_avif")
+*Blancathra and Sharp Edge, almost emerging from the cloud.*
 
 > ...a rocky spur goes off to the east, this latter being the well know Sharp Edge, second in fame to Striding Edge on Helvellyn as a test for walkers.
 
 Bannerdale Crags was the next Wainwright en route. After the slightly surreal and yet strangely distubing sight of watching a sheep plummet to a presumably certain death, I was imbued with a healthy respect for the edge of the crags and took ample care while taking some photographs down into the valley. The views were fascinating down into a classic glacial valley; wide and flat, the sun picking out the summit of Souther Fell below.
 
 ![bannerdale-crags-east-ridge_avif](bannerdale-crags-east-ridge_avif.jpg "bannerdale-crags-east-ridge_avif")
+*Bannerdale Crags east ridge.*
 
 The photo above shows the East ridge of Bannerdale Crags and looks like a nice ascent for another day.
 
@@ -71,10 +75,12 @@ The photo above shows the East ridge of Bannerdale Crags and looks like a nice a
 It was an easy walk to Bowscale Fell over wet ground. A mile or so of squelching along saw me to the summit cairn. Even more significantly, my first view of a fellow human being! There were three of them, a couple of miles away, but it was the closest I came to having company on the fells throughout the entire day.
 
 ![bowscale-fell_avif](bowscale-fell_avif.jpg "bowscale-fell_avif")
+*Bowscale Fell.*
 
 I'd conquered my first four Wainwrights, and will be happy to return to Blencathra again in better conditions. It was harder than I remembered. I hate to say it, but age may be a factor, so my fitness will need to improve. But also, fell-walking it seems, is not using exactly the same muscles as mountain biking. The descent down Bowscale's east ridge is very steep in places and you can certainly feel it in your knees.
 
 ![bowscale-fell-descent_avif](bowscale-fell-descent_avif.jpg "bowscale-fell-descent_avif")
+*Steep descent from Bowscale Fell.*
 
 The final drop back to Mungrisdale is particularly steep, down a crumbling gravel path. A good trekking pole will come in handy!
 
@@ -87,6 +93,7 @@ With all other kit I improvised. Three-quarter length cotton shorts, t-shirt and
 No boots, so wore my Merrell Moab Mid walking shoes, which are a mid-height shoe, Gore-Tex lined. They were fine, and my feet were dry(ish) but this is going to be another item to look at. The grip just didn't feel quite sure enough in these wet conditions.
 
 ![souther-fell-from-bowscale_avif](souther-fell-from-bowscale_avif.jpg "souther-fell-from-bowscale_avif")
+*Souther Fell seen from Bowscale.*
 
 And, this final image above is the view from Bowscale's East Ridge towards Souther Fell. I think this is definitely it's better side.
 
