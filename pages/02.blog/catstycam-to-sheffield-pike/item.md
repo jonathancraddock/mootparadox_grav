@@ -24,7 +24,11 @@ This route from 9th July 2015 makes for a longish day-walk from Catstycam to She
 
 ===
 
-I camped overnight at Gillside, just outside of Glenridding. Many years before, if memory serves, I'd camped there with the Cadets. On that occasion we had climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, also via Swirral Edge, but I decided to climb Catstycam's north ridge, that's from the Brown Cove side. My camera lens went faulty somewhere along the route, with some very odd blurring and lens-flaring, so the photos may be a little sporadic. Luckily I also took a few on my mobile.
+I camped overnight at Gillside, just outside of Glenridding.
+
+Many years before, if memory serves, I also camped here with the Cadets. On that occasion we climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, again via Swirral Edge, but I wanted to climb Catstycam's northern ridge; that's from the Brown Cove side.
+
+My camera lens went faulty somewhere along the route (some very odd blurring and lens-flaring) so the photos may be somewhat sporadic. Luckily I also took a few on my mobile.
 
 [View Full Screen](https://map.mootparadox.com/full/catstye-cam) | [GPX](https://map.mootparadox.com/gpx/catstye-cam)  
 <p><iframe src="https://map.mootparadox.com/embed/catstye-cam" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
