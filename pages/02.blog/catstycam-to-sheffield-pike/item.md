@@ -19,7 +19,7 @@ taxonomy:
 media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,browncove-crags-thirlmere.jpg,swirral-edge-and-red-tarn.jpg,nick-head-marker-sheffield-pike.jpg,catstycam-selfie.jpg'
 ---
 
-This route from 9th July 2015 made for a longish day-walk, from Catstycam to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
+This route on 9th July 2015 made for a longish day-walk, from Catstycam looping around to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
 
 !!!! A 20km circular route, starting from Glenridding. (_Wainwright Book 1: The Eastern Fells_)
 
@@ -39,9 +39,9 @@ After an amazing day out, I was disappointed to find my camera lens went faulty 
 [View Full Screen](https://map.mootparadox.com/full/catstycam) | [GPX](https://map.mootparadox.com/gpx/catstycam)  
 <p><iframe src="https://map.mootparadox.com/embed/catstycam" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-The route began with a gentle climb along gravel tracks as far as the disused dam at Brown Cove, although from there it became a rather steep climb.
+The route began with a gentle climb along gravel tracks as far as the disused dam at Brown Cove, although from there it became a rather steep climb. In Wainwright's *Eastern Fells* I believe this is referred to as the old Glenridding pony route, but where that path would branch right towards White Side, bear left and follow Glenridding Beck towards Brown Cove.
 
-It will come as zero surprise to anyone who knows me to learn that I am not a natural early-riser! But, it was great to be out walking before 8am, and I will freely admit the only way I could manage that was by driving down the night before and camping at the start of the route. This was 2015, things may be different now, but at about £6 for a one-man tent pitch, you can barely get a day's car parking at that price. 
+It will come as zero surprise to anyone who knows me to learn that I am not a natural early-riser! But, it was great to be out walking around 8am, and I will freely admit the only way I could manage that was by driving down the night before and camping at the start of the route. This was 2015, things may be different now, but at £6 for a one-man tent pitch, you could barely get a day's car parking at that price. 
 
 ![catstycam-north-ridge](catstycam-north-ridge.jpg "catstycam-north-ridge")
 *Steep, but fairly easy climbing on the north ridge of Catstycam.*
@@ -65,16 +65,16 @@ Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation,
 I consider myself to be of a disposition that enjoys height and exposure, but in this instance I wanted to avoid the grassy, high-level ridges, and try the traverse below the head of the Glengoyne valley. It's an easy path from Hartside to Sheffield Pike, via Nick Head, and there are excellent views into the valley below.
 
 ![nick-head-marker-sheffield-pike](nick-head-marker-sheffield-pike.jpg "nick-head-marker-sheffield-pike")
-*M192 marker post, below Sheffield Pike.*
+*M1912 marker post, Sheffield Pike is behind me.*
 
-At the marker post (M 1912) head east to the summit of Sheffield Pike. It forms part of a natural ridge that will lead you across Heron Pike to Glenridding Dodd.
+At the marker post (M-1912) head east to the summit of Sheffield Pike. It forms part of a natural ridge that will lead you across Heron Pike to Glenridding Dodd.
 
 ![catstycam-selfie](catstycam-selfie.jpg "catstycam-selfie")
 *Mandatory selfie near the start of my route.*
 
-The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee! So near, and yet so far. Had to take my time after that, and thankfully my pair of Pacer Poles earned their keep.
+The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee. So near, and yet so far! Had to take my time after that, and thankfully my pair of Pacer Poles earned their keep.
 
-This was a fabulous single day route, but probably requires at least moderate fitness. The walk could be cut short at Raise, omitting Stybarrow and Hartside, and heading directly for Sheffield Pike. Still a very worthy loop, but that change would cut the effort quite considerably.
+This was a fabulous single day route, but probably requires at least a moderate level of fitness. The walk could be cut short at Raise, omitting Stybarrow and Hartside, and heading directly for Sheffield Pike. Still a very worthy loop, but that change would cut the effort quite considerably. Whichever path you follow, take a day off work, and do it in the middle of the week!
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
