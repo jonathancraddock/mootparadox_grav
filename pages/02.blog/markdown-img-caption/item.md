@@ -43,7 +43,7 @@ It then becomes easy to target an `<em>` that follows an `<img>` within a paragr
 
 ```css
 /* Use <em> after image as a caption */
-img + em {
+p > img + em {
     font-size: small;
     margin-top: -.25em;
     display: block;
@@ -51,5 +51,6 @@ img + em {
     font-style: normal;
     opacity: 0.8;
 }
-
 ```
+
+If a regular paragraph happens to begin with some *emphasised text*, that's no problem because there is an intervening `<p>` and so the CSS doesn't target that text.
