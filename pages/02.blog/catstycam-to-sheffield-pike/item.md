@@ -55,7 +55,7 @@ Red Tarn is reputed to offer some stunning wild swimming, with cold clear water 
 
 On this mid-July Thursday, Helvellyn's summit was very peaceful; avoid it like the plague at weekends, unless you love crowds. I took a brief detour over to the summit shelter, before heading onward to Lower Man and Whiteside 
 
-Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation, but this view across Browncove Crags to Thirlmere, with Bassenthwaite visible in the distance, shows there is merit in both directions.
+Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation, but this view across Browncove Crags to Thirlmere, with Bassenthwaite visible in the distance, shows there is merit in both directions. The mountains in the middle distance are High Seat and Bleaberry Fell. Derwent Water is hidden behind them.
 
 ![browncove-crags-thirlmere](browncove-crags-thirlmere.jpg "browncove-crags-thirlmere")
 *Browncove Crags, with Thirlmere in the background.*
@@ -63,6 +63,7 @@ Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation,
 Traverse...
 
 ![nick-head-marker-sheffield-pike](nick-head-marker-sheffield-pike.jpg "nick-head-marker-sheffield-pike")
+M192 marker post, below Sheffield Pike.
 
 Sheffield Pike...
 
