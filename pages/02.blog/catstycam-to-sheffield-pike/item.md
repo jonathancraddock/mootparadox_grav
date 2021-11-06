@@ -27,22 +27,24 @@ This route from 9th July 2015 made for a longish day-walk, from Catstycam to She
 
 I camped overnight at Gillside, just outside of Glenridding.
 
-Many years before, if memory serves, I also camped here with the Cadets. On that occasion we climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, again via Swirral Edge, but I wanted to climb Catstycam's northern ridge; that's from the Brown Cove side.
+Many years before, if memory serves, I camped here with the Cadets. On that occasion we climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, again via Swirral Edge, but I wanted to climb Catstycam's northern ridge; that's from the Brown Cove side.
 
 ![catstycam-from-glenridding-valley](catstycam-from-glenridding-valley.jpg "catstycam-from-glenridding-valley")
 *Dramatic views of Catstycam from the Glenridding valley.*
 
-My camera lens went faulty somewhere along the route (some very odd blurring and lens-flaring) so the photos may be somewhat sporadic. Luckily I also took a few on my mobile.
+After an amazing day out, I was disappointed to find my camera lens went faulty somewhere along the route, resulting in some very odd blurring and lens-flaring. Most of the photos were unusable, but luckily I also took a few on my mobile.
 
 [View Full Screen](https://map.mootparadox.com/full/catstycam) | [GPX](https://map.mootparadox.com/gpx/catstycam)  
 <p><iframe src="https://map.mootparadox.com/embed/catstycam" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-The route begins with a gentle climb along gravel tracks as far as the disused dam at Brown Cove. From here it becomes a rather steep climb.
+The route began with a gentle climb along gravel tracks as far as the disused dam at Brown Cove, although from there it became a rather steep climb.
+
+It will come as zero surprise to anyone who knows me to learn that I am not a natural early-riser! But, it was great to be out walking before 8am, and I will freely admit the only way I could manage that was by driving down the night before and camping at the start of the route. This was 2015, things may be different now, but at about £6 for a one-man tent pitch, you can barely get a day's car parking at that price. 
 
 ![catstycam-north-ridge](catstycam-north-ridge.jpg "catstycam-north-ridge")
 *Steep, but fairly easy climbing on the north ridge of Catstycam.*
 
-From the summit you head towards Helvellyn via Swirral Edge. Lesser known than its "striding" opposite number, Swirral Edge is an enjoyable climb and leads you to the north side of Helvellyn's actual summit.
+From the summit I was heading towards Helvellyn via Swirral Edge. Lesser known than its "striding" opposite number, Swirral Edge is an enjoyable climb, and leads you slightly north of Helvellyn's actual summit. Neither route is difficult, but the consensus seems to be that in normal conditions (not winter) then Swirall Edge is easier and slightly less exposed than Striding Edge.
 
 ![swirral-edge-and-red-tarn](swirral-edge-and-red-tarn.jpg "swirral-edge-and-red-tarn")
 
