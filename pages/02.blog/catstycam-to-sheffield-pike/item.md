@@ -32,6 +32,8 @@ Many years before, if memory serves, I camped here with the Cadets. On that occa
 ![catstycam-from-glenridding-valley](catstycam-from-glenridding-valley.jpg "catstycam-from-glenridding-valley")
 *Dramatic views of Catstycam from the Glenridding valley.*
 
+> "If Catstycam stood alone, remote from its fellows, it would be one of the finest peaks in Lakeland."
+
 After an amazing day out, I was disappointed to find my camera lens went faulty somewhere along the route, resulting in some very odd blurring and lens-flaring. Most of the photos were unusable, but luckily I also took a few on my mobile.
 
 [View Full Screen](https://map.mootparadox.com/full/catstycam) | [GPX](https://map.mootparadox.com/gpx/catstycam)  
@@ -71,7 +73,7 @@ At the marker post (M 1912) head east to the summit of Sheffield Pike. It forms 
 
 The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee! So near, and yet so far. Had to take my time after that, and thankfully my pair of Pacer Poles earned their keep.
 
-This was a fabulous single day route, but probably requires at least moderate fitness. The walk could be cut short at Raise, omitting Stybarrow and Hartside, and heading directly for Sheffield Pike.
+This was a fabulous single day route, but probably requires at least moderate fitness. The walk could be cut short at Raise, omitting Stybarrow and Hartside, and heading directly for Sheffield Pike. Still a very worthy loop, but that change would cut the effort quite considerably.
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
