@@ -27,8 +27,9 @@ On the eve of my 38th birthday, it would have been almost exactly 20 years since
 I decided to take this opportunity to walk the final two summits of the Northern Fells; **Mungrisdale Common** and **Great Calva**, which for various reasons I'd never managed to combine into a sensible one-day route.
 
 ![Northern Fells seen from the A66](northern-fells-a66.jpg "northern-fells-a66")
+*The Northern Fells dominates the view as you approach along the A66.*
 
-*The Northern Fells dominates the view as you approach along the A66.* My plan was to park near Black Moss, just below Carrock Fell. I was heading for Blencathra (hopefully via Sharp Edge but keeping my options open) and I wanted to visit Bowscale Tarn on route. After that I'd cross Mungrisdale Common and head for Great Calva, camping near to Knott. As it turned out, it was a really pleasant evening and I went farther than I had originally planned, stopping closer to High Pike, somewhere just below 600m. This left a very short second day, only about 6km, but that suited me fine, as I mainly wanted to test out my gear and to see how I felt about camping after several years.
+My plan was to park near Black Moss, just below Carrock Fell. I was heading for Blencathra (hopefully via Sharp Edge but keeping my options open) and I wanted to visit Bowscale Tarn on route. After that I'd cross Mungrisdale Common and head for Great Calva, camping near to Knott. As it turned out, it was a really pleasant evening and I went farther than I had originally planned, stopping closer to High Pike, somewhere just below 600m. This left a very short second day, only about 6km, but that suited me fine, as I mainly wanted to test out my gear and to see how I felt about camping after several years.
 
 I'm happy to say it went very smoothly, and I felt like I passed a significant milestone as I completed all fells in Book 5: The Northern Fells. Wainwright bagging count now stands at 59.
 
