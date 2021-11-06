@@ -47,6 +47,7 @@ It will come as zero surprise to anyone who knows me to learn that I am not a na
 From the summit I was heading towards Helvellyn via Swirral Edge. Lesser known than its "striding" opposite number, Swirral Edge is an enjoyable climb, and leads you slightly north of Helvellyn's actual summit. Neither route is difficult, but the consensus seems to be that in normal conditions (not winter) then Swirall Edge is easier and slightly less exposed than Striding Edge.
 
 ![swirral-edge-and-red-tarn](swirral-edge-and-red-tarn.jpg "swirral-edge-and-red-tarn")
+*Red Tarn with Swirral Edge to the left.*
 
 Helvellyn summit...
 
