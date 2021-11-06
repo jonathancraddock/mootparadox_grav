@@ -18,16 +18,19 @@ I was looking for a simple way to add a visible "caption" to an image, using Mar
 
 ===
 
-And, unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for doing that. You could add a snippet of HTML, or just write a bit of Javascript to pull the ALT text and use that as the caption. I didn't particularly like either solution.
+Unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for doing that. There are plugins to add the functionalify, wrapping it in a `<figure>` and using the image title as the `<figcaption>`. You could add a snippet of HTML, or some people suggest put the image in a Markdown table, or you could write a function to write in the caption. I didn't particularly like the sound of any of those.
 
 ![markdown-img-caption](markdown-img-caption.png "markdown-img-caption")
 
-Presumably this isn't a new idea, and I don't suppose it's "proper" use of the syntax, but my thought was simply style the text immediately after the image. It can't just be a regular paragraph, so I'm using an `<em>` tag, and it has to follow immediately - so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
+I wanted a very simple caption, small text, centered beneath the image, maybe slightly paler than the surrounding paragraph text.
+
+Presumably what I'm trying here isn't a new idea, and I don't suppose it's *proper* use of the syntax, but my thought was simply style a block of text immediately after the image. Clearly it can't just be a regular paragraph, so I'm currently using an `<em>` tag, and it has to follow immediately - so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
 
 ```markdown
   
 ![Northern Fells seen from the A66](northern-fells-a66.jpg "northern-fells-a66")
 *The Northern Fells dominates the view as you approach along the A66.*
+  
   
 ```
 
