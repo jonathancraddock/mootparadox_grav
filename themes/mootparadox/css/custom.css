@@ -173,9 +173,9 @@ hr {
 }
 
 /* Use <em> after image as a caption */
-img + em {
+p > img + em {
     font-size: small;
-    margin-top: -6px;
+    margin-top: -.25em;
     display: block;
     text-align: center;
     font-style: normal;
@@ -188,4 +188,12 @@ img + em {
     border-radius: 8px;
 }
 
+@media screen and (max-width: 576px) {
+
+  /* Experimental - smaller for mobile? */
+  iframe {
+    height: 350px !important;
+  }
+
+}
 
