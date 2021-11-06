@@ -31,7 +31,7 @@ As an example, the map below shows a short (but very worthy) section of the Penn
 to Dufton via Cow Green and High Cup Nick.
 
 [View Full Screen](https://map.mootparadox.com/full/bowleesdufton) | [GPX](https://map.mootparadox.com/gpx/bowleesdufton)  
-<p><iframe src="https://map.mootparadox.com/embed/bowleesdufton" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+<p><iframe src="https://map.mootparadox.com/embed/bowleesdufton" height="500px" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 On a mobile you have to scroll using the edge of the page, and maybe that's not perfect, 
 but I hate being told to
