@@ -16,7 +16,7 @@ taxonomy:
         - hartside
         - 'sheffield pike'
         - 'glenridding dodd'
-media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,swirral-edge-and-red-tarn.jpg'
+media_order: '00catstycam.jpg,catstycam-selfie.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,swirral-edge-and-red-tarn.jpg,ullswater-from-below-hartside.jpg,nick-head-marker-sheffield-pike.jpg'
 ---
 
 This route from 9th July 2015 made for a longish day-walk, from Catstycam to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
@@ -43,3 +43,27 @@ The route begins with a gentle climb along gravel tracks as far as the disused d
 *Steep, but fairly easy climbing on the north ridge of Catstycam.*
 
 From the summit you head towards Helvellyn via Swirral Edge. Lesser known than its "striding" opposite number, Swirral Edge is an enjoyable climb and leads you to the north side of Helvellyn's actual summit.
+
+![swirral-edge-and-red-tarn](swirral-edge-and-red-tarn.jpg "swirral-edge-and-red-tarn")
+
+Helvellyn summit...
+
+Hartside...
+
+![ullswater-from-below-hartside](ullswater-from-below-hartside.jpg "ullswater-from-below-hartside")
+
+Traverse...
+
+![nick-head-marker-sheffield-pike](nick-head-marker-sheffield-pike.jpg "nick-head-marker-sheffield-pike")
+
+Sheffield Pike...
+
+Glenridding...
+
+![catstycam-selfie](catstycam-selfie.jpg "catstycam-selfie")
+
+Summary...
+
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
