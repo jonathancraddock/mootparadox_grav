@@ -15,7 +15,7 @@ taxonomy:
         - 'great calva'
         - 'little calva'
         - wildcamping
-media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-head.jpg'
+media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-head.jpg,bowscale-tarn.jpg'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days. I decided to take the opportunity to walk the final two summits of the Northern Fells; **Mungrisdale Common** and **Great Calva**, which for various reasons I'd never managed to combine into a sensible one-day route.
@@ -47,8 +47,8 @@ Mosedale to Blencathra:
 
 I can understand why the path from Mosedale to Bowscale Tarn is popular. It's an easy gradient and the tarn is wonderfully hidden by a large moraine dam. Great spot for a picnic, though I fear it perhaps might be a little too popular at weekends. On this Tuesday morning is was very quiet. I sat at the water's edge for several minutes, enjoying the scenery, and it was not until I got up that I saw I had company. Two walkers lying on the grass on the far side of a small rise. It's a very tranquil spot.
 
-Bowscale Tarn
-Looking into Bowscale Tarn
+![Looking into Bowscale Tarn](bowscale-tarn.jpg "bowscale-tarn")
+*Looking into Bowscale Tarn from the moraine dam.*
 
 "...tiered crags carved by ice; silent waters embanked by moraines; scattered rocks in the wake of the departed glacier..."
 
