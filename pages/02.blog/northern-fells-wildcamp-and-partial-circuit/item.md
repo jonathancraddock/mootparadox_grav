@@ -33,17 +33,15 @@ I'm happy to say it went very smoothly, and I felt like I passed a significant m
 
 ### Route Summary:
 
+[View Full Screen](https://map.mootparadox.com/full/northern-fells-30k) | [GPX](https://map.mootparadox.com/gpx/northern-fells-30k)  
+<p><iframe src="https://map.mootparadox.com/embed/northern-fells-30k" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
 **Day 1** - Park at Black Moss and follow the road through Mosedale Village and take the path to Bowscale Tarn. From the start of Tarn Sike, there's a good path up the face of Tarn Crags, heading due West. Head for Blencathra via Bowscale Fell. I headed for the base of Foule Crag and followed the contour around, towards Brunt Knott, and picked up the ridge of Sharp Edge from there. (The path is intermittent, but it's a decent route.) Ascend Sharp Edge and head for Blencathra summit. Descend to the north-west, passing across the bottom of Blue Screes and pick up the path to Mungrisdale Common. I took a fairly direct route to Great Calva ascending from the east; this was a mistake. It was heavy going off Mungrisdale Common through bogs and deep heather (even in these dry conditions) and it's the steepest possible route up Great Calva. A better option would have been to head for the Cumbria Way path and climb Great Calva from the south-west. Cross the col between Little Calva and Knott, following the Cumbria Way path below Great Lingley Hill and camping near Drygill Head.
 
 **Day 2** - Get back onto the ridge and follow the path over Miton Hill, Round Knott and Carrock Fell. Descend the gulley of Further Gill Sike (very steep) and northwards across the crags below Scurth. This leads you directly back to Black Moss.
 
 ![camped-near-dry-gill-head](camped-near-dry-gill-head.jpg "camped-near-dry-gill-head")
 *Wild camped at Dry Gill Head.*
-
-Map.
-
-[View Full Screen](https://map.mootparadox.com/full/northern-fells-30k) | [GPX](https://map.mootparadox.com/gpx/northern-fells-30k)  
-<p><iframe src="https://map.mootparadox.com/embed/northern-fells-30k" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Mosedale to Blencathra:
 
