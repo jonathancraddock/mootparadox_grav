@@ -15,7 +15,7 @@ taxonomy:
         - 'great calva'
         - 'little calva'
         - wildcamping
-media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg,bowscale-and-blencathra.jpg,carrock-fell-vale-of-eden.jpg'
+media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg,bowscale-and-blencathra.jpg,carrock-fell-vale-of-eden.jpg,overnight-gear.jpg'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days.
@@ -135,8 +135,8 @@ Descending Carrock Fell, overlooking Vale of Eden
 
 The quick snapshot below was taken as I unpacked - apart from the water bottle that I was still using!
 
-Kit, packed and unpacked
-Packed and Unpacked
+![overnight-gear](overnight-gear.jpg "overnight-gear")
+*Unpacking the OMM Classic 32.*
 
 Everything packed OK in my 32L bag, except that the tent had to fit in the rear mesh pocket. I'd initially felt this was a bit of a compromise and it would have been nice to get everything inside, but it actually worked better to keep it there.
 
