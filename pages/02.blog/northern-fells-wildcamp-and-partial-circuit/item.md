@@ -15,7 +15,7 @@ taxonomy:
         - 'great calva'
         - 'little calva'
         - wildcamping
-media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-head.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg'
+media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days.
@@ -71,20 +71,21 @@ This was my first ascent of Sharp Edge and I can confirm it's a first class bit 
 
 The route finding wasn't quite as obvious as I'd anticipated. I made the decision to keep to the peak of the ridge and follow it direct to the summit. To my mind, there's a moment of doubt as you drop down from the sharpest section, into a kind of hollow between two scree filled gullies, dropping away left and right. It looked like the path might divert somewhere to the right, but it didn't look very sound. I stuck with my strategy and kept going in a straight line, but this does necessitate a few metres of climbing up a steep rock slab, although there are good holds in a crack to the left. You then find yourself in what feels like a well protected gully, and by the time you've followed this, you're not far off the final push to the summit.
 
-Pretty easy going in dry conditions, but the rock is well polished and care would definitely be needed in the wet. Numerous crampon scratches on the rock attest to this being a serious section of winter climbing.
+Easy going in dry conditions, but the rock is well polished and care would definitely be needed in the wet. Numerous crampon scratches on the rock attest to this being a serious section of winter climbing.
 
-Looking up Sharp Edge   Looking down Sharp Edge
+![Sharp Edge](looking-up-sharp-edge.jpg "looking-up-sharp-edge")
+*Looking upwards along Sharp Edge.*
 
-The pictures above are (left) looking up Sharp Edge, and (right) looking down from near the summit towards Scales Tarn. Keep in mind this is the summit of Atkinson Pike and Blencathra is a few hundred metres to the south.
+The picture above, shows the route along Sharp Edge, leading to the summit of Atkinson Pike. Keep in mind that the actual summit of Blencathra is a few hundred metres to the south.
 
 > "This is a mountain that compels attention, even from those dull people whose eyes are not habitually lifted to the hills."
 
-Mungrisdale Common and Great Calva
-The exciting summit of Mungrisdale Common
+![mungrisdale-common](mungrisdale-common.jpg "mungrisdale-common")
+*The exciting summit of Mungrisdale Common.*
 
 Mungrisdale Common has something of a bad rap for being boring, and some have questioned what possessed AW to designate it a Wainwright. In it's defence, it does occupy a key central location and commands views of most of the main summits in this Northern Fells group. So as you'd expect, it's not exciting, but I'll concede it is worth a visit. I think a worthwhile tip is that although it's a simple rounded hill, give some care to your route planning, as the options for crossing the River Caldew are not always straightforward. After the fact, I wish I'd descended to the south-west, picked up the Cumbria Way path and headed north past Skiddaw House.
 
-"Mungrisdale Common's natural attractions are of a type that appeals only to sheep."
+> "Mungrisdale Common's natural attractions are of a type that appeals only to sheep."
 
 As it was, I ended up to the south-east of Great Calva. There's a path that follows a wire fence up the east side of the fell. It's very steep in places and heavy going at the end of the day. For future reference, I'd suggest an approach from the west!
 
@@ -92,12 +93,12 @@ As it was, I ended up to the south-east of Great Calva. There's a path that foll
 
 Once on the summit of Great Calva, the going is easy, but by the looks of the ground, I'd say it would turn very boggy after any prolonged rain. Luckily, it was dry as a bone today, and I made good time over Knott and Great Lingly Hill. I was also on the lookout for a camp.
 
+![great-calva](great-calva.jpg "great-calva")
+*From Great Calva, looking towards the 'back' of Blencathra.*
+
 "The actual top, which is stony, is a fine belvedere, but behind is an extensive plateau without an irrigation system..."
 
-The back of Blencathra
-The back of Blencathra from below Knott
-
-My first thought was an area marked Coomb Height on the OS map. I think it would have made a good spot, but I was enjoying the golden light and kept going another couple of kilometres. I collected a 2 litre Platypus of water at Grainsgill Beck, which I'd noted on previous walks as a good clear, fast flowing stream. Everywhere was so dry, I wasn't confident of finding a decent stream near the appropriately named Drygill Head, and it proved to be a good decision.
+My first thought for a campsite was an area marked Coomb Height on the OS map. I think it would have made a good spot, but I was enjoying the golden light and kept going another couple of kilometres. I collected a 2 litre Platypus of water at Grainsgill Beck, which I'd noted on previous walks as a good clear, fast flowing stream. Everywhere was so dry, I wasn't confident of finding a decent stream near the appropriately named Drygill Head, and it proved to be a good decision.
 
 #### Wildcamp
 
@@ -105,10 +106,10 @@ There are plenty of good wildcamp spots around here and after some fairly charac
 
 I got my Laser Competition pitched, and unpacked my sleeping bag to let it loft while I ate supper; a dehydrated Reiters Travel Lunch Vegetable Risotto that I picked up in GoOutdoors. It was rapidly getting a bit chilly, and after some brief star-gazing (it was a fantastic clear night) I was asleep before 10pm. For what was really feeling like a summer walk, I was a bit taken aback by the drop in temperature overnight. I woke up twice. The first time because of a cold draught and I needed to tighten up the sleeping bag hood. The second time was by some frozen condensation dropping onto my nose.
 
-However, I have only good things to say about my gear, and I'll write that up once I finally get caught up with my monstrously out of date blog...
+However, I have only good things to say about my gear, and I'll add a couple of notes to the summary.
 
-View from front door
-View from my tent doorway
+![morning-view](morning-view.jpg "morning-view")
+*View from my tent doorway.*
 
 I awoke around 6am. It was fresh, but warming quickly as the sun rose. On the dawning of my 38th year, I was more than satisfied by the view from my front door; see above.
 
@@ -119,9 +120,9 @@ Day two was to be a short walk back to the car, and an early finish - with getti
 Looking towards Blencathra from path to Carrock Fell
 Looking towards Bowscale and Blencathra
 
-The last time I climbed Carrock Fell, it was wet and boggy underfoot, but these conditions were very different. Worth bearing this in mind though if walking her in more normal weather.
+The last time I climbed Carrock Fell, it was wet and boggy underfoot, but these conditions were very different. Worth bearing this in mind though if walking here in more normal weather.
 
-"Amongst the igneous rocks of which the fell is formed is gabbro - the stuff the Black Coolin of Skye are made of but a rarity in Lakeland."
+> "Amongst the igneous rocks of which the fell is formed is gabbro - the stuff the Black Coolin of Skye are made of but a rarity in Lakeland."
 
 The Carrock Fell ridge becomes steep as you drop down towards Black Moss, and becomes very steep from Further Gill Sike to the valley floor. The summit is the site of an Iron Age hill fort, built by the Celts, destroyed by the Romans. You can see why it occupies a good position, although there's very little of it left. It's views over the Eden Valley towards the Pennine Hills are very impressive.
 
