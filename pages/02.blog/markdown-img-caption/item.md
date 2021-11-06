@@ -18,13 +18,13 @@ I was looking for a simple way to add a visible "caption" to an image, using Mar
 
 ===
 
-Unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for doing that. There are plugins to add the functionalify, wrapping it in a `<figure>` and using the image title as the `<figcaption>`. You could add a snippet of HTML, or some people suggest put the image in a Markdown table, or you could write a function to write in the caption. I didn't particularly like the sound of any of those.
+Unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for doing this. There are plugins to add the functionalify, wrapping your image in a `<figure>` and using the image title as the `<figcaption>`. You could add a snippet of HTML after the image. Or, some people suggest put the image in a Markdown table. Alternatively you could write a function to insert the caption after the fact. I didn't particularly like the sound of any of those.
 
 ![markdown-img-caption](markdown-img-caption.png "markdown-img-caption")
 
-I wanted a very simple caption, small text, centered beneath the image, maybe slightly paler than the surrounding paragraph text.
+I wanted to be able to write what looks like vanilla Markdown. Just a very simple caption, small text, centered beneath the image, maybe slightly paler than the surrounding paragraph text.
 
-Presumably what I'm trying here isn't a new idea, and I don't suppose it's *proper* use of the syntax, but my thought was simply style a block of text immediately after the image. Clearly it can't just be a regular paragraph, so I'm currently using an `<em>` tag, and it has to follow immediately - so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
+Presumably what I'm trying here isn't a new idea, and I don't suppose it's *proper* use of the syntax either, but my thought was simply style a block of text immediately after the image. Clearly it can't just be a regular paragraph, so I'm currently using an `<em>` tag, and it has to follow immediately, so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
 
 ```markdown
   
