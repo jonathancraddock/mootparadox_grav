@@ -8,7 +8,7 @@ taxonomy:
         - 'lake district'
         - 'eastern fells'
         - 'gowbarrow fell'
-media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-outcrop-gowbarrow.jpg,gowbarrow-summit.jpg,ullswater-steamer.jpg'
+media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-outcrop-gowbarrow.jpg,gowbarrow-summit.jpg,ullswater-steamer.jpg,aira-beck.jpg'
 ---
 
 This was to be a short warm-up on the afternoon of 8th July 2015, prior to a night's camping at Glenridding, and [Catstycam](/blog/catstycam-to-sheffield-pike) the following day.
@@ -26,10 +26,12 @@ This is not exactly hardcore mountaineering, and the gentle, rolling summit is n
 
 > "Gowbarrow Fell faces up Ullswater into the throat of the deep valley of Patterdale..."
 
+Using Aira Force as a point of reference, that is where you need to divert south-east and the path begins to climb. At the lower levels you are walking alongside trees and ferns, but as you gain height the views begin to open up.
+
 ![yew-crag-towards-hallin-fell](yew-crag-towards-hallin-fell.jpg "yew-crag-towards-hallin-fell")
 *Yew Crag, looking across Ullswater towards Hallin Fell.*
 
-The photo above is representetive of the paths. Clearly marked, easy gradients, sometimes the drop-off is a little steeper. 
+The photo above is representetive of the paths. Clearly marked, easy gradients - sometimes the drop-off is a little steeper. The area of Yew Crag is a useful milestone, and there is also a stone memorial bench. This is where the path turns around the eastern side of the fell, traversing gently for a while, before a steeper final climb to the summit trig point.
 
 ![ullswater-steamer](ullswater-steamer.jpg "ullswater-steamer")
 *View of the Ullswater steamer.*
@@ -37,12 +39,19 @@ The photo above is representetive of the paths. Clearly marked, easy gradients, 
 The [Ullswater Steamers](https://www.ullswater-steamers.co.uk/) have been operating for over 160 years, although technically steamers they are no longer "steamers". One-way, the fare is £12/adult and Glenridding to Pooley Bridge takes about an hour.
 
 ![craggy-outcrop-gowbarrow](craggy-outcrop-gowbarrow.jpg "craggy-outcrop-gowbarrow")
+*Crags above the path.*
 
-Abc...
+There are small crags here and there above the path, and plenty of picturesque spots if you fancy a picnic!
 
 ![gowbarrow-summit](gowbarrow-summit.jpg "gowbarrow-summit")
+*Gowbarrow Fell summit trig point.*
 
-Abc...
+From the summit there are several easy routes back down, some of the popular ones heading back in the direction of Aira Force. I was aiming for the village of Dockray. Occasionally steep, this path makes navigation easy because it follows a wall all the way down. From Dockray it was a short stroll downhill to the car park.
+
+All in all, this makes an easy but worthy walk, especially when combined with a visit to Aira Force.
+
+![aira-beck](aira-beck.jpg "aira-beck")
+*Obviously not Aira Force... I just liked this photo!*
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
