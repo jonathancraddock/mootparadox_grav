@@ -1,6 +1,6 @@
 ---
 title: 'Markdown IMG Caption'
-media_order: markdown-img-caption.png
+media_order: 'markdown-img-caption.png,00caption.jpg'
 taxonomy:
     category:
         - coding
