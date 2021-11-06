@@ -15,7 +15,7 @@ taxonomy:
         - 'great calva'
         - 'little calva'
         - wildcamping
-media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg'
+media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg,bowscale-and-blencathra.jpg'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days.
@@ -117,8 +117,8 @@ I awoke around 6am. It was fresh, but warming quickly as the sun rose. On the da
 
 Day two was to be a short walk back to the car, and an early finish - with getting started at such an unearthly hour! It was a beautiful morning and it felt like I had the hills to myself; I probably did.
 
-Looking towards Blencathra from path to Carrock Fell
-Looking towards Bowscale and Blencathra
+![bowscale-and-blencathra](bowscale-and-blencathra.jpg "bowscale-and-blencathra")
+*Looking towards Bowscale and Blencathra.*
 
 The last time I climbed Carrock Fell, it was wet and boggy underfoot, but these conditions were very different. Worth bearing this in mind though if walking here in more normal weather.
 
@@ -130,7 +130,7 @@ The Carrock Fell ridge becomes steep as you drop down towards Black Moss, and be
 
 I have to say I am very happy with this first bit of backpacking after such a long absence. The improvements to the gear available today compared with the early '90s is dramatic. I kept all my old kit, apart from my LaserTrek rucksack that was damaged, so I'll write something about gear once I've written up my next trip report, a circuit to the south of Martindale.
 
-Coming down from Carrock Fell
+
 Descending Carrock Fell, overlooking Vale of Eden
 
 The quick snapshot below was taken as I unpacked - apart from the water bottle that I was still using!
