@@ -76,7 +76,7 @@ At the marker post (M-1912) head east to the summit of Sheffield Pike. It forms 
 ![catstycam-selfie](catstycam-selfie.jpg "catstycam-selfie")
 *Mandatory selfie near the start of my route.*
 
-The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee. So near, and yet so far! Had to take my time after that, and thankfully my pair of Pacer Poles earned their keep.
+The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee. So near, and yet so far! Had to take my time after that, and thankfully my pair of [Pacer Poles](https://www.pacerpole.com/) earned their keep.
 
 This was a fabulous single day route, but probably requires at least a moderate level of fitness. The walk could be cut short at Raise, omitting Stybarrow and Hartside, and heading directly for Sheffield Pike. Still a very worthy loop, but that change would cut the effort quite considerably. Whichever path you follow, take a day off work, and do it in the middle of the week!
 
