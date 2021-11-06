@@ -16,7 +16,7 @@ taxonomy:
         - hartside
         - 'sheffield pike'
         - 'glenridding dodd'
-media_order: '00catstycam.jpg,catstycam-selfie.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,swirral-edge-and-red-tarn.jpg,ullswater-from-below-hartside.jpg,nick-head-marker-sheffield-pike.jpg'
+media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,browncove-crags-thirlmere.jpg,swirral-edge-and-red-tarn.jpg,nick-head-marker-sheffield-pike.jpg,catstycam-selfie.jpg'
 ---
 
 This route from 9th July 2015 made for a longish day-walk, from Catstycam to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
@@ -48,9 +48,9 @@ From the summit you head towards Helvellyn via Swirral Edge. Lesser known than i
 
 Helvellyn summit...
 
-Hartside...
+Browncove crags...
 
-![ullswater-from-below-hartside](ullswater-from-below-hartside.jpg "ullswater-from-below-hartside")
+![browncove-crags-thirlmere](browncove-crags-thirlmere.jpg "browncove-crags-thirlmere")
 
 Traverse...
 
