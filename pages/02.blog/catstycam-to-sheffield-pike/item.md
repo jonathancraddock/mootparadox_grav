@@ -65,11 +65,12 @@ Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation,
 I consider myself to be of a disposition that enjoys height and exposure, but in this instance I wanted to avoid the grassy, high-level ridges, and try the traverse below the head of the Glengoyne valley. It's an easy path from Hartside to Sheffield Pike, via Nick Head, and there are excellent views into the valley below.
 
 ![nick-head-marker-sheffield-pike](nick-head-marker-sheffield-pike.jpg "nick-head-marker-sheffield-pike")
-M192 marker post, below Sheffield Pike.
+*M192 marker post, below Sheffield Pike.*
 
 At the marker post (M 1912) head east to the summit of Sheffield Pike. It forms part of a natural ridge that will lead you across Heron Pike to Glenridding Dodd.
 
 ![catstycam-selfie](catstycam-selfie.jpg "catstycam-selfie")
+*Mandatory selfie near the start of my route.*
 
 The path back to Glenridding was made up of slippery gravel, and it was within a kilometer of my destination that I slid on some soft gravel and wrenched my knee! So near, and yet so far. Had to take my time after that, and thankfully my pair of Pacer Poles earned their keep.
 
