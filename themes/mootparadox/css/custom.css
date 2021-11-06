@@ -17,24 +17,29 @@ a:visited {
 
 /* Dropdown link menu text to white */
 .treemenu li a, .treemenu li a.active, .treemenu li a:focus, .treemenu li a:hover {
-  color: #fff !important;
+  color: #3062a2 !important;
   margin-bottom: 5px;
+  text-align: center;
+  font-weight: bolder;
 }
 
 /* Style the dropdown menu buttons */
 .treemenu li {
   margin: 1em 0 1em 0;
-  background: rgba(30, 73, 111, 0.65);
-  border-radius: 5px;
-  border-style: solid;
-  border-color: rgba(30, 73, 111, 0.9);
-  border-width: 2px;
-  color: whitesmoke;
+  border-radius: .1em;
+  list-style: none;
+  background-color: #d2d9e3e6;
+  border: .05rem solid #0a0c0fe6;
+  box-shadow: 2px 2px 8px 0 rgba(68, 68, 68, 0.3);
+}
+
+.treemenu li.tree-empty > .toggler {
+  display: none;
 }
 
 /* Align bullet to centre of text */
 .treemenu .toggler {
-    padding-top: 3px;
+  padding-top: 3px;
 }
 
 /* Don't make dropdown menu transparent */
@@ -189,11 +194,9 @@ p > img + em {
 }
 
 @media screen and (max-width: 576px) {
-
   /* Experimental - smaller for mobile? */
   iframe {
-    height: 350px !important;
+    height: 350px;
+    padding-right: 1em;
   }
-
 }
-

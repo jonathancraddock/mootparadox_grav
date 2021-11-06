@@ -14,7 +14,9 @@ hero_classes: hero-tiny
 date: '06-11-2021 18:00'
 ---
 
-I was looking for a simple way to add a visible "caption" to an image, using Markdown, but without introducing any HTML markup, or resorting to Javascript. The following may be bending the syntax slightly, but it works!
+I was looking for a simple way to add a visible "caption" to an image, using Markdown, but without introducing any HTML markup, or resorting to Javascript. In particular, I wanted the resulting Markdown to read nicely.
+
+The following may be bending the syntax slightly... but it works!
 
 ===
 
