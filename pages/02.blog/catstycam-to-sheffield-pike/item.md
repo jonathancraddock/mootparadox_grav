@@ -27,7 +27,7 @@ This route on 9th July 2015 made for a longish day-walk, from Catstycam looping 
 
 I camped overnight at Gillside, just outside of Glenridding.
 
-Many years before, if memory serves, I camped here with the Cadets. On that occasion we climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, again via Swirral Edge, but I wanted to climb Catstycam's northern ridge; that's from the Brown Cove side.
+Many years before, if memory serves, I camped here with the Cadets. On that occasion we climbed Helvellyn, via Swirral Edge, and on our second day we climbed High Street. Today though, I was heading back to Helvellyn, again via Swirral Edge, but I wanted to climb Catstycam's northern ridge, from the Brown Cove side, which was a route I'd never tried before.
 
 ![catstycam-from-glenridding-valley](catstycam-from-glenridding-valley.jpg "catstycam-from-glenridding-valley")
 *Dramatic views of Catstycam from the Glenridding valley.*
@@ -68,6 +68,8 @@ I consider myself to be of a disposition that enjoys height and exposure, but in
 
 ![nick-head-marker-sheffield-pike](nick-head-marker-sheffield-pike.jpg "nick-head-marker-sheffield-pike")
 *M1912 marker post, Sheffield Pike is behind me.*
+
+> "*Sheffield Crag* soars abruptly between the valleys of Glenridding and Glengoyne and it presents to each a continuous fringe of steep crags."
 
 At the marker post (M-1912) head east to the summit of Sheffield Pike. It forms part of a natural ridge that will lead you across Heron Pike to Glenridding Dodd.
 
