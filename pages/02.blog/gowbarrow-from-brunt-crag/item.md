@@ -7,7 +7,7 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'eastern fells'
-        - gowbarrow
+        - 'gowbarrow fell'
 media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-outcrop-gowbarrow.jpg,gowbarrow-summit.jpg,ullswater-steamer.jpg'
 ---
 
@@ -22,18 +22,19 @@ Brunt Crag is a National Trust car park, free to members, and is a popular start
 [View Full Screen](https://map.mootparadox.com/full/gowbarrow) | [GPX](https://map.mootparadox.com/gpx/gowbarrow)  
 <p><iframe src="https://map.mootparadox.com/embed/gowbarrow" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-This is not exactly hardcore mountaineering, and the summit is not particularly inspiring. The beuty of this route lies in the views across Ullswater as the path traverses its course up and around its southern and eastern flanks.
+This is not exactly hardcore mountaineering, and the gentle, rolling summit is not particularly inspiring. The beauty of this route lies in the views across Ullswater as the path traverses its course up and around the southern and eastern flanks.
 
 > "Gowbarrow Fell faces up Ullswater into the throat of the deep valley of Patterdale..."
 
 ![yew-crag-towards-hallin-fell](yew-crag-towards-hallin-fell.jpg "yew-crag-towards-hallin-fell")
 *Yew Crag, looking across Ullswater towards Hallin Fell.*
 
-Abc...
+The photo above is representetive of the paths. Clearly marked, easy gradients, sometimes the drop-off is a little steeper. 
 
 ![ullswater-steamer](ullswater-steamer.jpg "ullswater-steamer")
+*View of the Ullswater steamer.*
 
-Abc...
+The [Ullswater Steamers](https://www.ullswater-steamers.co.uk/) have been operating for over 160 years, although technically steamers they are no longer "steamers". One-way, the fare is £12/adult and Glenridding to Pooley Bridge takes about an hour.
 
 ![craggy-outcrop-gowbarrow](craggy-outcrop-gowbarrow.jpg "craggy-outcrop-gowbarrow")
 
