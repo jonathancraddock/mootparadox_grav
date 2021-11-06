@@ -46,7 +46,7 @@ It will come as zero surprise to anyone who knows me to learn that I am not a na
 ![catstycam-north-ridge](catstycam-north-ridge.jpg "catstycam-north-ridge")
 *Steep, but fairly easy climbing on the north ridge of Catstycam.*
 
-From the summit I was heading towards Helvellyn via Swirral Edge. Lesser known than its "striding" opposite number, Swirral Edge is an enjoyable climb, and leads you slightly north of Helvellyn's actual summit. Neither route is difficult, but the consensus seems to be that in normal conditions (not winter) then Swirall Edge is easier and slightly less exposed than Striding Edge.
+From the summit I was heading towards Helvellyn via Swirral Edge. Lesser known than its "striding" counterpart, Swirral Edge is an enjoyable climb, and leads you slightly north of Helvellyn's actual summit. Neither route is difficult, but the consensus seems to be that in normal conditions (not winter) then Swirall Edge is easier and slightly less exposed than Striding Edge. Both get rather steep towards the end.
 
 ![swirral-edge-and-red-tarn](swirral-edge-and-red-tarn.jpg "swirral-edge-and-red-tarn")
 *Red Tarn with Swirral Edge to the left.*
@@ -55,9 +55,11 @@ The approach via either edge is arguably more impressive than the summit itself,
 
 Red Tarn is reputed to offer some stunning wild swimming, with cold clear water that displays a feint green tint. As well as being the highest "substantial body of water" in England, it is also one of four UK lakes that is home to [the schelly](https://en.wikipedia.org/wiki/Schelly), an ancient variety of freshwater salmon.
 
-On this mid-July Thursday, Helvellyn's summit was very peaceful; avoid it like the plague at weekends, unless you love crowds. I took a brief detour over to the summit shelter, before heading onward to Lower Man and Whiteside 
+On this mid-July Thursday, Helvellyn's summit was very peaceful; avoid it like the plague at weekends, unless you love crowds. I took a brief detour over to the summit shelter, before heading onward to Lower Man and Whiteside.
 
-Approaches to Helvellyn from the Thirlmere side have a somewhat dull reputation, but this view across Browncove Crags to Thirlmere, with Bassenthwaite visible in the distance, shows there is merit in both directions. The mountains in the middle distance are High Seat and Bleaberry Fell. Derwent Water is hidden behind them.
+> "The smooth slopes curving up from the west break abruptly along the ridge, where, in complete contrast, a shattered cliff of crag and scree falls away precipitously eastwards..."
+
+Approaches to Helvellyn from the Thirlmere side have a less exciting reputation, but this view across Browncove Crags to Thirlmere, with Bassenthwaite visible in the distance, shows there is still some grandeur from the west. The mountains in the middle distance are High Seat and Bleaberry Fell. Derwent Water is hidden behind them.
 
 ![browncove-crags-thirlmere](browncove-crags-thirlmere.jpg "browncove-crags-thirlmere")
 *Browncove Crags, with Thirlmere in the background.*
