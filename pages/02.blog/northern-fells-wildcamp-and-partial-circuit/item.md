@@ -20,6 +20,8 @@ media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-h
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days. I decided to take the opportunity to walk the final two summits of the Northern Fells; **Mungrisdale Common** and **Great Calva**, which for various reasons I'd never managed to combine into a sensible one-day route.
 
+!!!! A 30km circuit of the Northern Fells, starting at the Black Moss layby. (*Wainwright Book 5: The Northern Fells*)
+
 ===
 
 ![Northern Fells seen from the A66](northern-fells-a66.jpg "northern-fells-a66")
