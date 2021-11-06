@@ -31,7 +31,7 @@ I'm happy to say it went very smoothly, and I felt like I passed a significant m
 
 > "Blencathra and Carrock Fell and the Ullock Pike ridge of Skiddaw ... would rank high in any company."
 
-### Route Summary:
+#### Route Summary
 
 [View Full Screen](https://map.mootparadox.com/full/northern-fells-30k) | [GPX](https://map.mootparadox.com/gpx/northern-fells-30k)  
 <p><iframe src="https://map.mootparadox.com/embed/northern-fells-30k" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
@@ -43,7 +43,7 @@ I'm happy to say it went very smoothly, and I felt like I passed a significant m
 ![camped-near-dry-gill-head](camped-near-dry-gill-head.jpg "camped-near-dry-gill-head")
 *Wild camped at Dry Gill Head.*
 
-Mosedale to Blencathra:
+#### Mosedale to Blencathra
 
 I can understand why the path from Mosedale to Bowscale Tarn is popular. It's an easy gradient and the tarn is wonderfully hidden by a large moraine dam. Great spot for a picnic, though I fear it perhaps might be a little too popular at weekends. On this Tuesday morning is was very quiet. I sat at the water's edge for several minutes, enjoying the scenery, and it was not until I got up that I saw I had company. Two walkers lying on the grass on the far side of a small rise. It's a very tranquil spot.
 
@@ -61,7 +61,7 @@ The picture above is from the path between Bowscale and Bannerdale Crags, lookin
 
 I suspect this is an unconventional approach route, but suited me well, and I'd say it's definitely worth considering.
 
-Blencathra to Great Calva via Mungrisdale Common:
+#### Blencathra to Great Calva via Mungrisdale Common
 
 This was my first ascent of Sharp Edge and I can confirm it's a first class bit of Lakeland scrambling!
 
@@ -84,7 +84,7 @@ Mungrisdale Common has something of a bad rap for being boring, and some have qu
 
 As it was, I ended up to the south-east of Great Calva. There's a path that follows a wire fence up the east side of the fell. It's very steep in places and heavy going at the end of the day. For future reference, I'd suggest an approach from the west!
 
-Great Calva to Drygill Head:
+#### Great Calva to Drygill Head
 
 Once on the summit of Great Calva, the going is easy, but by the looks of the ground, I'd say it would turn very boggy after any prolonged rain. Luckily, it was dry as a bone today, and I made good time over Knott and Great Lingly Hill. I was also on the lookout for a camp.
 
@@ -95,7 +95,7 @@ The back of Blencathra from below Knott
 
 My first thought was an area marked Coomb Height on the OS map. I think it would have made a good spot, but I was enjoying the golden light and kept going another couple of kilometres. I collected a 2 litre Platypus of water at Grainsgill Beck, which I'd noted on previous walks as a good clear, fast flowing stream. Everywhere was so dry, I wasn't confident of finding a decent stream near the appropriately named Drygill Head, and it proved to be a good decision.
 
-Wildcamp:
+#### Wildcamp
 
 There are plenty of good wildcamp spots around here and after some fairly characteristic indecision, I settled on a spot near the head of Brandy Gill.
 
@@ -108,7 +108,7 @@ View from my tent doorway
 
 I awoke around 6am. It was fresh, but warming quickly as the sun rose. On the dawning of my 38th year, I was more than satisfied by the view from my front door; see above.
 
-Drygill Head to Mosedale Moss via Carrock Fell:
+#### Drygill Head to Mosedale Moss via Carrock Fell
 
 Day two was to be a short walk back to the car, and an early finish - with getting started at such an unearthly hour! It was a beautiful morning and it felt like I had the hills to myself; I probably did.
 
@@ -121,7 +121,7 @@ The last time I climbed Carrock Fell, it was wet and boggy underfoot, but these 
 
 The Carrock Fell ridge becomes steep as you drop down towards Black Moss, and becomes very steep from Further Gill Sike to the valley floor. The summit is the site of an Iron Age hill fort, built by the Celts, destroyed by the Romans. You can see why it occupies a good position, although there's very little of it left. It's views over the Eden Valley towards the Pennine Hills are very impressive.
 
-Summary:
+#### Summary
 
 I have to say I am very happy with this first bit of backpacking after such a long absence. The improvements to the gear available today compared with the early '90s is dramatic. I kept all my old kit, apart from my LaserTrek rucksack that was damaged, so I'll write something about gear once I've written up my next trip report, a circuit to the south of Martindale.
 
@@ -135,6 +135,8 @@ Packed and Unpacked
 
 Everything packed OK in my 32L bag, except that the tent had to fit in the rear mesh pocket. I'd initially felt this was a bit of a compromise and it would have been nice to get everything inside, but it actually worked better to keep it there.
 
-In summary, a definite success, and now looking forward to my next mini-expedition...
+In summary, a definite success, and now looking forward to my next mini-expedition.
 
-"to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains" A. Wainwright
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
