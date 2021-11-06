@@ -15,7 +15,7 @@ taxonomy:
         - 'great calva'
         - 'little calva'
         - wildcamping
-media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-head.jpg,bowscale-tarn.jpg'
+media_order: '00northern-fells.jpg,northern-fells-a66.jpg,camped-near-dry-gill-head.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days. I decided to take the opportunity to walk the final two summits of the Northern Fells; **Mungrisdale Common** and **Great Calva**, which for various reasons I'd never managed to combine into a sensible one-day route.
@@ -50,18 +50,18 @@ I can understand why the path from Mosedale to Bowscale Tarn is popular. It's an
 ![Looking into Bowscale Tarn](bowscale-tarn.jpg "bowscale-tarn")
 *Looking into Bowscale Tarn from the moraine dam.*
 
-"...tiered crags carved by ice; silent waters embanked by moraines; scattered rocks in the wake of the departed glacier..."
+> "...tiered crags carved by ice; silent waters embanked by moraines; scattered rocks in the wake of the departed glacier..."
 
 There's a path (not marked on OS map, but clearly visible on the ground) that climbs the headwall due west from the start of Tarn Sike. It takes you nicely onto the ridge leading to Bowscale Fell and Bannerdale Crags, and ultimately on to Blencathra.
 
-Looking into Bannerdale
-Into the Bannerdale Valley
+![Bannerdale Valley towards Souther Fell](bannerdale-valley.jpg "bannerdale-valley")
+*Looking into the Bannerdale Valley.*
 
 The picture above is from the path between Bowscale and Bannerdale Crags, looking into the Bannerdale valley, towards Souther Fell. It would have been a short detour to the summit of Bannerdale Crags, but I was keen to move onto Blencathra. There's a col between Bannerdale Crags and Atkinson Pike, near the source of the River Glenderamackin. The main path leads you to Scales Tarn, but it descends about 100m in the process. I began following this path, but at the 600m contour, I headed in towards Foule Crag. There's no path at first, but you do pick one up as you approach the north-east end of Sharp Edge. You attain the ridge just as it starts to get interesting.
 
 I suspect this is an unconventional approach route, but suited me well, and I'd say it's definitely worth considering.
 
-#### Blencathra to Great Calva via Mungrisdale Common
+#### Blencathra via Sharp Edge
 
 This was my first ascent of Sharp Edge and I can confirm it's a first class bit of Lakeland scrambling!
 
@@ -73,7 +73,7 @@ Looking up Sharp Edge   Looking down Sharp Edge
 
 The pictures above are (left) looking up Sharp Edge, and (right) looking down from near the summit towards Scales Tarn. Keep in mind this is the summit of Atkinson Pike and Blencathra is a few hundred metres to the south.
 
-"This is a mountain that compels attention, even from those dull people whose eyes are not habitually lifted to the hills."
+> "This is a mountain that compels attention, even from those dull people whose eyes are not habitually lifted to the hills."
 
 Mungrisdale Common and Great Calva
 The exciting summit of Mungrisdale Common
