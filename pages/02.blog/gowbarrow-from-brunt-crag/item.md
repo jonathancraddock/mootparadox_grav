@@ -12,7 +12,7 @@ taxonomy:
 
 Notes and route plan to follow.
 
-!!!! A 12km circular route, starting at the Uzzicar car park. (_Wainwright Book 6: The North Western Fells_)
+!!!! A short 7.5km circular route, starting at the Brunt Crag car park. (_Wainwright Book 5: The Northern Fells_)
 
 ===
 
