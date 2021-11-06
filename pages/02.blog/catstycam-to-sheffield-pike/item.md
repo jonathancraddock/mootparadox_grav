@@ -49,7 +49,9 @@ From the summit I was heading towards Helvellyn via Swirral Edge. Lesser known t
 ![swirral-edge-and-red-tarn](swirral-edge-and-red-tarn.jpg "swirral-edge-and-red-tarn")
 *Red Tarn with Swirral Edge to the left.*
 
-Helvellyn summit...
+The approach via either edge is arguably more impressive than the summit itself, but there is no denying the quality of the views. Ullswater to the east, Thirlmere to the west. Red Tarn is reputed to offer some stunning wild swimming, with cold clear water that has a feint green tint. As well as being the highest "substantial body of water" in England, it is also one of four UK lakes that is home to [the schelly](https://en.wikipedia.org/wiki/Schelly), a variety of freshwater salmon.
+
+On this mid-July Thursday, Helvellyn's summit was very peaceful. I took a brief detour to the summit shelter before heading onward to Lower Man and Whiteside 
 
 Browncove crags...
 
