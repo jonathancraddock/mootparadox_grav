@@ -17,20 +17,20 @@ I was looking for a simple way to add a visible "caption" to an image, using Mar
 
 ===
 
-Unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for adding a text caption below an image. You could add a snippet of HTML, or just write a bit of Javascript to pull the ALT text and use that as the caption. I didn't particularly like either solution.
+And, unless I'm missing something obvious, I can't see that standard flavour Markdown has any simple mechanism for doing that. You could add a snippet of HTML, or just write a bit of Javascript to pull the ALT text and use that as the caption. I didn't particularly like either solution.
 
 ![markdown-img-caption](markdown-img-caption.png "markdown-img-caption")
 
-Presumably this isn't a new idea, and I don't suppose it's "proper" use of the syntax, but my thought was simply style the text after the image. Can't just be a regular paragraph, so I'm using an `<em>` tag, and it has to follow immediately - so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
+Presumably this isn't a new idea, and I don't suppose it's "proper" use of the syntax, but my thought was simply style the text immediately after the image. It can't just be a regular paragraph, so I'm using an `<em>` tag, and it has to follow immediately - so that the Markdown parser writes it into the same paragraph tag as the image. The Markdown is typically as follows:
 
 ```markdown
-
+  
 ![Northern Fells seen from the A66](northern-fells-a66.jpg "northern-fells-a66")
 *The Northern Fells dominates the view as you approach along the A66.*
-
+  
 ```
 
-There will always be a blank line in the source, separating the image from its surrounding paragraphs. The caption follows immediately, and without a blank line. So you get:
+Markdown requires that there will always be blank lines in the source, separating the image from its surrounding paragraphs. So here the caption follows immediately, and without a blank line. So you get:
 
 ```html
 <p>
@@ -39,7 +39,7 @@ There will always be a blank line in the source, separating the image from its s
 </p>
 ```
 
-It then becomes easy to target an `<em>` that follows an `<img>` within a paragraph:
+It then becomes easy to target an `<em>` that follows an `<img>` within a `<p>`.
 
 ```css
 /* Use <em> after image as a caption */
@@ -53,4 +53,6 @@ p > img + em {
 }
 ```
 
-If a regular paragraph happens to begin with some *emphasised text*, that's no problem because there is an intervening `<p>` and so the CSS doesn't target that text.
+If a regular paragraph happens to begin with some *emphasised text*, that's no problem because there would be an intervening `<p>` and so the CSS doesn't target that text.
+
+Don't know if it's perfect, but it works for me!
