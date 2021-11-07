@@ -19,7 +19,8 @@ Sun tan cream was at the ready for this day of glorious sunshine in The Far East
 
 ===
 
-High Street from Mardale Ill Bell
+![high-street](high-street.jpg "high-street")
+*High Street from path to Mardale Ill Bell.*
 
 I hadn't originally planned the detour around Mardale Ill Bell and High Street, but was making good time and had no intention of finishing the walk in the early afternoon, so had a leisurely stroll around High Street while I made plans for future routes.
 
