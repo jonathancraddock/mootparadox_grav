@@ -28,7 +28,12 @@ Wainwright bagging count now stands at 57...
 
 Route Summary:
 
-Park at the Cow Bridge car park just to the north of Brothers Water. This was half-term and the car park was almost full by 10am; I got the last space, I think it had only been left empty because it was in an ankle deep puddle. (Wimps!!) There is also a decent looking car park in Hartsop village, but the road was being dug up when I was there. Head through the village and up to Hartsop Dodd. Be prepared for a steep climb for the first mile, but once you're up onto the ridge, the rest of the day is a breeze! There's an easy scramble as you cross Threshthwaite Mouth, the rocky col between Stony Cove Pike (fell is Caudale Moor, and Stony Cove Pike is the summit) and Thornthwaite Crag. Then head for High Street via Mardale Ill Bell. This approach gives you some great views into the bowl of Blea Water tarn. High Street is the highest point on the route, so then head back to the beacon at Thornthwaite Crag and descend the ridge of Gray Crag. Again, be prepared for a steep, but easy descent, and then the pleasant stroll back to the car park. This is an easy 19km walk (except for very steep climb at the start) with just over 1000m total ascent.
+Park at the Cow Bridge car park just to the north of Brothers Water. This was half-term and the car park was almost full by 10am; I got the last space, I think it had only been left empty because it was in an ankle deep puddle. (Wimps!!) There is also a decent looking car park in Hartsop village, but the road was being dug up when I was there.
+
+[View Full Screen](https://map.mootparadox.com/full/stony-cove) | [GPX](https://map.mootparadox.com/gpx/stony-cove)  
+<p><iframe src="https://map.mootparadox.com/embed/stony-cove" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
+Head through the village and up to Hartsop Dodd. Be prepared for a steep climb for the first mile, but once you're up onto the ridge, the rest of the day is a breeze! There's an easy scramble as you cross Threshthwaite Mouth, the rocky col between Stony Cove Pike (fell is Caudale Moor, and Stony Cove Pike is the summit) and Thornthwaite Crag. Then head for High Street via Mardale Ill Bell. This approach gives you some great views into the bowl of Blea Water tarn. High Street is the highest point on the route, so then head back to the beacon at Thornthwaite Crag and descend the ridge of Gray Crag. Again, be prepared for a steep, but easy descent, and then the pleasant stroll back to the car park. This is an easy 19km walk (except for very steep climb at the start) with just over 1000m total ascent.
 
 Resting feet on Mardale Ill Bell
 
