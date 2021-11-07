@@ -28,14 +28,16 @@ The title **Dodd to Latrigg** probably doesn't do full justice to this circular 
 
 #### Route Summary
 
+Follow the road (if 'road' is a word you can reasonably use in this instance) from Ormthwaite and park at the Latrigg car park.
+
 [View Full Screen](https://map.mootparadox.com/full/dodd-latrigg) | [GPX](https://map.mootparadox.com/gpx/dodd-latrigg)  
 <p><iframe src="https://map.mootparadox.com/embed/dodd-latrigg" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-Follow the road (if 'road' is a word you can reasonably use in this instance) from Ormthwaite and park at the Latrigg car park. Head for Dodd, initially on road. After the summit of Dodd, take the direct route up to Carl Side and up the western side of Skiddaw. Descend via Bakestall and join the track near Dash Beck, following it to Skiddaw House. (I had planned to take in Great Calva at this point, but it was going to make me late back to the car park, so I skipped it on this occasion.) After that, ascend Lonscale Fell via the Burnt Horse ridge and descend back to the Latrigg car park. But, before departing, head up to Latrigg and enjoy the views!
+The route to Dodd begins on road. After the summit of Dodd, take the direct route up to Carl Side and up the western side of Skiddaw. Descend via Bakestall and join the track near Dash Beck, following it to Skiddaw House. (I had planned to take in Great Calva at this point, but it was going to make me late back to the car park, so I skipped it on this occasion.) After that, ascend Lonscale Fell via the Burnt Horse ridge and descend back to the Latrigg car park. But, before departing, head up to Latrigg and enjoy the views!
 
 #### Dodd
 
-If I had to provide a single tip for the ascent of Dodd, throw away your map, because the paths shown bear no resemblance to the real thing! The small map detail below is based on my GPS tracklog and so far as I could see, represents the only sensible route when approaching from the south; unless you happen to enjoy machete work through dense undergrowth. To the right is the view from the summit, towards Grisedale Pike.
+If I had to provide a single tip for the ascent of Dodd, throw away your map, because the paths shown bear no resemblance to the real thing! The map above comes straight from my GPS tracklog and, so far as I could see, represents the only sensible route when approaching from the south; unless you happen to enjoy machete work through dense undergrowth. To the right is the view from the summit, towards Derwent Water.
 
 ![dodd-towards-derwent-water](dodd-towards-derwent-water.jpg "dodd-towards-derwent-water")
 *From Dodd, looking towards Derwent Water.*
@@ -44,17 +46,17 @@ At barely more than half the height of Skiddaw, Dodd looks insignificant on the 
 
 #### Carl Side & Skiddaw
 
-This was my second time on Carl Side, having previously approached from the north-west, via Ullock Pike, Long Side Edge and Long Side. This route up from Dodd affords good views across to Skiddaw Little Man and Lesser Man, but insofar as I'm qualified to judge, the aforementiond ridge route from Ullock Pike is better.
+This was my second visit to Carl Side.
 
 ![skiddaw-from-carl-side](skiddaw-from-carl-side.jpg "skiddaw-from-carl-side")
 *From Carl Side, the path up the western side of Skiddaw looks ridiculous, but feel assured it's not as steep as it looks. Not quite!*
 
-Given the choice, I preferred the ascent of Skiddaw along Long Side Edge. It's a quieter route, and far nicer than the tourist route!
+Last time I approached from the north-west, via Ullock Pike, Long Side Edge and Long Side. This route up from Dodd affords good views across to Skiddaw Little Man and Lesser Man, but insofar as I'm qualified to judge, the aforementiond ridge route from Ullock Pike is better.
 
 ![long-side-edge](long-side-edge.jpg "long-side-edge")
 *Long Side Edge seen from the ascent of Skiddaw.*
 
-The summit of Skiddaw feels quite barren.
+The summit of Skiddaw feels quite barren and rocky. Nevertheless, it's the fourth highest summit in the region, and personally I enjoyed the approach up through the bare and broken rocks.
 
 ![skiddaw-trig-point](skiddaw-trig-point.jpg "skiddaw-trig-point")
 *Skiddaw summit trig point.*
