@@ -4,14 +4,15 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'lake district'
         - cumbria
+        - 'lake district'
         - 'northern fells'
         - dodd
         - 'carl side'
         - skiddaw
         - 'lonscale fell'
         - latrigg
+media_order: '00dodd-latrigg.jpg,dodd-towards-grisedale-pike.jpg,latrigg.jpg,long-side-edge.jpg,lonscale-fell.jpg,skiddaw-from-carl-side.jpg'
 ---
 
 The title "Dodd to Latrigg" probably doesn't do full justice to this circular walk of approximately 16 miles and 5882 feet of total ascent; more than a mile upwards! On this fifth outing to the Northern Fells I was very pleased to meet up with @stevenhorner and @helenjfisher, and the three of us walked as far as Carl Side before I departed on my circuitous route around Bakestall and Lonscale Fell. (Picassa Gallery)
