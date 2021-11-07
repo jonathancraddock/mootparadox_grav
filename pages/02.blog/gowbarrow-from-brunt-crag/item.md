@@ -13,7 +13,7 @@ media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-o
 
 This was to be a short warm-up on the afternoon of 8th July 2015, prior to a night's camping at Glenridding, and [Catstycam](/blog/catstycam-to-sheffield-pike) the following day.
 
-!!!! A short 7.5km circular route, starting at the Brunt Crag car park. (_Wainwright Book 5: The Northern Fells_)
+!!!! A short 7.5km circular route, starting at the Brunt Crag car park. (*Wainwright Book 1: The Eastern Fells*)
 
 ===
 
