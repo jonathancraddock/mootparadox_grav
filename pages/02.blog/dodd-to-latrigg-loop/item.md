@@ -15,7 +15,7 @@ taxonomy:
 media_order: '00dodd-latrigg.jpg,north-western-fells.jpg,dodd-towards-derwent-water.jpg,skiddaw-from-carl-side.jpg,long-side-edge.jpg,skiddaw-trig-point.jpg,skiddaw-house-and-lonscale-fell.jpg,lonscale-fell.jpg,latrigg.jpg'
 ---
 
-The title **Dodd to Latrigg** probably doesn't do full justice to this circular walk of approximately 16 miles and 5882 feet of total ascent; more than a mile upwards! On this fifth outing to the Northern Fells I was very pleased to bump into @stevenhorner and @helenjfisher, and the three of us walked as far as Carl Side before I departed on my circuitous route around Bakestall and Lonscale Fell.
+The title **Dodd to Latrigg** probably doesn't do full justice to this circular walk of approximately 16 miles and 5882 feet of total ascent; more than a mile upwards! On this fifth outing to the Northern Fells I was very pleased to bump into @stevenhorner and we walked as far as Carl Side before I departed on my circuitous route around Bakestall and Lonscale Fell.
 
 !!!! A 25km circuit of Skiddaw, starting at Latrigg. (*Wainwright Book 5: The Northern Fells*)
 
