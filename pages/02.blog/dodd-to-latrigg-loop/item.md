@@ -21,10 +21,10 @@ The title **Dodd to Latrigg** probably doesn't do full justice to this circular 
 
 ===
 
-Abc...
-
 ![north-western-fells](north-western-fells.jpg "north-western-fells")
 *North Western Fells, seen from near the summit of Dodd.*
+
+> "Dodd, like Latrigg, can be described as a whelp of Skiddaw crouched at the feet of his parent."
 
 #### Route Summary
 
