@@ -12,6 +12,7 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
+media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
@@ -48,7 +49,8 @@ I met a Yorkshireman at about that point, who caught up with me while I was sitt
 
 "The view of Dove Crag and Dovedale across the gulf of he Patterdale valley is exceedingly impressive, a classic amongst views."
 
-Looking towards Fairfield from Hartsop Dodd
+![hartsopp-dodd-towards-fairfield](hartsopp-dodd-towards-fairfield.jpg "hartsopp-dodd-towards-fairfield")
+*Looking towards Fairfield from Hartsop Dodd.*
 
 As soon as you reach Hartsop Dodd, the path levels out considerably and reflects the rest of the day, which is easy going from here onwards. Navigation is also simple, following a wall most of the way to the summit of Stony Cove Pike.
 
