@@ -41,11 +41,7 @@ Resting feet on Mardale Ill Bell
 
 Allow about 6 hours. Refer to: Wainwright Book 2: The Far Eastern Fells.
 
-Map:
-
-Click here to view OS Map on Social Hiking...
-
-Car park to Stony Cove Pike:
+#### Car park to Stony Cove Pike
 
 This route starts gently, a stroll through the quiet village of Hartsop, before turning south and climbing steeply to the summit of Hartsop Dodd. A useful tip is that if you cross the small wooden foot bridge at the north end of the village, turn left almost immediately afterwards and follow the river south-east. (The more obvious looking path takes you the wrong side of some farm buildings.) The second and larger bridge, at the east side of the village, is probably better.
 
@@ -60,7 +56,7 @@ I met a Yorkshireman at about that point, who caught up with me while I was sitt
 ![hartsopp-dodd-towards-fairfield](hartsopp-dodd-towards-fairfield.jpg "hartsopp-dodd-towards-fairfield")
 *Looking towards Fairfield from Hartsop Dodd.*
 
-As soon as you reach Hartsop Dodd, the path levels out considerably and reflects the rest of the day, which is easy going from here onwards. Navigation is also simple, following a wall most of the way to the summit of Stony Cove Pike.
+As soon as you reach Hartsop Dodd, the path levels out considerably and reflects the rest of the day, which is easy going from here onwards. Navigation is also simple, following a wall most of the way to the summit of Stony Cove Pike. The entire route includes 1050m of ascent, but most of that is behind you by Hartsopp Dodd.
 
 View of Thornthwaite Crag and High Street from Stony Cove Pike
 
