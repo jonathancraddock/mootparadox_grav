@@ -12,7 +12,7 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
-media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg'
+media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
@@ -45,7 +45,8 @@ Allow about 6 hours. Refer to: Wainwright Book 2: The Far Eastern Fells.
 
 This route starts gently, a stroll through the quiet village of Hartsop, before turning south and climbing steeply to the summit of Hartsop Dodd. A useful tip is that if you cross the small wooden foot bridge at the north end of the village, turn left almost immediately afterwards and follow the river south-east. (The more obvious looking path takes you the wrong side of some farm buildings.) The second and larger bridge, at the east side of the village, is probably better.
 
-Looking towards Hartsop Dodd
+![hartsop-dodd](hartsop-dodd.jpg "hartsop-dodd")
+*Looking towards Hartsop Dodd.*
 
 The climb to the summit of Hartsop Dodd (only 618m) is very direct and fairly tough going. The beauty of it is that once you're up on the ridge, the rest of the day is nice and easy. It was a bright, clear day and the views from the summit are superb.
 
