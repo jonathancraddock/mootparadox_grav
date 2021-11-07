@@ -15,23 +15,26 @@ taxonomy:
 media_order: '00dodd-latrigg.jpg,dodd-towards-grisedale-pike.jpg,latrigg.jpg,long-side-edge.jpg,lonscale-fell.jpg,skiddaw-from-carl-side.jpg'
 ---
 
-The title "Dodd to Latrigg" probably doesn't do full justice to this circular walk of approximately 16 miles and 5882 feet of total ascent; more than a mile upwards! On this fifth outing to the Northern Fells I was very pleased to meet up with @stevenhorner and @helenjfisher, and the three of us walked as far as Carl Side before I departed on my circuitous route around Bakestall and Lonscale Fell. (Picassa Gallery)
+The title **Dodd to Latrigg** probably doesn't do full justice to this circular walk of approximately 16 miles and 5882 feet of total ascent; more than a mile upwards! On this fifth outing to the Northern Fells I was very pleased to bump into @stevenhorner and @helenjfisher, and the three of us walked as far as Carl Side before I departed on my circuitous route around Bakestall and Lonscale Fell.
+
+!!!! A 25km circuit of Skiddaw, starting at Latrigg. (*Wainwright Book 5: The Northern Fells*)
 
 ===
 
-Bottom of Carl Side towards Derwent Water
+#### Route Summary:
 
-Route Summary:
+[View Full Screen](https://map.mootparadox.com/full/dodd-latrigg) | [GPX](https://map.mootparadox.com/gpx/dodd-latrigg)  
+<p><iframe src="https://map.mootparadox.com/embed/dodd-latrigg" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Follow the road (if 'road' is a word you can reasonably use in this instance) from Ormthwaite and park at the Latrigg car park. Head for Dodd, initially on road. After the summit of Dodd, take the direct route up to Carl Side and up the western side of Skiddaw. Descend via Bakestall and join the track near Dash Beck, following it to Skiddaw House. (I had planned to take in Great Calva at this point, but it was going to make me late back to the car park, so I skipped it on this occasion.) After that, ascend Lonscale Fell via the Burnt Horse ridge and descend back to the Latrigg car park. But, before departing, head up to Latrigg and enjoy the views!
 
-Wainwright, Book 5: The Northern Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
 
 Dodd:
 
 If I had to provide a single tip for the ascent of Dodd, throw away your map, because the paths shown bear no resemblance to the real thing! The small map detail below is based on my GPS tracklog and so far as I could see, represents the only sensible route when approaching from the south; unless you happen to enjoy machete work through dense undergrowth. To the right is the view from the summit, towards Grisedale Pike.
 
-     
+![dodd-towards-grisedale-pike](dodd-towards-grisedale-pike.jpg "dodd-towards-grisedale-pike")
+*From Dodd, looking towards Grisedale Pike and the North Western Fells.*
 
 At barely more than half the height of Skiddaw, Dodd looks insignificant on the map, but it's actually a very enjoyable walk through woodland and along gently graded footpaths. It feels more exposed at the summit, with no trees to break the wind, so I swapped my sun hat for a thinsulate beanie! There are very nice views to the south-west and towards Derwent Water, while the northerly aspect is dominated by the rounded mass of Carl Side.
 
