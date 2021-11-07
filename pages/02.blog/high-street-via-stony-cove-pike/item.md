@@ -17,6 +17,8 @@ media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.j
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
 
+!!!! A sunny 17km route to High Street via Stony Cove Pike. (*Wainwright Book 2: The Far Eastern Fells*)
+
 ===
 
 ![high-street](high-street.jpg "high-street")
@@ -26,7 +28,7 @@ I hadn't originally planned the detour around Mardale Ill Bell and High Street, 
 
 Wainwright bagging count now stands at 57...
 
-Route Summary:
+#### Route Summary
 
 Park at the Cow Bridge car park just to the north of Brothers Water. This was half-term and the car park was almost full by 10am; I got the last space, I think it had only been left empty because it was in an ankle deep puddle. (Wimps!!) There is also a decent looking car park in Hartsop village, but the road was being dug up when I was there.
 
