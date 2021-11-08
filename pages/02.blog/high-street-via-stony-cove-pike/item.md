@@ -12,7 +12,7 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
-media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg'
+media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
@@ -67,9 +67,10 @@ Stony Cove Pike to Thornthwaite Crag via Threshthwaite Mouth:
 
 The image below left, shows the steep and rocky descent from Stony Cove Pike. The image below right is looking down from Stony Cove Pike, towards the ascent of Thornthwaite Crag.
 
-Looking back to Stony Cove Pike   Looking towards Thornthwaite Crag
+![thornthwaite-beacon](thornthwaite-beacon.jpg "thornthwaite-beacon")
+*Thornthwaite Beacon.*
 
-"This walk is not as simple as it looks, because the deep gap or col (Threshthwaite Mouth) between the two fells is unsuspected from the top of Caudale Moor. The descent to the gap is steep [...] and the climb from it stony and loose."
+> "This walk is not as simple as it looks, because the deep gap or col (Threshthwaite Mouth) between the two fells is unsuspected from the top of Caudale Moor. The descent to the gap is steep ... and the climb from it stony and loose."
 
 In these conditions this is an enjoyable bit of scrambling, jumping from rock to rock on the way down, then a steep climb on a path cutting across a scree slope. In the winter, I think it might feel exposed in places - would be worth taking care.
 
