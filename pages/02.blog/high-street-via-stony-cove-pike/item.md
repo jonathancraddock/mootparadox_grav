@@ -61,7 +61,7 @@ I met a Yorkshireman at about that point, who caught up with me while I was sitt
 
 As soon as you reach Hartsop Dodd, the path levels out considerably and reflects the rest of the day, which is easy going from here onwards. Navigation is also simple, following a wall most of the way to the summit of Stony Cove Pike. The entire route includes 1050m of ascent, but most of that is behind you by Hartsopp Dodd.
 
-
+![thornthwaite-crag-and-high-street](thornthwaite-crag-and-high-street.jpg "thornthwaite-crag-and-high-street")
 *View of Thornthwaite Crag and High Street from Stony Cove Pike.*
 
 In the picture above, taken from Stony Cove Pike, you see the western side of Thornthwaite Crag, with High Street in the top left.
