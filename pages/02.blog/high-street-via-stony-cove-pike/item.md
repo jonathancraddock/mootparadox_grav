@@ -12,7 +12,7 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
-media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg'
+media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg,gray-crag-and-hayeswater.jpg'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
@@ -90,7 +90,8 @@ I don't know why, but for some reason I'd underestimated how impressive High Str
 
 From the tall stone beacon on the summit of Thornthwaite Crag, the steep sided ridge of Gray Crag leads almost directly back to Hartsop. In the photo below, Gray Crag is to the left and the small lake is Hayeswater.
 
-Gray Crag to left with Hayeswater in the valley
+![gray-crag-and-hayeswater](gray-crag-and-hayeswater.jpg "gray-crag-and-hayeswater")
+*Gray Crag to left with Hayeswater in the valley.*
 
 > "The summit is a pleasant level plateau of grass between steep cliffs, which should be visited for their striking downwards views."
 
