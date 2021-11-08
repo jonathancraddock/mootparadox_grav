@@ -12,7 +12,7 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
-media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg'
+media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
@@ -38,8 +38,6 @@ Park at the Cow Bridge car park just to the north of Brothers Water. This was ha
 <p><iframe src="https://map.mootparadox.com/embed/stony-cove" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Head through the village and up to Hartsop Dodd. Be prepared for a steep climb for the first mile, but once you're up onto the ridge, the rest of the day is a breeze! There's an easy scramble as you cross Threshthwaite Mouth, the rocky col between Stony Cove Pike (fell is Caudale Moor, and Stony Cove Pike is the summit) and Thornthwaite Crag. Then head for High Street via Mardale Ill Bell. This approach gives you some great views into the bowl of Blea Water tarn. High Street is the highest point on the route, so then head back to the beacon at Thornthwaite Crag and descend the ridge of Gray Crag. Again, be prepared for a steep, but easy descent, and then the pleasant stroll back to the car park. This is an easy 19km walk (except for very steep climb at the start) with just over 1000m total ascent.
-
-Resting feet on Mardale Ill Bell
 
 Allow about 6 hours. Refer to: Wainwright Book 2: The Far Eastern Fells.
 
@@ -83,7 +81,8 @@ In these conditions this is an enjoyable bit of scrambling, jumping from rock to
 
 I walked to Mardale Ill Bell and High Street as a bit of an after thought because I was well ahead of schedule and had plenty of time for a bit of exploring. On the map it might look like a peculiar diversion, but this is explained as I wanted to return via Gray Crag. A descent to Hartsop via The Knott would probably seem more sensible, but I'll save that for another day!
 
-Looking at Mardale Ill Bell from below summit of High Street
+![blea-water-and-mardale-ill-bell](blea-water-and-mardale-ill-bell.jpg "blea-water-and-mardale-ill-bell")
+*Looking at Mardale Ill Bell from below summit of High Street.*
 
 I don't know why, but for some reason I'd underestimated how impressive High Street actually is. The summit is not that impressive I suppose, but the approaches from the west are spectacular. This is definitely somewhere I'll be returning to.
 
