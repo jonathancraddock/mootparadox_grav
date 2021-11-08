@@ -69,6 +69,8 @@ In the picture above, taken from Stony Cove Pike, you see the western side of Th
 
 The image below left, shows the steep and rocky descent from Stony Cove Pike. The image below right is looking down from Stony Cove Pike, towards the ascent of Thornthwaite Crag.
 
+*img*?
+
 ![thornthwaite-beacon](thornthwaite-beacon.jpg "thornthwaite-beacon")
 *Thornthwaite Beacon.*
 
