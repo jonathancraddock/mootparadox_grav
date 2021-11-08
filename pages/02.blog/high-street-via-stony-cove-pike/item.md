@@ -17,6 +17,8 @@ media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.j
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
 
+**Migration in progress...**
+
 !!!! A sunny 17km route to High Street via Stony Cove Pike. (*Wainwright Book 2: The Far Eastern Fells*)
 
 ===
@@ -52,7 +54,7 @@ The climb to the summit of Hartsop Dodd (only 618m) is very direct and fairly to
 
 I met a Yorkshireman at about that point, who caught up with me while I was sitting eating a granola bar. Ever the master of understatement, I mentioned the climb was slightly steeper than I had anticipated. Without hesitation he replied, "It's a bugger and that's putting it mildly!" I think that's probably all you need to know.
 
-"The view of Dove Crag and Dovedale across the gulf of he Patterdale valley is exceedingly impressive, a classic amongst views."
+> "The view of Dove Crag and Dovedale across the gulf of he Patterdale valley is exceedingly impressive, a classic amongst views."
 
 ![hartsopp-dodd-towards-fairfield](hartsopp-dodd-towards-fairfield.jpg "hartsopp-dodd-towards-fairfield")
 *Looking towards Fairfield from Hartsop Dodd.*
