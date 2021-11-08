@@ -63,7 +63,7 @@ View of Thornthwaite Crag and High Street from Stony Cove Pike
 
 In the picture above, taken from Stony Cove Pike, you see the western side of Thornthwaite Crag, with High Street in the top left.
 
-Stony Cove Pike to Thornthwaite Crag via Threshthwaite Mouth:
+#### Stony Cove Pike to Thornthwaite Crag via Threshthwaite Mouth
 
 The image below left, shows the steep and rocky descent from Stony Cove Pike. The image below right is looking down from Stony Cove Pike, towards the ascent of Thornthwaite Crag.
 
@@ -74,7 +74,7 @@ The image below left, shows the steep and rocky descent from Stony Cove Pike. Th
 
 In these conditions this is an enjoyable bit of scrambling, jumping from rock to rock on the way down, then a steep climb on a path cutting across a scree slope. In the winter, I think it might feel exposed in places - would be worth taking care.
 
-Mardale Ill Bell and High Street:
+#### Mardale Ill Bell and High Street
 
 I walked to Mardale Ill Bell and High Street as a bit of an after thought because I was well ahead of schedule and had plenty of time for a bit of exploring. On the map it might look like a peculiar diversion, but this is explained as I wanted to return via Gray Crag. A descent to Hartsop via The Knott would probably seem more sensible, but I'll save that for another day!
 
@@ -82,24 +82,22 @@ Looking at Mardale Ill Bell from below summit of High Street
 
 I don't know why, but for some reason I'd underestimated how impressive High Street actually is. The summit is not that impressive I suppose, but the approaches from the west are spectacular. This is definitely somewhere I'll be returning to.
 
-Descent via Thornthwaite Crag and Gray Crag:
+#### Descent via Thornthwaite Crag and Gray Crag
 
 From the tall stone beacon on the summit of Thornthwaite Crag, the steep sided ridge of Gray Crag leads almost directly back to Hartsop. In the photo below, Gray Crag is to the left and the small lake is Hayeswater.
 
 Gray Crag to left with Hayeswater in the valley
 
-"The summit is a pleasant level plateau of grass between steep cliffs, which should be visited for their striking downwards views."
+> "The summit is a pleasant level plateau of grass between steep cliffs, which should be visited for their striking downwards views."
 
 The route to Gray Crag follows the top of the ridge. The path is clear, but becomes increasingly indistinct as you descend. There's no difficulty in route finding, but unless I was missing something obvious, I found myself descending unmarked grassy slopes as I dropped down to Hayeswater Gill. From here you pick up a farm track which leads right into Hartsop.
 
-Summary:
+#### Summary
 
 The weather was so good today that I'm sure any walk would have been very enjoyable, but I do think this is a fairly decent route. If I hadn't been concerned about "bagging" Gray Crag, I'd probably have continued from High Street to The Knott, and maybe also Rest Dodd and Brock Crags, before dropping back down to Hartsop.
 
-{source}
-
-{/source}
-
 High Street is definitely a mountain I need to explore further, and the ridge of Yoke, Ill Bell and Froswick particularly caught my eye. It also struck me as prime wild camping territory, and after my recent excursion around the Northern Fells (post coming soon!) this might be the ideal area for my next overnighter!
 
-"to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains" A. Wainwright
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
