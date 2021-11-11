@@ -1,5 +1,5 @@
 ---
-title: 'Blencathra circular via Scales Fell'
+title: 'Blencathra via Scales Fell'
 visible: false
 media_order: '00blencathra_avif.jpg,souther-fell_avif.jpg,blencathra-from-souther-fell_avif.jpg,scales-fell_avif.jpg,river-glenderamackin-valley_avif.jpg,blencathra-and-sharp-edge_avif.jpg,bannerdale-crags-east-ridge_avif.jpg,bowscale-fell_avif.jpg,bowscale-fell-descent_avif.jpg,souther-fell-from-bowscale_avif.jpg'
 taxonomy:
