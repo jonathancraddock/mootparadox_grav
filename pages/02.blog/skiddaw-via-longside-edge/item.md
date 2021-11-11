@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: long-side-edge-skiddaw.jpg
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
