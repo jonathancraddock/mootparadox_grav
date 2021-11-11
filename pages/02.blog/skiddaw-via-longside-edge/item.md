@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg,skiddaw-trig-point.jpg,dead-crags-bakestall.jpg,whitewater-dash-falls.jpg'
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg,skiddaw-trig-point.jpg,dead-crags-bakestall.jpg,whitewater-dash-falls.jpg,clouds-over-bakestall.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
@@ -65,7 +65,8 @@ Bakestall was not a Wainwright I was familiar with, but it consists of some impr
 
 Final look back along the valley towards Whitewater Dash. From here it was a short walk back the car; maybe a mile. It had been a day of six Wainwrights, bringing me up to 14 in total. All very enjoyable, although it was a pity about the wind and lack of visibility from Skiddaw. In the picture below, the cloud started to roll down over the cliffs of Bakestall as if they were being poured from above.
 
-Cloud over Bakestall
+![clouds-over-bakestall](clouds-over-bakestall.jpg "clouds-over-bakestall")
+*Cloud over Bakestall.*
 
 One thing I probably do need to find is a better Mountain Forecast. I've been using Accuweather which are generally excellent. I'm not a metorologist, but if the mountain forcast for 2900 feet says that the cloud-base is at 30,000 feet, that sort of suggests to me that a 3000 foot peak should not be shrouded in low cloud. Clearly this data requires some sort of weather forecasting logic that I haven't quite grasped!
 
