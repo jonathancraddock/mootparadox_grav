@@ -1,5 +1,5 @@
 ---
-title: 'Northern Fells Wildcamp and Partial Circuit'
+title: 'Northern Fells Wildcamp'
 taxonomy:
     category:
         - hiking
