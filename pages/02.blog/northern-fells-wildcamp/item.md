@@ -6,11 +6,11 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'carrock fell'
-        - knott
         - 'northern fells'
         - blencathra
         - 'bowscale fell'
+        - 'carrock fell'
+        - knott
         - 'mungrisdale common'
         - 'great calva'
         - 'little calva'
@@ -96,7 +96,7 @@ Once on the summit of Great Calva, the going is easy, but by the looks of the gr
 ![great-calva](great-calva.jpg "great-calva")
 *From Great Calva, looking towards the 'back' of Blencathra.*
 
-"The actual top, which is stony, is a fine belvedere, but behind is an extensive plateau without an irrigation system..."
+> "The actual top, which is stony, is a fine belvedere, but behind is an extensive plateau without an irrigation system..."
 
 My first thought for a campsite was an area marked Coomb Height on the OS map. I think it would have made a good spot, but I was enjoying the golden light and kept going another couple of kilometres. I collected a 2 litre Platypus of water at Grainsgill Beck, which I'd noted on previous walks as a good clear, fast flowing stream. Everywhere was so dry, I wasn't confident of finding a decent stream near the appropriately named Drygill Head, and it proved to be a good decision.
 
