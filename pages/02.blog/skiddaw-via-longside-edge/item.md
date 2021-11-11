@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg'
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
@@ -35,7 +35,8 @@ The path to Ullock Pike was a highlight of the route, steep in places and the op
 
 From Ullock Pike I followed the ridge a short way to Long Side, second Wainwright of the day, before pushing on to Carl Side. It's a fairly rounded summit, but with good views into the valley and of Little Man. While the skies were clear, there are fantastic views across Bassenthwaite and Derwent Water, from here and more especially from Little Man.
 
-Skiddaw Little Man
+![skiddaw-little-man](skiddaw-little-man.jpg "skiddaw-little-man")
+*Skiddaw Little Man.*
 
 Spent a while on Carl Side, trying to decide on a sensible route to Skiddaw Little Man. I didn't want to take the main path to the Summit of Skiddaw as it felt like too much doubling back on myself. It looked like there was some sort of track horizontally across the scree below the south summit, but when I got up close, it was far too indistinct.
 
