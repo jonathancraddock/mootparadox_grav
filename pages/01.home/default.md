@@ -19,6 +19,13 @@ content:
 
 ### Info
 
-What happened to the old site? The old version of this site is temporarily offline while I have a bit of an experiment with Grav CMS.
+What happened to the old site? For the last couple of weeks the answer has been, "The old version of this site is temporarily offline while I have a bit of an experiment with Grav CMS". The updated answer is that [Grav](https://getgrav.org/) looks great and I'm sticking with it for now! :-)
 
 !!! You can learn about **Grav** at their [Learn Grav](http://learn.getgrav.org) site.
+
+### What Next?
+
+I'm bringing the hiking blog posts across from my old site, with [improved maps](/blog/simple-self-hosted-gpx-map) and better quality versions of the photographs.
+
+![](/blog/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
+*Uploading better quality versions of the old blog photographs.*
