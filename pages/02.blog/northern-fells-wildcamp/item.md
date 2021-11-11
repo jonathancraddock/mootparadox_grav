@@ -45,7 +45,7 @@ I'm happy to say it went very smoothly, and I felt like I passed a significant m
 **Day 2** - Get back onto the ridge and follow the path over Miton Hill, Round Knott and Carrock Fell. Descend the gulley of Further Gill Sike (very steep) and northwards across the crags below Scurth. This leads you directly back to Black Moss.
 
 ![camped-near-dry-gill-head](camped-near-dry-gill-head.jpg "camped-near-dry-gill-head")
-*Wild camped at Dry Gill Head.*
+*Frosty tent at Dry Gill Head.*
 
 #### Mosedale to Blencathra
 
