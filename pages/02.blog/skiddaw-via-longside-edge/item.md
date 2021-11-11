@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg'
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
@@ -40,11 +40,13 @@ From Ullock Pike I followed the ridge a short way to Long Side, second Wainwrigh
 
 Spent a while on Carl Side, trying to decide on a sensible route to Skiddaw Little Man. I didn't want to take the main path to the Summit of Skiddaw as it felt like too much doubling back on myself. It looked like there was some sort of track horizontally across the scree below the south summit, but when I got up close, it was far too indistinct.
 
-Path to Skiddaw south summit
+![skiddaw-south-summit](skiddaw-south-summit.jpg "skiddaw-south-summit")
+*Path to Skiddaw south summit.*
 
 I avoided the main path anyway, taking a more direct route straight to the south summit. Trekking pole was essential and crampons would have been useful! This aspect of my route was a bit contrived - I just didn't want to miss out Little Man when I was so close, but if you were looking for a proper circular walk, it's a detour that perhaps doesn't make a lot of sense, involving a fair bit of descent before retracing your steps later.
 
-View from Little Man
+![views-from-skiddaw-little-man](views-from-skiddaw-little-man.jpg "views-from-skiddaw-little-man")
+*View from Skiddaw Little Man.*
 
 Fantastic views from Skiddaw Little Man, but the clouds were closing in again and the wind was getting ridiculous! The path from here to Skiddaw is admitedly a bit dull, and I suppose this is where some of it's "not interesting" bad rap comes from. As above, approach via Ullock Pike and I think it's a very enjoyable climb.
 
