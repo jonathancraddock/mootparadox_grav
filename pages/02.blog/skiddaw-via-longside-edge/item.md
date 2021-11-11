@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: '00longside.jpg,long-side-edge-skiddaw.jpg'
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
@@ -20,15 +20,18 @@ Even when I was seriously into backpacking (or, for the "first" time, as I'd pre
 
 I was also trying out my new Bridgedale Comfort Trekker socks, which are a midweight sock in a merino and coolmax blend. Very nice socks, extremely soft and comfortable, but will have to see how they stand up after a few washes... not literally of course!
 
-Ullock Pike
+![long-side-edge-skiddaw](long-side-edge-skiddaw.jpg "long-side-edge-skiddaw")
+*Long Side Edge looking towards Ullock Pike.*
 
 I parked up at Peter House Farm, next to the access road that leads to Skiddaw Forest, wanting to have the car a bit more convenient for the end of the walk. This meant a couple of miles walk to Barkbeth Farm where you begin to get onto the ridge. The path was a little indistinct in places, disappearing in a field for 100 yards or so, but kept on in the same direction and it suddenly became a clear farm track again. Couple of fords to cross too, but managed to step across without the water getting over the top of my Moabs.
 
-Ullock Pike Ridge
+![ullock-pike](ullock-pike.jpg "ullock-pike")
+*Ullock Pike Ridge.*
 
 The path to Ullock Pike was a highlight of the route, steep in places and the opportunity for a couple of little scrambles where the path passed around some steep rocky patches. It was also the best weather of the day and excellent views down to Bassenthwaite Lake. It was also around here that I caught a first, and unfortunately final, glimpse of Skiddaw's summit.
 
-Skiddaw without clouds
+![skiddaw](skiddaw.jpg "skiddaw")
+*Skiddaw, without (many) clouds.*
 
 From Ullock Pike I followed the ridge a short way to Long Side, second Wainwright of the day, before pushing on to Carl Side. It's a fairly rounded summit, but with good views into the valley and of Little Man. While the skies were clear, there are fantastic views across Bassenthwaite and Derwent Water, from here and more especially from Little Man.
 
