@@ -11,7 +11,7 @@ taxonomy:
         - skiddaw
         - 'ullock pike'
         - 'long side'
-media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg'
+media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg,skiddaw-trig-point.jpg'
 ---
 
 Even when I was seriously into backpacking (or, for the "first" time, as I'd prefer to think!) for some reason I'd never visited Skiddaw. There's a lot of negativity about it, but not sure it's entirely justified. This route took in a fine ridge walk along Ullock Pike, Long Side, and a short detour to Carl Side. There was a nice scramble up a scree slope (if such a thing is possible) to the shoulder of Broad End and then a bit of a detour to visit Little Man. Then back over Skiddaw and descending via Bakestall.
@@ -50,7 +50,8 @@ I avoided the main path anyway, taking a more direct route straight to the south
 
 Fantastic views from Skiddaw Little Man, but the clouds were closing in again and the wind was getting ridiculous! The path from here to Skiddaw is admitedly a bit dull, and I suppose this is where some of it's "not interesting" bad rap comes from. As above, approach via Ullock Pike and I think it's a very enjoyable climb.
 
-Skiddaw Trig Point
+![skiddaw-trig-point](skiddaw-trig-point.jpg "skiddaw-trig-point")
+*Skiddaw Trig Point.*
 
 Had to take shelter below a small cairne so I could hold the camera steady to get this shot of the trig point at the summit of Skiddaw. There was no let up in the cloud, unfortunately, until I started dropping down towards Bakestall. It was an interesting time at the summit. Had a snack and a drink in one of the stone shelters and talked to a few people who were sheltering or passing by. Every few minutes you'd hear the relentless whipping rattle of waterproofs and you'd know someone else was on their way!
 
