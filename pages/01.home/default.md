@@ -28,4 +28,6 @@ What happened to the old site? For the last couple of weeks the answer has been,
 I'm bringing the hiking blog posts across from my old site, with [improved maps](/blog/simple-self-hosted-gpx-map) and better quality versions of the photographs.
 
 ![](/blog/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
-*Uploading better quality versions of the old blog photographs.*
+*Red Tarn with Swirral Edge to the left.*
+
+The previous versions of these hiking trip-reports featured JPG maps (or none at all) and the photographs were scaled down to 400px wide. The example above comes from [Catstycam to Sheffield Pike](/blog/catstycam-to-sheffield-pike).
