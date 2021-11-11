@@ -131,7 +131,7 @@ The Carrock Fell ridge becomes steep as you drop down towards Black Moss, and be
 I have to say I am very happy with this first bit of backpacking after such a long absence. The improvements to the gear available today compared with the early '90s is dramatic. I kept all my old kit, apart from my LaserTrek rucksack that was damaged, so I'll write something about gear once I've written up my next trip report, a circuit to the south of Martindale.
 
 ![carrock-fell-vale-of-eden](carrock-fell-vale-of-eden.jpg "carrock-fell-vale-of-eden")
-Descending Carrock Fell, overlooking Vale of Eden
+*Descending Carrock Fell, overlooking Vale of Eden.*
 
 The quick snapshot below was taken as I unpacked - apart from the water bottle that I was still using!
 
