@@ -20,15 +20,15 @@ Even when I was seriously into backpacking (or, for the "first" time, as I'd pre
 
 ===
 
-I was also trying out my new Bridgedale Comfort Trekker socks, which are a midweight sock in a merino and coolmax blend. Very nice socks, extremely soft and comfortable, but will have to see how they stand up after a few washes... not literally of course!
-
-![long-side-edge-skiddaw](long-side-edge-skiddaw.jpg "long-side-edge-skiddaw")
-*Long Side Edge looking towards Ullock Pike.*
-
-#### Route
+### Route
 
 [View Full Screen](https://map.mootparadox.com/full/skiddaw-carl-side) | [GPX](https://map.mootparadox.com/gpx/skiddaw-carl-side)  
 <p><iframe src="https://map.mootparadox.com/embed/skiddaw-carl-side" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
+On this walk I was trying out my new *Bridgedale Comfort Trekker* socks, which are a midweight sock in a merino and coolmax blend. Extremely soft and comfortable, but will have to see how they stand up after a few washes... hopefully not literally, of course!
+
+![long-side-edge-skiddaw](long-side-edge-skiddaw.jpg "long-side-edge-skiddaw")
+*Long Side Edge looking towards Ullock Pike.*
 
 I parked up at Peter House Farm, next to the access road that leads to Skiddaw Forest, wanting to have the car a bit more convenient for the end of the walk. This meant a couple of miles walk to Barkbeth Farm where you begin to get onto the ridge. The path was a little indistinct in places, disappearing in a field for 100 yards or so, but kept on in the same direction and it suddenly became a clear farm track again. Couple of fords to cross too, but managed to step across without the water getting over the top of my Moabs.
 
