@@ -6,13 +6,14 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - 'far eastern fells'
         - 'mardale horseshoe'
         - 'high street'
         - 'mardale ill bell'
         - 'harter fell'
         - branstree
         - 'selside pike'
-        - 'far eastern fells'
+media_order: '00mardale.jpg,banstree-to-selside-pike.jpg,blea-water-harter-fell.jpg,buildings-on-old-corpse-road.jpg,climbing-rough-crag.jpg,haweswater-from-harter-fell.jpg,haweswater-riggindale.jpg,small-water-blea-water.jpg'
 ---
 
 My plan was to start at Mardale Head, climbing High Street via the classic Riggindale route, then making a circuit around Mardale Ill Bell, Harter Fell, Branstree and Selside Pike. I think it would have been a really nice route, had it not been for an unexpected road closure conspiring against me; but more of that later! It was the 21st March, 2012, and a very pleasant spring day.
