@@ -18,6 +18,8 @@ media_order: '00mardale.jpg,haweswater-riggindale.jpg,climbing-rough-crag.jpg,ba
 
 My plan was to start at Mardale Head, climbing High Street via the classic Riggindale route, then making a circuit around Mardale Ill Bell, Harter Fell, Branstree and Selside Pike. I think it would have been a really nice route, had it not been for an unexpected road closure conspiring against me; but more of that later! It was the 21st March, 2012, and a very pleasant spring day.
 
+!!!! A 30km circuit of Mardale Head. (*Waiwright Book 2: The Far Eastern Fells*)
+
 ===
 
 The classic "Mardale Horseshoe" appears to ascend via the Riggindale ridge and descends the Gatescarth Pass. My route today was a intended as a natural extension of this, to avoid leaving a couple of stranded, un-bagged Wainwrights on the south-eastern shore of Haweswater. I think it's well worth considering, and it's pretty easy once the initial climb to High Street is behind you. With hindsight, a better alternative for me might have been to park at Burnbanks and ascend via High Raise, descending via Hare Shaw - I'd say this is just under 30km - but the downside would have been to omit the classic ridge route above Riggindale.
@@ -27,7 +29,7 @@ The classic "Mardale Horseshoe" appears to ascend via the Riggindale ridge and d
 
 > "... High Street's eastern flank falls precipitously from the flat top to enclose the splendid tarn of Blea Water in craggy arms ... a striking study in grandeur and wildness; on this side a straight narrow ridge running down to Mardale is particularly fine."
 
-!!!! Refer to Waiwright Book 2: The Far Eastern Fells for more details. This walk took me to five "Wainwrights", including three new ones. The count is now 74 - finally passing the 1/3rd checkpoint!
+This walk took me to five "Wainwrights", including three new ones. The count is now 74 - finally passing the 1/3rd checkpoint!
 
 #### Route Summary
 
