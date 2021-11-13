@@ -36,6 +36,6 @@ The previous versions of these hiking trip-reports featured JPG maps (or none at
 
 Test... ;-)
 
-| Book | Route | Summits |
-| --- | --- | --- |
-| 1. Eastern Fells | Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
+| Book 1.) The Eastern Fells |
+| --- | --- |
+| Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
