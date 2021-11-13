@@ -34,9 +34,11 @@ The previous versions of these hiking trip-reports featured JPG maps (or none at
 
 ### Wainwrights
 
-Test... ;-)
+Table test... ;-)
 
 | **Book 1.) The Eastern Fells** | |
 | Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
 | [Gowbarrow from Brunt Crag](/blog/gowbarrow-from-brunt-crag) | gowbarrow fell |
-| **Book 2.) The Far Eastern Fells** | |
+| **Book 1.) The Eastern Fells** | |
+| Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
+| [Gowbarrow from Brunt Crag](/blog/gowbarrow-from-brunt-crag) | gowbarrow fell |
