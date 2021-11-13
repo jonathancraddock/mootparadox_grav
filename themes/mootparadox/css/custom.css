@@ -193,6 +193,37 @@ p > img + em {
     border-radius: 8px;
 }
 
+
+table {
+    overflow-x: auto;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    border-spacing: 0;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+
+table td, table th {
+    padding: .6rem .4rem;
+    border-bottom: .05rem solid #e7e9ed;
+    border-bottom-width: 0.05rem;
+}
+
+
+table tbody tr:nth-of-type(2n+1) {
+    background: #f8f9fa;
+}
+
+
+table th {
+    border: #0000001a;
+    border-style: solid;
+    border-width: 0 0 .2em 0;
+}
+
+
+
 @media screen and (max-width: 576px) {
   /* Experimental - smaller for mobile? */
   iframe {
