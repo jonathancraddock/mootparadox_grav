@@ -18,14 +18,14 @@ media_order: '00mardale.jpg,haweswater-riggindale.jpg,climbing-rough-crag.jpg,ba
 
 My plan was to start at Mardale Head, climbing High Street via the classic Riggindale route, then making a circuit around Mardale Ill Bell, Harter Fell, Branstree and Selside Pike. I think it would have been a really nice route, had it not been for an unexpected road closure conspiring against me; but more of that later! It was the 21st March, 2012, and a very pleasant spring day.
 
-!!!! A 30km circuit of Mardale Head. (*Waiwright Book 2: The Far Eastern Fells*)
+!!!! A 26kmkm circuit of Mardale Head. (*Waiwright Book 2: The Far Eastern Fells*)
 
 ===
 
 [View Full Screen](https://map.mootparadox.com/full/mardale) | [GPX](https://map.mootparadox.com/gpx/mardale)  
 <p><iframe src="https://map.mootparadox.com/embed/mardale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-The classic "Mardale Horseshoe" appears to ascend via the Riggindale ridge and descends the Gatescarth Pass. My route today was a intended as a natural extension of this, to avoid leaving a couple of stranded, un-bagged Wainwrights on the south-eastern shore of Haweswater. I think it's well worth considering, and it's pretty easy once the initial climb to High Street is behind you. With hindsight, a better alternative for me might have been to park at Burnbanks and ascend via High Raise, descending via Hare Shaw - I'd say this is just under 30km - but the downside would have been to omit the classic ridge route above Riggindale.
+The classic "Mardale Horseshoe" appears to ascend via the Riggindale ridge and descends the Gatescarth Pass. My route today was a intended as a natural extension of this, to avoid leaving a couple of stranded, un-bagged Wainwrights on the south-eastern shore of Haweswater. I think it's well worth considering, and it's pretty easy once the initial climb to High Street is behind you. With hindsight, a better alternative for me might have been to park at Burnbanks and ascend via High Raise, descending via Hare Shaw - I'd say that would be just under 30km - but the downside would have been to omit the classic ridge route above Riggindale.
 
 ![climbing-rough-crag](climbing-rough-crag.jpg "climbing-rough-crag")
 *On the climb to Rough Crag, below High Street.*
