@@ -31,3 +31,11 @@ I'm bringing the hiking blog posts across from my old site, with [improved maps]
 *Red Tarn with Swirral Edge to the left.*
 
 The previous versions of these hiking trip-reports featured JPG maps (or none at all) and the photographs were scaled down to 400px wide. The example above comes from [Catstycam to Sheffield Pike](/blog/catstycam-to-sheffield-pike).
+
+### Wainwrights
+
+Test... ;-)
+
+| Book | Route | Summits |
+| --- | --- | --- |
+| 1. Eastern Fells | Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
