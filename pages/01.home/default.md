@@ -25,7 +25,7 @@ What happened to the old site? For the last couple of weeks the answer has been,
 
 ### What Next?
 
-I'm bringing the hiking blog posts across from my old site, with [improved maps](/blog/simple-self-hosted-gpx-map) and better quality versions of the photographs.
+I'm bringing the hiking blog posts across from my old site, with [improved maps](/blog/simple-self-hosted-gpx-map) and better quality versions of the photographs.The blog is [here](/blog) or you can filter by [Hiking](/blog/category:hiking) or [Coding](/blog/category:coding).
 
 ![](/blog/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
 *Red Tarn with Swirral Edge to the left.*
