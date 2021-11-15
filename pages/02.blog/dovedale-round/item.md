@@ -85,7 +85,7 @@ The path down to Little Hart Crag was not at all clear in these conditions, but 
 ![little-hart-carg](little-hart-carg.jpg "little-hart-carg")
 *From below Dove Crag, towards Little Hart Crag.*
 
-The route down was icy in places and I put the Pogus back on again. The image below-left is water ice, several inches thick, on about a 20-30 degree slope. Not a problem, but the limitation seems to be the need to keep your foot flat on the surface.
+The route down was icy in places and I put the Pogus back on again.
 
 ![looking-towards-st-sunday-crag](looking-towards-st-sunday-crag.jpg "looking-towards-st-sunday-crag")
 *Looking back, with St Sunday Crag in the distance.*
