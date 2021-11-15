@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -43,7 +43,8 @@ Lying part way between Glenridding and Ambleside, along the route of the A592, t
 
 Follow the path north, parallel to the road, as if you were heading back to Patterdale. At the end of Low Wood (to your left) go another 50 metres and cross the stone stile. Follow the path across the field and over a wooden stile into the trees.
 
-View towards Fairfield
+![fairfield-horseshoe-clouds](fairfield-horseshoe-clouds.jpg "fairfield-horseshoe-clouds")
+*Clouds rolling over the Fairfield Horseshoe.*
 
 The paths are clear and you simply need to follow the line of the ridge. As you emerge from the trees you are rewarded with some excellent views towards Fairfield and Cofa Pike.
 
@@ -70,7 +71,7 @@ If you look closely at the Dove Crag summit cairn above, then a little to the le
 > "Here, in small compass, is a tangle of rough country, a maze of steep cliffs, gloomy hollows and curious foothills gnarled like the knuckles of a clenched fist."
 
 ![dove-crag-to-little-hart-crag](dove-crag-to-little-hart-crag.jpg "dove-crag-to-little-hart-crag")
-Dove Crag to Little Hart Crag
+*Dove Crag to Little Hart Crag.*
 
 The path down to Little Hart Crag was not at all clear in these conditions, but a good tip seems to be to look for the line of broken fence posts that leave the ridge at 90 degrees.
 
