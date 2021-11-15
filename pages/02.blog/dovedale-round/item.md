@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg,little-hart-carg.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -78,11 +78,10 @@ If you look closely at the Dove Crag summit cairn above, then a little to the le
 
 The path down to Little Hart Crag was not at all clear in these conditions, but a good tip seems to be to look for the line of broken fence posts that leave the ridge at 90 degrees.
 
-From below Dove Crag, towards Little Hart Crag
+![little-hart-carg](little-hart-carg.jpg "little-hart-carg")
+*From below Dove Crag, towards Little Hart Crag.*
 
 The route down was icy in places and I put the Pogus back on again. The image below-left is water ice, several inches thick, on about a 20-30 degree slope. Not a problem, but the limitation seems to be the need to keep your foot flat on the surface.
-
-Pogu Spike on water ice     Frozen fence post
 
 From Bakestones Moss the path levels out, and it was warmer too. A rocky path zig-zags the short climb up to Little Hart Crag, and the fourth Wainwright of the day.
 
