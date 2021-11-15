@@ -21,6 +21,11 @@ The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - t
 
 ===
 
+### Map
+
+[View Full Screen](https://map.mootparadox.com/full/dovedale) | [GPX](https://map.mootparadox.com/gpx/dovedale)  
+<p><iframe src="https://map.mootparadox.com/embed/dovedale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
+
 ![summit-of-hart-crag](summit-of-hart-crag.jpg "summit-of-hart-crag")
 *At the summit of Hart Crag.*
 
