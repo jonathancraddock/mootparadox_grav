@@ -15,7 +15,7 @@ taxonomy:
 media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg,little-hart-carg.jpg,looking-towards-st-sunday-crag.jpg'
 ---
 
-I don't know if The Dovedale Round is an official route, but it probably should be. Have a look on Google and you'll find a few references to a "Dovedale Horseshoe" and a "Dovedale Round", but several of these walk in along the valley floor. To me, this type of walk should be defined by its use of ridges, both in and out. This route fits the bill, and takes in five Wainwrights along the way. My count now stands at 47...!
+I don't know if The Dovedale Round is an official route, but it probably should be. Have a look on Google and you'll find a few references to a "Dovedale Horseshoe" and a "Dovedale Round", but several of these walk in along the valley floor. To me, this type of walk should be defined by its use of ridges, both in and out. This route fits the bill, and takes in five Wainwrights along the way.
 
 !!!! A 13km wintery route, starting from Brother's Water. (_Wainwright Book 1: The Eastern Fells_)
 
@@ -33,7 +33,7 @@ The GPX route appears to end quite abruptly, and that's because someone kindly o
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
 
-After a month off, I finally got back to the Lakes for this 13km circuit around the Dovedale Valley. Fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. (Had a few opportunities to try out my Pogu Spikes on frozen snow and water ice.) 
+After a month off, I finally got back to the Lakes for this 13km circuit around the Dovedale Valley, and my Wainwright count now stands at 47. It was a fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. Was pleased to find there were several opportunities to try out my Pogu Spikes on frozen snow and water ice.
 
 ### Route Summary
 
