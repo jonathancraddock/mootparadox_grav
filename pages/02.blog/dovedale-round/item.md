@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,hart-crag-summit-fell-runner.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -62,13 +62,14 @@ As you get close to Hart Crag itself, bear left slightly, and the ascent up a sh
 
 This was the highest point on the route and the walk across to Dove Crag was easy - but the Pogu Spikes really came into their own on the descent. I can't recommend them enough!
 
-
-Dove Crag summit cairn
+![dove-crag-summit-fell-runner](dove-crag-summit-fell-runner.jpg "dove-crag-summit-fell-runner")
+*Dove Crag summit cairn.*
 
 If you look closely at the Dove Crag summit cairn above, then a little to the left along the wall, you'll see an approaching fell runner - running the Fairfield Horseshoe in shorts! He said he was hoping to get some ice climbing in over the next couple of days and it looked like the weather was going to oblige him.
 
 > "Here, in small compass, is a tangle of rough country, a maze of steep cliffs, gloomy hollows and curious foothills gnarled like the knuckles of a clenched fist."
 
+![dove-crag-to-little-hart-crag](dove-crag-to-little-hart-crag.jpg "dove-crag-to-little-hart-crag")
 Dove Crag to Little Hart Crag
 
 The path down to Little Hart Crag was not at all clear in these conditions, but a good tip seems to be to look for the line of broken fence posts that leave the ridge at 90 degrees.
