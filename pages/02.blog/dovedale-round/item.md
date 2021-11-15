@@ -31,7 +31,7 @@ The GPX route appears to end quite abruptly, and that's because someone kindly o
 ![summit-of-hart-crag](summit-of-hart-crag.jpg "summit-of-hart-crag")
 *At the summit of Hart Crag.*
 
-The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
+The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view above and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
 
 After a month off, I finally got back to the Lakes for this 13km circuit around the Dovedale Valley, and my Wainwright count now stands at 47. It was a fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. Was pleased to find there were several opportunities to try out my Pogu Spikes on frozen snow and water ice.
 
