@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -90,7 +90,9 @@ As the light began to fade, the snowline was left behind, and there was a short,
 
 The summit of High Hartsop Dodd is unclear. It's certainly more grassy than pointy. The reward is in the view and you can see your entire day's route unfold before you.
 
-Looking over High Hartsop Dodd to Brothers Water
+![high-hartsop-dodd](high-hartsop-dodd.jpg "high-hartsop-dodd")
+*Looking over High Hartsop Dodd to Brothers Water.*
+
 Summary
 
 I'm very happy with this route, and all the more so because it represents my first winter walk in the Lakes - albeit in very favourable conditions. It's a short route, but a sensible length for these short days, unless you can make an early start. In my case, the A69 might as well drop its speed limit to 30mph and be done with it! I was lucky to arrive for 10:30.
