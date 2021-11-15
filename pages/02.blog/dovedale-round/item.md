@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,hart-crag-summit-fell-runner.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -35,6 +35,7 @@ Wainwright, Book 1: The Eastern Fells - Second Edition (Pictorial Guides to the 
 *Hartsop above How ridge to Hart Crag.*
 
 You could reverse the route, but the climb up to High Hartsop Dodd would be a bit of a dull slog and when you reach Hart Crag from that direction you'd need to take care picking out your line of descent in order to avoid an excessively rapid and terminally abrupt descent route. In summary, this is a short, easy route, simple navigation and fantastic views throughout, particularly spectacular from Hart Crag towards Rydal Head and Fairfield. Another definite route recommendation!
+
 Map:
 Carpark to Hartsop Above How
 
@@ -46,24 +47,28 @@ View towards Fairfield
 
 The paths are clear and you simply need to follow the line of the ridge. As you emerge from the trees you are rewarded with some excellent views towards Fairfield and Cofa Pike.
 
-"The ridge itself lacks interest, but there is ample compensation in a succession of splendid views which become even finer as altitude is gained."
+> "The ridge itself lacks interest, but there is ample compensation in a succession of splendid views which become even finer as altitude is gained."
 
 It's a slow, easy ascent, with plenty of photo opportunities and great views throughout. The true summit of Hartsop above How is not easy to identify. There are a series of rocky crags, any of which could be the summit. Play it safe, and walk over them all - you know it makes sense!
+
 Hart Crag and Dove Crag
 
 The path becomes slightly less clear as you approach Hart Crag, although without the snow cover it would probably be easier to see. The frozen ground was a welcome sight however, as this final approach from Hartsop above How looks like it would normally be very boggy.
 
-Hart Crag towards Great Rigg     Frozen Gradd on Hart Crag
+![hart-crag](hart-crag.jpg "hart-crag")
+*Frozen Grass below summit of Hart Crag.*
 
 As you get close to Hart Crag itself, bear left slightly, and the ascent up a shallow gully to the summit becomes clear. There were some interesting ice formations on the rocks and grasses near the summit, and some strange cloud formations that for a long time seemed unable to get any further than Rydale Head.
 
 This was the highest point on the route and the walk across to Dove Crag was easy - but the Pogu Spikes really came into their own on the descent. I can't recommend them enough!
 
+
 Dove Crag summit cairn
 
 If you look closely at the Dove Crag summit cairn above, then a little to the left along the wall, you'll see an approaching fell runner - running the Fairfield Horseshoe in shorts! He said he was hoping to get some ice climbing in over the next couple of days and it looked like the weather was going to oblige him.
 
-"Here, in small compass, is a tangle of rough country, a maze of steep cliffs, gloomy hollows and curious foothills gnarled like the knuckles of a clenched fist."
+> "Here, in small compass, is a tangle of rough country, a maze of steep cliffs, gloomy hollows and curious foothills gnarled like the knuckles of a clenched fist."
+
 Dove Crag to Little Hart Crag
 
 The path down to Little Hart Crag was not at all clear in these conditions, but a good tip seems to be to look for the line of broken fence posts that leave the ridge at 90 degrees.
@@ -79,7 +84,7 @@ High Hartsop Dodd to Carpark
 
 As the light began to fade, the snowline was left behind, and there was a short, steep descent from High Hartsop Dodd back to the Cow Bridge car park.
 
-"The most striking feature [...] is the exceptionally fine picture of Dovedale, which is seen in all its strong and impressive contrasts."
+> "The most striking feature ... is the exceptionally fine picture of Dovedale, which is seen in all its strong and impressive contrasts."
 
 The summit of High Hartsop Dodd is unclear. It's certainly more grassy than pointy. The reward is in the view and you can see your entire day's route unfold before you.
 
@@ -94,4 +99,6 @@ I can happily say the Pogu Spikes are an excellent product. What worked less wel
 
 Looking forward to the next wintery walk. Fingers crossed for some decent weather over the Christmas holidays!
 
-"To those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains..."
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
