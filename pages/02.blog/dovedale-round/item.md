@@ -18,6 +18,7 @@ media_order: '00dovedale.jpg,summit-of-hart-crag.jpg'
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
 
 ===
+
 ![summit-of-hart-crag](summit-of-hart-crag.jpg "summit-of-hart-crag")
 *At the summit of Hart Crag.*
 
