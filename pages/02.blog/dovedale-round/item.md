@@ -15,7 +15,7 @@ taxonomy:
 media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg,little-hart-carg.jpg,looking-towards-st-sunday-crag.jpg'
 ---
 
-The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
+I don't know if The Dovedale Round is an official route, but it probably should be. Have a look on Google and you'll find a few references to a "Dovedale Horseshoe" and a "Dovedale Round", but several of these walk in along the valley floor. To me, this type of walk should be defined by its use of ridges, both in and out. This route fits the bill, and takes in five Wainwrights along the way. My count now stands at 47...!
 
 !!!! A 13km wintery route, starting from Brother's Water. (_Wainwright Book 1: The Eastern Fells_)
 
@@ -26,24 +26,23 @@ The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - t
 [View Full Screen](https://map.mootparadox.com/full/dovedale) | [GPX](https://map.mootparadox.com/gpx/dovedale)  
 <p><iframe src="https://map.mootparadox.com/embed/dovedale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
+The GPX route appears to end quite abruptly, and that's because someone kindly offered me a lift back to my car! If repeating this route, I'd probably try to park at Brother's Water too.
+
 ![summit-of-hart-crag](summit-of-hart-crag.jpg "summit-of-hart-crag")
 *At the summit of Hart Crag.*
 
-After a month off, I finally got back to the Lakes for a 13km circuit around the Dovedale Valley. Fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. Had a few opportunities to try out my Pogu Spikes on frozen snow and water ice, but will write a separate post about that.
+The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
 
-I don't know if The Dovedale Round is an official route, but it probably should be. Have a look on Google and you'll find a few references to a "Dovedale Horseshoe" and a "Dovedale Round", but several of these walk in along the valley floor. To me, this type of walk should be defined by its use of ridges, both in and out. This route fits the bill, and takes in five Wainwrights along the way. My count now stands at 47...!
-Route Summary
+After a month off, I finally got back to the Lakes for this 13km circuit around the Dovedale Valley. Fantastic day, a little snow on the summits, about 6 degrees in the valley and just below freezing on the summits. (Had a few opportunities to try out my Pogu Spikes on frozen snow and water ice.) 
+
+### Route Summary
 
 Park at the Cow Bridge car-park (free, but the sign says no overnight stays) and head towards Hartsop Above How. A good tip is to choose the path to the north-eastern side of the stone wall that encloses the top of Low Wood. This wall follows the line of the ridge as far as Gale Crag. From here, continue upwards, following the ridge to the summit of Hart Crag. You're now onto the well trodden path of the Fairfield Horseshoe and an old stone wall points the way to Dove Crag less than a mile to the South-South-East. Descend down to Bakestones Moss, following a line of broken fence posts, and descend the ridge back down to the carpark, via Little Hart Crag and High Hartsop Dodd. It's a steep climb down from the end of this ridge, but the path is easy.
-
-Wainwright, Book 1: The Eastern Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
 
 ![hartsop-above-how](hartsop-above-how.jpg "hartsop-above-how")
 *Hartsop above How ridge to Hart Crag.*
 
 You could reverse the route, but the climb up to High Hartsop Dodd would be a bit of a dull slog and when you reach Hart Crag from that direction you'd need to take care picking out your line of descent in order to avoid an excessively rapid and terminally abrupt descent route. In summary, this is a short, easy route, simple navigation and fantastic views throughout, particularly spectacular from Hart Crag towards Rydal Head and Fairfield. Another definite route recommendation!
-
-Map:
 
 ### Carpark to Hartsop Above How
 
