@@ -12,7 +12,7 @@ taxonomy:
         - 'dove crag'
         - 'little hart crag'
         - 'high hartsop dodd'
-media_order: '00dovedale.jpg,summit-of-hart-crag.jpg'
+media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg'
 ---
 
 The summit of Hart Crag, Wednesday 15th December 2010. What can I say except - take a look at the view below and tell me there's something you'd rather be doing on a day like this. Apologies that I seem to be blocking part of the view! Over my right shoulder, you're looking towards St Sunday Crag.
@@ -31,7 +31,8 @@ Park at the Cow Bridge car-park (free, but the sign says no overnight stays) and
 
 Wainwright, Book 1: The Eastern Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
 
-Hartsop above How ridge to Hart Crag
+![hartsop-above-how](hartsop-above-how.jpg "hartsop-above-how")
+*Hartsop above How ridge to Hart Crag.*
 
 You could reverse the route, but the climb up to High Hartsop Dodd would be a bit of a dull slog and when you reach Hart Crag from that direction you'd need to take care picking out your line of descent in order to avoid an excessively rapid and terminally abrupt descent route. In summary, this is a short, easy route, simple navigation and fantastic views throughout, particularly spectacular from Hart Crag towards Rydal Head and Fairfield. Another definite route recommendation!
 Map:
