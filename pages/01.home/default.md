@@ -40,6 +40,8 @@ Table test... ;-)
 | --- | --- |
 | [Catstycam to Sheffield Pike](/blog/catstycam-to-sheffield-pike) | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
 | [Gowbarrow from Brunt Crag](/blog/gowbarrow-from-brunt-crag) | gowbarrow fell |
+| [Dovedale Round](/blog/dovedale-round) | hartsop above how, hart crag, dove crag, little hart crag, high hartsop dodd |
+| [Grisedale Horseshoe Redux](/blog/grisedale-horseshoe-redux) | birkhouse moor, helvellyn, nethermost pike, dollywaggon pike, seat sandal, fairfield, st sunday crag, birks, arniston crag |
 
 | **Book 2.) The Far Eastern Fells** | |
 | --- | --- |
