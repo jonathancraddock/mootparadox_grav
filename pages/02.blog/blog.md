@@ -13,7 +13,7 @@ show_sidebar: false
 show_pagination: true
 routes:
     aliases:
-        - /hiking
+        - /hiking/
 ---
 
 The **category** tags below will filter blog posts by topic...
