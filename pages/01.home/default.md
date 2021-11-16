@@ -43,5 +43,25 @@ Table test... ;-)
 
 | **Book 2.) The Far Eastern Fells** | |
 | --- | --- |
-| [Extended Mardale Horseshoe](extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
+| [Extended Mardale Horseshoe](/blog/extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
 | [High Street via Stony Cove Pike](/blog/high-street-via-stony-cove-pike) | high street, mardale ill bell, hartsopp dodd, caudale moor, thornthwaite crag |
+
+| **Book 3.) The Central Fells** | |
+| --- | --- |
+| name | wainwrights |
+
+| **Book 4.) The Southern Fells** | |
+| --- | --- |
+| name | wainwrights |
+
+| **Book 5.) The Northern Fells** | |
+| --- | --- |
+| name | wainwrights |
+
+| **Book 6.) The North Western Fells** | |
+| --- | --- |
+| name | wainwrights |
+
+| **Book 7.) The Western Fells** | |
+| --- | --- |
+| name | wainwrights |

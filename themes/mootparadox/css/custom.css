@@ -222,6 +222,9 @@ table th {
     border-width: 0 0 .2em 0;
 }
 
+tr > :first-child {
+    width: 33%;
+}
 
 
 @media screen and (max-width: 576px) {
