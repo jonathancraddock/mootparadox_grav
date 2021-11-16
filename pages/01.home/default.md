@@ -38,8 +38,10 @@ Table test... ;-)
 
 | **Book 1.) The Eastern Fells** | |
 | --- | --- |
-| Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
+| [Catstycam to Sheffield Pike](/blog/catstycam-to-sheffield-pike) | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
 | [Gowbarrow from Brunt Crag](/blog/gowbarrow-from-brunt-crag) | gowbarrow fell |
-| **Book 1.) The Eastern Fells** | |
-| Catstycam to Sheffield Pike | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
-| [Gowbarrow from Brunt Crag](/blog/gowbarrow-from-brunt-crag) | gowbarrow fell |
+
+| **Book 2.) The Far Eastern Fells** | |
+| --- | --- |
+| [Extended Mardale Horseshoe](extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
+| [High Street via Stony Cove Pike](/blog/high-street-via-stony-cove-pike) | high street, mardale ill bell, hartsopp dodd, caudale moor, thornthwaite crag |
