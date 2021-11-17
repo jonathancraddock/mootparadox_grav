@@ -33,6 +33,7 @@ I'm bringing the hiking blog posts across from my old site, with [improved maps]
 The previous versions of these hiking trip-reports featured low-quality JPG maps (or none at all) and the photographs were scaled down to 400px wide. The example above comes from [Catstycam to Sheffield Pike](/hiking/catstycam-to-sheffield-pike).
 
 ### Walking the Wainwrights
+
 This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98**; getting close to halfway.
 
 | **Book 1.) The Eastern Fells** | |
