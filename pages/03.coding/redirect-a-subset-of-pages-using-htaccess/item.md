@@ -12,7 +12,7 @@ taxonomy:
         - web
 ---
 
-Wrestling with .htaccess syntax is a pleasure that I engage in every six months or so! I grasp the basic principles, but have never had cause to become fully fluent. These two rules are the culmination of a requirment to redirect pages from an old site that used different URI structures; with and without query strings.
+Wrestling with .htaccess syntax is a pleasure that I engage in every six months or so! I grasp the basic principles, but have never had cause to become fully fluent. These two rules are the culmination of a requirement to redirect a specific subset of pages from an site that used different URI structures; with and without query strings.
 
 ===
 
@@ -23,7 +23,7 @@ There were two 301 permanent redirects that I wanted to implement:
 
 Sounds simple, but I was unhappy with my initial attempt because it was retaining the query string after the rewrite. Even worse, the legacy code on the old site was already rewriting URIs such as `/blog/firstpost` into `/index.php?sec=blog&post=firstpost` and I didn't want that rearing its ugly head.
 
-After an amount of head-scratching, the following two instructions achieve what I wanted. (I'm not an Apache expert, and there may be a better way.)
+After a degree of head-scratching, the following two instructions achieve what I wanted. (I'm not an Apache expert, and there may be a better way.)
 
 **Example 1:**
 
