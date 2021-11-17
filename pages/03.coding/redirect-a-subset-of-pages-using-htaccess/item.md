@@ -18,17 +18,17 @@ Wrestling with .htaccess syntax is a pleasure that I engage in every six months 
 
 There were two 301 permanent redirects that I wanted to implement:
 
-* https://example.com/blog/firstpost -> https://newsite.com/information/first-post-on-this-blog
-* https://example.com/index.php?sec=blog&post=secpost -> https://newsite.com/information/second-post-here
+* https://example.com/blog/firstpost **->** https://newsite.com/information/first-post-on-this-blog
+* https://example.com/index.php?sec=blog&post=secpost **->** https://newsite.com/information/second-post-here
 
-Sounds simple, but I was unhappy with my initial attempt because it was retaining the query string after the rewrite. Even worse, the legacy code on the old site was already rewriting URIs such as `/blog/firstpost` into `/index.php?sec=blog&post=firstpost` and I didn't want that rearing its ugly head.
+Sounds simple, but I was unhappy with my initial attempt because it was retaining the query string after the rewrite. Even worse, the legacy code on the old site was already rewriting URIs such as `/blog/firstpost` into `/index.php?sec=blog&post=firstpost` and I didn't want that rearing its ugly head again.
 
 After a degree of head-scratching, the following two instructions achieve what I wanted. (I'm not an Apache expert, and there may be a better way.)
 
 **Example 1:**
 
 ```bash
-# leagcy site 301 redirects
+# legacy site 301 redirects
 RewriteRule ^blog/firstpost/?$ https://newsite.com/information/first-post-on-this-blog [NC,L,R=301]
 ```
 
@@ -37,7 +37,7 @@ I included this rule near the top of the .htaccess (obviously after the RewriteE
 **Example 2:**
 
 ```bash
-# Old Links
+# legacy site 301 query-string redirects
 RewriteCond %{QUERY_STRING} post=secpost
 RewriteRule ^index\.php$ https://newsite.com/information/second-post-here/? [NC,L,R=301]
 ```
