@@ -10,7 +10,6 @@ taxonomy:
         - image
         - img
         - caption
-hero_classes: hero-tiny
 date: '06-11-2021 18:00'
 ---
 
