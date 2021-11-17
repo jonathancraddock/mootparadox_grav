@@ -36,6 +36,8 @@ The previous versions of these hiking trip-reports featured low-quality JPG maps
 
 This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - dangerously close to halfway.
 
+The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_of_Wainwrights) is a useful resource.
+
 | **Book 1.) The Eastern Fells** | **23 / 35** |
 | --- | --- |
 | [Catstycam to Sheffield Pike](/hiking/catstycam-to-sheffield-pike) | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
@@ -73,7 +75,7 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 | [Catbells and the Newlands Horseshoe](/hiking/catbells-and-the-newlands-horseshoe) | robinson, catbells, hindscarth, dale head, high spy, maiden moor |
 | [Causey Pike via Knott Rigg](/hiking/causey-pike-via-knott-rigg) | causey pike, knott rigg, ard crags, scar crags |
 
-| **Book 7.) The Western Fells** | **6 / 33** |
+| **Book 7.) The Western Fells** | **7 / 33** |
 | --- | --- |
 | [Great Gable via Base Brown](/hiking/great-gable-via-base-brown) | base brown, green gable, great gable |
-| [Haystacks via Red Pike](/hiking/haystacks-via-red-pike) | red pike, high stile, haystacks |
+| [Haystacks via Red Pike](/hiking/haystacks-via-red-pike) | red pike, high stile, high crag, haystacks |
