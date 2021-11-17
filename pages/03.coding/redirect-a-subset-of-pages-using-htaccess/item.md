@@ -34,7 +34,7 @@ After a degree of head-scratching, the following two instructions achieve what I
 RewriteRule ^blog/firstpost/?$ https://newsite.com/information/first-post-on-this-blog [NC,L,R=301]
 ```
 
-I included this rule near the top of the .htaccess (obviously after the RewriteEngine On, etc) and before the legacy rules that were manipulating various query strings.
+I included this rule near the top of the .htaccess file (obviously after the RewriteEngine On, etc) but before the various legacy rules that were manipulating query strings.
 
 **Example 2:**
 
@@ -48,6 +48,6 @@ RewriteRule ^index\.php$ https://newsite.com/information/second-post-here/? [NC,
 
 Apache 2.4 introduced the `QSD` flag, Query String Discard. The final ? in the redirect above predates that, but it works and I didn't feel concerned by it.
 
-It turned out to be fairly straightforward in the end. Lots of examples that I found are using regex expressions to redirect whole sites, which is great, but in this case a limited subset of pages required the redirect. Also the destination URI was very different. It's possible to implement a route alias on the new page, but that's displayed in the address bar, and I didn't like it.
+It turned out to be fairly straightforward in the end. Lots of examples that I found are using regex expressions to redirect whole sites, which is fine, but in this case a limited subset of pages required the redirect. Also the destination URI was very different. An alternative is to implement a route alias on the new page, but that's displayed in the address bar, and I didn't like it.
 
 Good luck! ;-)
