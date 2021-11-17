@@ -13,7 +13,7 @@ show_sidebar: false
 show_pagination: true
 routes:
     aliases:
-        - blog
+        - blog/
 ---
 
 The **category** tags below will filter blog posts by topic...
