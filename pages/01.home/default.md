@@ -70,10 +70,11 @@ The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_o
 | [Northern Fells Wildcamp](/hiking/northern-fells-wildcamp) | blencathra, bowscale fell, carrock fell, knott, mungrisdale common, great calva, little calva |
 | [Skiddaw Via Longside Edge](/hiking/skiddaw-via-longside-edge) | ullock pike, long side, carl side, skiddaw, bakestall |
 
-| **Book 6.) The North Western Fells** | **10 / 29** |
+| **Book 6.) The North Western Fells** | **17 / 29** |
 | --- | --- |
 | [Catbells and the Newlands Horseshoe](/hiking/catbells-and-the-newlands-horseshoe) | robinson, catbells, hindscarth, dale head, high spy, maiden moor |
 | [Causey Pike via Knott Rigg](/hiking/causey-pike-via-knott-rigg) | causey pike, knott rigg, ard crags, scar crags |
+| [The Coledale Round](/hiking/the-coledale-round) | barrow, outerside, sail, crag hill, wandope, hopegill head, grisedale pike |
 
 | **Book 7.) The Western Fells** | **7 / 33** |
 | --- | --- |
