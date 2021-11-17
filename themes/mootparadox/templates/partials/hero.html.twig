@@ -5,8 +5,19 @@
     </section>
 
     <section class="taxonomyCats">
+
         {# display list of taxonomy categories at the start of the blog listing page, below hero #}
-        {% include 'partials/taxonomylist.html.twig' with {base_url: '/hiking', taxonomy: 'hiking-cat'} %}
+
+        {% if uri.route|contains('hiking') %}
+          <!-- route includes 'hiking' : {{uri.route}} -->
+          {% include 'partials/taxonomylist.html.twig' with {base_url: '/hiking', taxonomy: 'hiking-cat'} %}
+        {% endif %}
+
+        {% if uri.route|contains('coding') %}
+          <!-- route includes 'coding' : {{uri.route}} -->
+          {% include 'partials/taxonomylist.html.twig' with {base_url: '/hiking', taxonomy: 'coding-cat'} %}
+        {% endif %}
+
     </section>
 
     <i id="to-start" class="pulse fa fa-angle-down"></i>

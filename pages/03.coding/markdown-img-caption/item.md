@@ -10,6 +10,8 @@ taxonomy:
         - image
         - img
         - caption
+    coding-cat:
+        - markdown
 date: '06-11-2021 18:00'
 ---
 
