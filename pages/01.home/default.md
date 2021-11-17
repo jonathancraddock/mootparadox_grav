@@ -61,6 +61,7 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 | **Book 5.) The Northern Fells** | |
 | --- | --- |
 | [Blencathra via Scales Fell](/hiking/blencathra-via-scales-fell) | souther fell, blencathra, bannerdale crags, bowscale fell |
+| [Northern Fells Wildcamp](/hiking/northern-fells-wildcamp) | bowscale, 
 | [Skiddaw Via Longside Edge](/hiking/skiddaw-via-longside-edge) | ullock pike, long side, carl side, skiddaw, bakestall |
 
 | **Book 6.) The North Western Fells** | |
