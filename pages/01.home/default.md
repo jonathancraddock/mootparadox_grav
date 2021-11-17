@@ -19,7 +19,7 @@ content:
 
 ### Info
 
-What happened to the old site? For the last couple of weeks the answer has been, "The old version of this site is temporarily offline while I have a bit of an experiment with Grav CMS". The updated answer is that [Grav](https://getgrav.org/) looks great and I'm sticking with it for now! :-)
+What happened to the old site? For the last couple of weeks the answer has been, "_The old version of this site is temporarily offline while I have a bit of an experiment with Grav CMS_". The updated answer is that [Grav](https://getgrav.org/) looks great and I'm sticking with it! :-)
 
 !!! You can learn about **Grav** at their [Learn Grav](http://learn.getgrav.org) site.
 

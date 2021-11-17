@@ -19,10 +19,17 @@
 
 
 {% block hero %}
+
+
+ {% if uri.route|contains('hiking') %}
+   <!-- route includes 'hiking' -->
+ {% endif %}
+
+
     {% if uri.params|contains('category') or uri.params|contains('tag') %}
 
         <!-- filtered -->
-        <section class="container grid-lg text-center"><a href="/hiking" class="btn clearFilter"><i class="icon icon-cross"></i>Clear Filters</a></section>
+        <section class="container grid-lg text-center"><a href="/{{ page.slug }}" class="btn clearFilter"><i class="icon icon-cross"></i>Clear Filters</a></section>
 
     {% else %}
 
