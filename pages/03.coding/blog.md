@@ -13,3 +13,4 @@ content:
     url_taxonomy_filters: true
 ---
 
+The **category** tags below will filter blog posts by topic...
