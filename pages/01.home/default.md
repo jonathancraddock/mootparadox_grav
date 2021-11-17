@@ -34,7 +34,7 @@ The previous versions of these hiking trip-reports featured JPG maps (or none at
 
 ### Wainwrights
 
-Table test... ;-)
+Walking the Wainwrights has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've taken so far.
 
 | **Book 1.) The Eastern Fells** | |
 | --- | --- |
