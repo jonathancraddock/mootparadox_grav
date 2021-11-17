@@ -55,12 +55,13 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 
 | **Book 4.) The Southern Fells** | |
 | --- | --- |
-| [Great End via Seathwaite Fell]() | seathwaite fell, great end |
+| [Great End via Seathwaite Fell](/hiking/scafell-pike-from-seathwaite) | seathwaite fell, great end |
 | [Scafell Pike from Seathwaite](/hiking/scafell-pike-from-seathwaite) | scafell pike |
 
 | **Book 5.) The Northern Fells** | |
 | --- | --- |
-| name | wainwrights |
+| [Blencathra via Scales Fell](/hiking/blencathra-via-scales-fell) | souther fell, blencathra, bannerdale crags, bowscale fell |
+| [Skiddaw Via Longside Edge](/hiking/skiddaw-via-longside-edge) | ullock pike, long side, carl side, skiddaw, bakestall |
 
 | **Book 6.) The North Western Fells** | |
 | --- | --- |
