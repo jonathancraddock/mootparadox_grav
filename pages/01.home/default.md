@@ -56,7 +56,7 @@ Table test... ;-)
 
 | **Book 4.) The Southern Fells** | |
 | --- | --- |
-| name | wainwrights |
+| [Scafell Pike from Seathwaite](/hiking/scafell-pike-from-seathwaite) | scafell pike |
 
 | **Book 5.) The Northern Fells** | |
 | --- | --- |
