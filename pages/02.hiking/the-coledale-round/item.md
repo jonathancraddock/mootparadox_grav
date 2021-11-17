@@ -4,9 +4,9 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'coledale round'
         - cumbria
         - 'lake district'
+        - 'coledale round'
         - barrow
         - outerside
         - sail
@@ -14,6 +14,9 @@ taxonomy:
         - wandope
         - 'hopegill head'
         - 'grisedale pike'
+        - 'north western fells'
+    hiking-cat:
+        - wainwrights
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
