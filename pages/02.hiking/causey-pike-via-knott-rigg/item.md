@@ -6,13 +6,15 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'causey pike'
-        - 'knott rigg'
         - cumbria
         - 'lake district'
         - 'north western fells'
+        - 'causey pike'
+        - 'knott rigg'
         - 'ard crags'
         - 'scar crags'
+    hiking:
+        - wainwrights
 ---
 
 I chose another short route for this walk on Wednesday 26th January. Next one might need to be a bit longer to avoid developing a reputation for being the wrong type of lightweight!
