@@ -5,10 +5,10 @@ taxonomy:
     category:
         - coding
     tag:
+        - javascript
         - jitbit
         - yaml
         - email
-        - javascript
         - nodered
 ---
 
