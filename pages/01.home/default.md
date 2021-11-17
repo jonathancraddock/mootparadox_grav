@@ -44,14 +44,14 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 
 | **Book 2.) The Far Eastern Fells** | |
 | --- | --- |
-| [Extended Mardale Horseshoe](/blog/extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
-| [High Street via Stony Cove Pike](/blog/high-street-via-stony-cove-pike) | high street, mardale ill bell, hartsopp dodd, caudale moor, thornthwaite crag |
 | [Angletarn Pikes via Place Fell](/blog/angletarn-pikes-via-place-fell) | place fell, beda fell, angletarn pikes, brock crags, rest dodd, the nab |
+| [Extended Mardale Horseshoe](/blog/extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
 | [High Raise from Martindale](/blog/high-raise-from-martindale) | bonscale pike, arthur's pike, loadpot hill, wether hill, high raise, rampsgill head, kidsty pike, the knott, steel knotts, hallin fell |
+| [High Street via Stony Cove Pike](/blog/high-street-via-stony-cove-pike) | high street, mardale ill bell, hartsopp dodd, caudale moor, thornthwaite crag |
 
 | **Book 3.) The Central Fells** | |
 | --- | --- |
-| name | wainwrights |
+| routes | wainwrights |
 
 | **Book 4.) The Southern Fells** | |
 | --- | --- |
@@ -74,4 +74,5 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 
 | **Book 7.) The Western Fells** | |
 | --- | --- |
-| name | wainwrights |
+| [Great Gable via Base Brown](/hiking/great-gable-via-base-brown) | base brown green gable great gable |
+| [Haystacks via Red Pike](/hiking/haystacks-via-red-pike) | red pike high stile haystacks |
