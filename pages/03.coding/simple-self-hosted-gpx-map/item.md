@@ -8,6 +8,8 @@ taxonomy:
         - javascript
         - map
         - self-hosted
+    coding-cat:
+        - maps
 routes:
     aliases:
         - /coding/test
