@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - 'southern fells'
         - 'scafell pike'
         - winter
 ---
