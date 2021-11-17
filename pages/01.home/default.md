@@ -61,7 +61,10 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 | **Book 5.) The Northern Fells** | |
 | --- | --- |
 | [Blencathra via Scales Fell](/hiking/blencathra-via-scales-fell) | souther fell, blencathra, bannerdale crags, bowscale fell |
-| [Northern Fells Wildcamp](/hiking/northern-fells-wildcamp) | bowscale, 
+| [Carrock Fell to Knott](/hiking/carrock-fell-to-knott) | carrock fell, high pike, great sca, fell knott |
+| [Dodd to Latrigg Loop](/hiking/dodd-to-latrigg-loop) | dodd, carl side, skiddaw, lonscale fell, latrigg |
+| [Great Cockup to Binsey](/hiking/great-cockup-to-binsey) | longlands fell brae fell meal fell great cockup binsey |
+| [Northern Fells Wildcamp](/hiking/northern-fells-wildcamp) | blencathra, bowscale fell, carrock fell, knott, mungrisdale common, great calva, little calva |
 | [Skiddaw Via Longside Edge](/hiking/skiddaw-via-longside-edge) | ullock pike, long side, carl side, skiddaw, bakestall |
 
 | **Book 6.) The North Western Fells** | |
