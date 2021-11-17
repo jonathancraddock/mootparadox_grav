@@ -11,9 +11,7 @@ content:
     url_taxonomy_filters: true
 show_sidebar: false
 show_pagination: true
-routes:
-    aliases:
-        - blog/
+routes: {  }
 ---
 
 The **category** tags below will filter blog posts by topic...
