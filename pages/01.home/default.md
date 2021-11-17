@@ -36,25 +36,25 @@ The previous versions of these hiking trip-reports featured low-quality JPG maps
 
 This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - dangerously close to halfway.
 
-| **Book 1.) The Eastern Fells** | |
+| **Book 1.) The Eastern Fells** | **- / 35** |
 | --- | --- |
 | [Catstycam to Sheffield Pike](/hiking/catstycam-to-sheffield-pike) | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
 | [Gowbarrow from Brunt Crag](/hiking/gowbarrow-from-brunt-crag) | gowbarrow fell |
 | [Dovedale Round](/hiking/dovedale-round) | hartsop above how, hart crag, dove crag, little hart crag, high hartsop dodd |
 | [Grisedale Horseshoe Redux](/hiking/grisedale-horseshoe-redux) | birkhouse moor, helvellyn, nethermost pike, dollywaggon pike, seat sandal, fairfield, st sunday crag, birks, arniston crag |
 
-| **Book 2.) The Far Eastern Fells** | |
+| **Book 2.) The Far Eastern Fells** | **- / 36** |
 | --- | --- |
 | [Angletarn Pikes via Place Fell](/hiking/angletarn-pikes-via-place-fell) | place fell, beda fell, angletarn pikes, brock crags, rest dodd, the nab |
 | [Extended Mardale Horseshoe](/hiking/extended-mardale-horseshoe) | high street, mardale ill bell, harter fell, branstree, selside pike |
 | [High Raise from Martindale](/hiking/high-raise-from-martindale) | bonscale pike, arthur's pike, loadpot hill, wether hill, high raise, rampsgill head, kidsty pike, the knott, steel knotts, hallin fell |
 | [High Street via Stony Cove Pike](/hiking/high-street-via-stony-cove-pike) | high street, mardale ill bell, hartsopp dodd, caudale moor, thornthwaite crag |
 
-| **Book 3.) The Central Fells** | |
+| **Book 3.) The Central Fells** | **0 / 27** |
 | --- | --- |
 | routes | wainwrights |
 
-| **Book 4.) The Southern Fells** | |
+| **Book 4.) The Southern Fells** | **- / 30** |
 | --- | --- |
 | [Great End via Seathwaite Fell](/hiking/scafell-pike-from-seathwaite) | seathwaite fell, great end |
 | [Scafell Pike from Seathwaite](/hiking/scafell-pike-from-seathwaite) | scafell pike |
@@ -68,12 +68,12 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 | [Northern Fells Wildcamp](/hiking/northern-fells-wildcamp) | blencathra, bowscale fell, carrock fell, knott, mungrisdale common, great calva, little calva |
 | [Skiddaw Via Longside Edge](/hiking/skiddaw-via-longside-edge) | ullock pike, long side, carl side, skiddaw, bakestall |
 
-| **Book 6.) The North Western Fells** | |
+| **Book 6.) The North Western Fells** | **- / 29** |
 | --- | --- |
 | [Catbells and the Newlands Horseshoe](/hiking/catbells-and-the-newlands-horseshoe) | robinson, catbells, hindscarth, dale head, high spy, maiden moor |
 | [Causey Pike via Knott Rigg](/hiking/causey-pike-via-knott-rigg) | causey pike, knott rigg, ard crags, scar crags |
 
-| **Book 7.) The Western Fells** | |
+| **Book 7.) The Western Fells** | **- / 33** |
 | --- | --- |
 | [Great Gable via Base Brown](/hiking/great-gable-via-base-brown) | base brown green gable great gable |
 | [Haystacks via Red Pike](/hiking/haystacks-via-red-pike) | red pike high stile haystacks |
