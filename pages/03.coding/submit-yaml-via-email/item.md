@@ -10,6 +10,8 @@ taxonomy:
         - yaml
         - email
         - nodered
+    coding-cat:
+        - jitbit
 ---
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file.
