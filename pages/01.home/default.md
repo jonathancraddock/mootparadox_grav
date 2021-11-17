@@ -34,7 +34,7 @@ The previous versions of these hiking trip-reports featured low-quality JPG maps
 
 ### Walking the Wainwrights
 
-This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - dangerously close to halfway.
+This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - getting dangerously close to halfway.
 
 The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_of_Wainwrights) is a useful resource.
 
