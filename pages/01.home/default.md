@@ -69,7 +69,8 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 
 | **Book 6.) The North Western Fells** | |
 | --- | --- |
-| name | wainwrights |
+| [Catbells and the Newlands Horseshoe](/hiking/catbells-and-the-newlands-horseshoe) | robinson, catbells, hindscarth, dale head, high spy, maiden moor |
+| [Causey Pike via Knott Rigg](/hiking/causey-pike-via-knott-rigg) | causey pike, knott rigg, ard crags, scar crags |
 
 | **Book 7.) The Western Fells** | |
 | --- | --- |
