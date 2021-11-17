@@ -59,7 +59,7 @@ This has been a long-running project, and by long-running I'm talking 10+ years!
 | [Great End via Seathwaite Fell](/hiking/scafell-pike-from-seathwaite) | seathwaite fell, great end |
 | [Scafell Pike from Seathwaite](/hiking/scafell-pike-from-seathwaite) | scafell pike |
 
-| **Book 5.) The Northern Fells** | |
+| **Book 5.) The Northern Fells** | **24 / 24** |
 | --- | --- |
 | [Blencathra via Scales Fell](/hiking/blencathra-via-scales-fell) | souther fell, blencathra, bannerdale crags, bowscale fell |
 | [Carrock Fell to Knott](/hiking/carrock-fell-to-knott) | carrock fell, high pike, great sca, fell knott |
