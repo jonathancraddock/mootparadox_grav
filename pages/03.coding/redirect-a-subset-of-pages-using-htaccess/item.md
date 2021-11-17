@@ -27,6 +27,8 @@ After a degree of head-scratching, the following two instructions achieve what I
 
 **Example 1:**
 
+* https://example.com/blog/firstpost **->** https://newsite.com/information/first-post-on-this-blog
+
 ```bash
 # legacy site 301 redirects
 RewriteRule ^blog/firstpost/?$ https://newsite.com/information/first-post-on-this-blog [NC,L,R=301]
@@ -35,6 +37,8 @@ RewriteRule ^blog/firstpost/?$ https://newsite.com/information/first-post-on-thi
 I included this rule near the top of the .htaccess (obviously after the RewriteEngine On, etc) and before the legacy rules that were manipulating various query strings.
 
 **Example 2:**
+
+* https://example.com/index.php?sec=blog&post=secpost **->** https://newsite.com/information/second-post-here
 
 ```bash
 # legacy site 301 query-string redirects
