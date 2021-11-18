@@ -13,9 +13,9 @@
           {% include 'partials/taxonomylist.html.twig' with {base_url: '/hiking', taxonomy: 'hiking-cat'} %}
         {% endif %}
 
-        {% if uri.route|contains('coding') %}
-          <!-- route includes 'coding' : {{uri.route}} -->
-          {% include 'partials/taxonomylist.html.twig' with {base_url: '/coding', taxonomy: 'coding-cat'} %}
+        {% if uri.route|contains('projects') %}
+          <!-- route includes 'projects' : {{uri.route}} -->
+          {% include 'partials/taxonomylist.html.twig' with {base_url: '/projects', taxonomy: 'projects-cat'} %}
         {% endif %}
 
     </section>
