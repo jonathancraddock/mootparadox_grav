@@ -17,4 +17,5 @@ Holding page. (Description to follow.)
 
 ===
 
-Abc...
+[View Full Screen](https://map.mootparadox.com/full/coquet-valley-1) | [GPX](https://map.mootparadox.com/gpx/coquet-valley-1)  
+<p><iframe src="https://map.mootparadox.com/embed/coquet-valley-1" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>

@@ -193,6 +193,11 @@ p > img + em {
     border-radius: 8px;
 }
 
+/* faded green-grey and dark red for code snippets */
+code {
+    color: #800;
+    background: #f4f9f2;
+}
 
 table {
     overflow-x: auto;
