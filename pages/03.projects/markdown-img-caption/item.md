@@ -4,13 +4,14 @@ media_order: '00caption.jpg,markdown-img-caption.png'
 taxonomy:
     category:
         - coding
+        - projects
     tag:
         - css
         - markdown
         - image
         - img
         - caption
-    coding-cat:
+    projects-cat:
         - markdown
 date: '06-11-2021 18:00'
 ---
