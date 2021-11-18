@@ -4,14 +4,15 @@ visible: false
 taxonomy:
     category:
         - coding
+        - projects
     tag:
         - javascript
         - jitbit
         - yaml
         - email
         - nodered
-    coding-cat:
-        - jitbit
+    projects-cat:
+        - web
 ---
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file.
