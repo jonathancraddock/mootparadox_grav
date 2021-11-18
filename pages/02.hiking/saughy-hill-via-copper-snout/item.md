@@ -1,5 +1,5 @@
 ---
-title: 'Coquet Valley Winter Circuit'
+title: 'Saughy Hill via Copper Snout'
 taxonomy:
     category:
         - hiking
@@ -8,6 +8,9 @@ taxonomy:
         - cheviots
         - 'coquet valley'
         - winter
+        - 'saughy hill'
+        - 'copper snout'
+        - 'usway burn'
     hiking-cat:
         - cheviots
 media_order: 00coquetvalley.jpg
