@@ -3,12 +3,13 @@ title: 'Redirect a Subset of Pages Using .htaccess'
 taxonomy:
     category:
         - coding
+        - projects
     tag:
         - htaccess
         - redirect
         - rewrite
         - apache
-    coding-cat:
+    projects-cat:
         - web
 ---
 
