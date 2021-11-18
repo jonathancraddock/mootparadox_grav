@@ -4,10 +4,10 @@ taxonomy:
     category:
         - hiking
     tag:
+        - winter
         - northumbria
         - cheviots
         - 'coquet valley'
-        - winter
         - 'saughy hill'
         - 'copper snout'
         - 'usway burn'
