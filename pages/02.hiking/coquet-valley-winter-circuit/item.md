@@ -10,5 +10,11 @@ taxonomy:
         - winter
     hiking-cat:
         - cheviots
+media_order: 00coquetvalley.jpg
 ---
 
+Holding page. (Description to follow.)
+
+===
+
+Abc...
