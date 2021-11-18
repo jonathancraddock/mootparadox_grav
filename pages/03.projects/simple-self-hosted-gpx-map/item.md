@@ -4,15 +4,18 @@ visible: false
 taxonomy:
     category:
         - coding
+        - projects
     tag:
         - javascript
         - map
         - self-hosted
-    coding-cat:
         - maps
+    projects-cat:
+        - web
 routes:
     aliases:
-        - /coding/test
+        - /projects/simple-map
+    canonical: /projects/simple-self-hosted-gpx-map
 date: '27-10-2021 12:30'
 ---
 
