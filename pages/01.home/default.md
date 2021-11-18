@@ -25,7 +25,7 @@ What happened to the old site? For the last couple of weeks the answer has been,
 
 ### What Next?
 
-I'm bringing the hiking blog posts across from my old site, with [improved maps](/coding/simple-self-hosted-gpx-map) and better quality versions of the photographs. Find blog posts related to [Hiking](/hiking), or [Coding](/coding).
+I'm bringing the hiking blog posts across from my old site, with [improved maps](/coding/simple-self-hosted-gpx-map) and better versions of the photographs. Find blog posts related to [Hiking](/hiking), or various [Projects](/projects), probably with a vaguely techie twist.
 
 ![](/hiking/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
 *Red Tarn with Swirral Edge to the left.*
@@ -34,7 +34,7 @@ The previous versions of these hiking trip-reports featured low-quality JPG maps
 
 ### Walking the Wainwrights
 
-This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - getting dangerously close to halfway.
+This has been a long-running project, and by long-running I'm talking 10+ years! The tables below list his seven classic volumes and the routes I've walked so far. These have been some great days out, and the Wainwright Bagging count stands at **98** - and getting dangerously close to halfway.
 
 The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_of_Wainwrights) is a useful resource.
 
