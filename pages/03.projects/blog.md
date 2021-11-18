@@ -1,5 +1,5 @@
 ---
-title: Coding
+title: Projects
 show_sidebar: false
 show_pagination: true
 content:
