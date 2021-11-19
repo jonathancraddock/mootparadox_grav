@@ -53,7 +53,9 @@ It was windy on Striding Edge and I kept slightly below the ridge to the norther
 ![striding-edge-1](striding-edge-1.jpg "striding-edge-1")
 *Striding Edge towards Helvellyn.*
 
-I also noticed an inordinate number of discarded banana skins along the way. I can only assume this is the result of some kind of misguided tribute to the late Norman Wisdom, but whoever thinks this is a good idea must be positively loopy! Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. If you would like to be cautious, it's probably better for ascent, although I met several people coming the other way, and they were not having any difficulty.
+I also noticed an inordinate number of discarded banana skins along the way. I can only assume this is the result of some kind of misguided tribute to the late Norman Wisdom, but whoever thinks this is a good idea must be positively loopy!
+
+Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. If you would like to be cautious, it's probably better for ascent, although I met several people coming the other way, and they were not having any difficulty.
 
 ### Helvellyn to Grisedale Tarn
 
