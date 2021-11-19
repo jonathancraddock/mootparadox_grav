@@ -18,7 +18,7 @@ taxonomy:
         - 'arniston crag'
     hiking-cat:
         - wainwrights
-media_order: '00helvellyn.jpg,helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg'
+media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg'
 ---
 
 Without wishing to overstate the emotion of a specific moment, it was the scene below, near Grisedale Beck, that reminded me of what I have always wanted from a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Needless to say, that was not part of my original plan!
@@ -45,7 +45,7 @@ Park in Patterdale. I was lucky and managed to get into the road-layby near the 
 
 From the road, a good checkpoint is the Patterdale Hotel car park. The path exits the back of the car park and, whilst the route is a little indistinct in places, you are basically following a stone wall all the way to below Thornhow Crag. From here on the path is unmissable and you drop down to Grisedale Back and begin the gently graded walk up to Hole in the Wall. It's worth the short detour to Birkhouse Moor, and not just to 'bag' the Wainwright, because there are fantastic views over Ullswater and beyond.
 
-
+![birkhouse-moor-towards-helvellyn](birkhouse-moor-towards-helvellyn.jpg "birkhouse-moor-towards-helvellyn")
 *Birkhouse Moor to Helvellyn.*
 
 It was windy on Striding Edge and I kept slightly below the ridge to the northern side for most of the route.
