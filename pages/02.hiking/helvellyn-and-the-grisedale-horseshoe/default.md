@@ -1,14 +1,14 @@
 ---
-title: 'Grisedale Horseshoe Redux'
+title: 'Helvellyn and the Grisedale Horseshoe'
 taxonomy:
     category:
         - hiking
     tag:
-        - 'lake district'
         - cumbria
+        - 'lake district'
         - 'eastern fells'
-        - 'birkhouse moor'
         - helvellyn
+        - 'birkhouse moor'
         - 'nethermost pike'
         - 'dollywaggon pike'
         - 'seat sandal'
@@ -16,6 +16,9 @@ taxonomy:
         - 'st sunday crag'
         - birks
         - 'arniston crag'
+    hiking-cat:
+        - wainwrights
+media_order: 'grisedale-tarn-from-seat-sandal.jpg,helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg'
 ---
 
 Without wishing to overstate the emotion of a specific moment, it was the scene below, near Grisedale Beck, that reminded me of what I have always wanted from a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Needless to say, that was not part of my original plan!
