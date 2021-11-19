@@ -25,7 +25,7 @@ Without wishing to overstate the emotion of a specific moment, it was the scene 
 
 ===
 
-I began this project of Wainwright Bagging in August with a clean slate, as I can't remember for certain which summits I visited 20 years ago. Until today I had stuck with the Northern Fells. Perfectly fine in their own right, of course, but somehow they just don't have the magic of these fells.
+I began this project of Wainwright Bagging in August with a clean slate, as I can't remember for certain which summits I visited 20 years ago. Until today I had stuck with the Northern Fells. Blencathra will always be a personal favourite but, I'm sure like many others, Helvellyn was probably the first mountain I ever wanted to climb.
 
 ![helvellyn](helvellyn.jpg "helvellyn")
 *View towards Helvellyn.*
@@ -36,11 +36,10 @@ Route Summary:
 
 Park in Patterdale. I was lucky and managed to get into the road-layby near the White Lion Inn, but otherwise go to the Patterdale Hotel and hand them the shirt off your back. (Or 3.50 if you think you might be needing your shirt later.) There's a public toilet in the White Lion car park, which is a welcome sight after a 90 minute drive! From there, head directly to Hole in the Wall via the path that takes you through the Patterdale Hotel car park. I followed the Striding Edge path, but only after a short detour to Birkhouse Moor. The Helvellyn summit is the beginning of a route along the edge of the crags that takes you to Nethermost Pike and then Dollywaggon Pike. Drop down to Grisedale Tarn, and climb Seat Sandal from the north and descend to the east, down to Grisedale Hause. Climb the scree/path up to Fairfield. Head down the ridge, over Cofa Pike to Deepdale Hause (some care is needed here) and then on to the summit of St Sunday Crag. This is now well into the homeward stretch! Head back towards the Patterdale Hotel, via Birks and Arniston Crag.
 
-Map:
+### Map
 
-Click the map below to view it in Picasa. It's a large file and may take a few moments to load.
-
-Route Map
+[View Full Screen](https://map.mootparadox.com/full/grisedale) | [GPX](https://map.mootparadox.com/gpx/grisedale)  
+<p><iframe src="https://map.mootparadox.com/embed/grisedale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Route to Helvellyn:
 
