@@ -45,9 +45,15 @@ Park in Patterdale. I was lucky and managed to get into the road-layby near the 
 
 From the road, a good checkpoint is the Patterdale Hotel car park. The path exits the back of the car park and, whilst the route is a little indistinct in places, you are basically following a stone wall all the way to below Thornhow Crag. From here on the path is unmissable and you drop down to Grisedale Back and begin the gently graded walk up to Hole in the Wall. It's worth the short detour to Birkhouse Moor, and not just to 'bag' the Wainwright, because there are fantastic views over Ullswater and beyond.
 
-View from Birkhouse Moor      Birkhouse Moor to Helvellyn
 
-It was windy on Striding Edge and I kept slightly below the ridge to the northern side for most of the route. I also noticed an inordinate number of discarded banana skins along the way. I can only assume this is the result of some kind of misguided tribute to the late Norman Wisdom, but whoever thinks this is a good idea must be positively loopy! Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. If you would like to be cautious, it's probably better for ascent, although I met several people coming the other way, and they were not having any difficulty.
+*Birkhouse Moor to Helvellyn.*
+
+It was windy on Striding Edge and I kept slightly below the ridge to the northern side for most of the route.
+
+![striding-edge-1](striding-edge-1.jpg "striding-edge-1")
+*Striding Edge towards Helvellyn.*
+
+I also noticed an inordinate number of discarded banana skins along the way. I can only assume this is the result of some kind of misguided tribute to the late Norman Wisdom, but whoever thinks this is a good idea must be positively loopy! Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. If you would like to be cautious, it's probably better for ascent, although I met several people coming the other way, and they were not having any difficulty.
 
 ### Helvellyn to Grisedale Tarn
 
@@ -57,7 +63,8 @@ I swapped my Montane Lightspeed for my Rab Latok Alpine, which offered rather mo
 
 If you follow this route, keep in mind that the best marked path from the Helvellyn summit takes you below the summits of Nethermost Pike and Dollywaggon Pike, so be prepared to take a couple of short detours if you want to visit the true summit of each. This view is from the route up to Dollywaggon Pike, looking towards St Sunday Crag. Note the ridge route to the summit of Dollywaggon that cuts diagonally left to right in the picture below, known as "the Tongue". A decent looking route for another occasion.
 
-Below Dollywaggon Pike looking towards St Sunday Crag
+![st-sunday-crag](st-sunday-crag.jpg "st-sunday-crag")
+*Below Dollywaggon Pike looking towards St Sunday Crag.*
 
 There are a couple of options for the route down to Seat Sandal. I took the steeper and more direct route. There's a zig-zag path further east, but it was longer and didn't particularly look like it was going to be any easier.
 
@@ -65,7 +72,8 @@ There are a couple of options for the route down to Seat Sandal. I took the stee
 
 I think it's fair to say, not the highlight of the route. Seat Sandal is a low, rounded summit, and was not improved by the driving horizontal rain! The route down to Grisedale Hause is a mix of broken paths and scree, with a couple of fairly steep sections.
 
-St Sunday Crag and Fairfield from Seat Sandal      Grisedale Tarn from Seat Sandal
+![grisedale-tarn-from-seat-sandal](grisedale-tarn-from-seat-sandal.jpg "grisedale-tarn-from-seat-sandal")
+*Grisedale Tarn from Seat Sandal.*
 
 The images above show the view from the summit of Seat Sandal, looking across towards St Sunday Crag and Fairfield, and on the right, the view on the descent, looking over Grisedale tarn. In the second image, the grass flattens out in a sheltered spot below a rocky outcrop and I found myself thinking it would be quite a view to wake up to! Probably space for a small tent... another "note to self" there!
 
