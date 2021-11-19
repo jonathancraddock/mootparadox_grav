@@ -27,7 +27,7 @@ Without wishing to overstate the emotion of a specific moment, it was the scene 
 
 I began this project of Wainwright Bagging in August with a clean slate, as I can't remember for certain which summits I visited 20 years ago. Until today I had stuck with the Northern Fells. Perfectly fine in their own right, of course, but somehow they just don't have the magic of these fells.
 
-![striding-edge-1](striding-edge-1.jpg "striding-edge-1")
+![helvellyn](helvellyn.jpg "helvellyn")
 *View towards Helvellyn.*
 
 And so it was Wednesday 6th October when I found myself in Glenridding for the first time in many years, to tackle a modified Grisedale Horseshoe. I believe the classic route would be structured around Catstycam, Helvellyn and St Sunday Crag. In this walk, I wanted to include Striding Edge and also some additional Wainwrights, so the horseshoe became slightly extended; nine Wainwrights to be precise. It also added up to around 8000 feet of ascent, and a fairly tough daywalk.
