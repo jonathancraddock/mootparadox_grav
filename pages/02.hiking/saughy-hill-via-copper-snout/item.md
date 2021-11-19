@@ -5,7 +5,7 @@ taxonomy:
         - hiking
     tag:
         - winter
-        - northumbria
+        - northumberland
         - cheviots
         - 'coquet valley'
         - 'saughy hill'
