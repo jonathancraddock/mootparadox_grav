@@ -18,7 +18,7 @@ taxonomy:
         - 'arniston crag'
     hiking-cat:
         - wainwrights
-media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
+media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,striding-edge-2.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
 ---
 
 Without wishing to overstate the emotion of a specific moment, it was the scene below, near Grisedale Beck, that reminded me of what I have always wanted from a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Needless to say, that was not part of my original plan!
@@ -102,6 +102,9 @@ Arniston Crag looked like the more interesting of the two; good spot for a picni
 ### Summary
 
 This is a route that felt somewhat longer than I'd anticipated. This was partly due to the mixed weather, but mainly due to the significant ascent (a tad under 8000 feet) and a couple of sections requiring slow, cautious descent. The finish in darkness further added to the time - about 8 hours in total.
+
+![striding-edge-2](striding-edge-2.jpg "striding-edge-2")
+*Striding Edge, with Red Tarn visible below Helvellyn.*
 
 In keeping with the structure of my last post - what did I learn? The views from Fairfield were magnificent (I'm pretty sure this was my first ascent) and I'm looking forward to returning; probably mid-week though, as I get the impression it would be busy at weekends. I need to make earlier starts; I think that much goes without saying! However, given the circumstances, carrying a headtorch was absolutely invaluable. Mine is a Petzl e'Lite, at about 24g, weighs next to nothing and, I think I can safely say, everyone should have one!
 
