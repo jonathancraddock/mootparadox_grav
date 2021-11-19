@@ -18,7 +18,7 @@ taxonomy:
         - 'arniston crag'
     hiking-cat:
         - wainwrights
-media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg'
+media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
 ---
 
 Without wishing to overstate the emotion of a specific moment, it was the scene below, near Grisedale Beck, that reminded me of what I have always wanted from a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Needless to say, that was not part of my original plan!
@@ -81,13 +81,15 @@ The images above show the view from the summit of Seat Sandal, looking across to
 
 The path on the Seat Sandal side of Fairfield is not great, being little more than a slightly flattened route up a scree slope. Easy enough, but a bit of a trudge and the summit was completely clouded in by the time I got there. However, the views down into Deepdale were simply amazing as the fog began to lift; a definite highlight of the days route. Sadly the photograph below cannot even come close to doing it justice.
 
-From Fairfield, overlooking Cofa Pike and St Sunday Crag
+![st-sunday-crag-from-fairfield](st-sunday-crag-from-fairfield.jpg "st-sunday-crag-from-fairfield")
+*From Fairfield, overlooking Cofa Pike and St Sunday Crag.*
 
 I think it was all the more impressive because of the broken fog. One minute I was staring at a wall of whiteness, and then suddenly I was staring down into the Deepdale valley. Unfortunately I was now somewhat behind schedule, and needed to press on.
 
 There might be multiple routes from Fairfield to St Sunday Crag. The one I found myself on required several scrambles down rocky outcrops. Not difficult, but also not to be rushed. It felt like a long way to St Sunday Crag.
 
-View back towards Cofa Pike      Looking back towards Fairfield
+![cofa-pike](cofa-pike.jpg "cofa-pike")
+*Looking back towards Cofa Pike, on path to St Sunday Crag.*
 
 On the left, above, is the view back to Cofa Pike, and on the right is a wider view towards Fairfield.
 
