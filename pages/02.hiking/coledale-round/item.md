@@ -1,11 +1,12 @@
 ---
-title: 'The Coledale Round'
+title: 'Coledale Round'
 taxonomy:
     category:
         - hiking
     tag:
         - cumbria
         - 'lake district'
+        - 'north western fells'
         - 'coledale round'
         - barrow
         - outerside
@@ -14,32 +15,29 @@ taxonomy:
         - wandope
         - 'hopegill head'
         - 'grisedale pike'
-        - 'north western fells'
     hiking-cat:
         - wainwrights
+media_order: crag-hill.jpg
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
+
+!!!! Wainwright, Book 6: North Western Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
 
 ===
 
 I can certainly recommend this route as an easy day-walk, just over 10 miles (17km) and 5750 feet of ascent (1752m). My GPS shows I was moving for about four hours. If planning a few stops for refreshment and photographs along the way, allowing about six hours should be plenty of time. The terrain is excellent, great views, well marked paths, and takes you to 7 Wainwrights. The only potential downside could be it's popularity, if you don't like company on the fells, but it's not Helvellyn, and considering it was a Saturday the crowds were bearable! Wainwright count now stands at 38 bagged, and 176 to go!
 
-View towards Crag Hill
+![crag-hill](crag-hill.jpg "crag-hill")
+*View towards Crag Hill at the head of the Coledale valley.*
 
-Route Summary:
+### Route Summary
 
 Park in or near Braithwaite. I approached from Keswick and drove through Braithwaite village onto the Whinlatter Pass. A mix of layby and car-parking is available, and at about 9:30 on a Saturday, I found spaces only a few hundred yards out of the village. Head for Barrow. A couple of useful checkpoints to keep you on track through the village are a small stone bridge with a sign for Coledale Youth Centre, a white painted chapel (head left near there) and bear southwards, passing the Coledale Inn on your right. Shortly after the Coledale Inn, a path down through some woods gets you onto the path for Barrow. From here the route is obvious, taking the following fells in sequence: Barrow, Outerside, Sail, Crag Hill, Wandope, Hopegill Head and Grisedale Pike, but the following notes may be helpful:
 
 The path up Outerside is straight up the north-east ridge. It's not immediately visible when approaching from the south, but it's a clear path and you'll know when you've reached it. Secondly, the OS map shows a couple of paths up to Sail, with the more northerly one appearing to cut across a craggy scree slope. This path does not exist, so you probably want to get up to the top of the ridge, then the path to the summit is clear. Finally, the route is circular and can be taken in either direction, but for me, I think I'd have found it a long trudge up to Grisedale Pike from the east, and I'd probably stick to the sequence above if I was repeating the walk.
 
-Wainwright, Book 6: North Western Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
-
-Map:
-
-Coledale Round Map Will open in Picasa...
-
-Barrow and Outerside:
+### Barrow and Outerside
 
 It's saying something - that the most complex piece of navigation throughout the entire day was getting through Braithwaite village onto the path to Barrow! But really, this says even more about how easy it is to follow the rest of the route. The following worked for me; click here to see a satellite view in Picasa.
 
