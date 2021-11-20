@@ -13,7 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
-media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -58,18 +58,18 @@ Once you're onto High Dodd, it's an easy walk up to Place Fell, via the ridge of
 
 From Place Fell, you descend rocky paths to Round How, whereupon the path steepens considerably until you reach Chapel in the Hause. It would be a short walk from here to the northernmost summit of Angletarn Pikes (about 1km) but instead I took a 6km diversion around to Beda Fell and back. Had to be done, but took longer than I'd anticipated and it put me a bit behind schedule.
 
-The elongated Beda Fell diversion:
+### The elongated Beda Fell diversion
 
 For the summit bagger, Beda Fell is awkwardly placed. It's easy to fit into a couple of shortened horseshoe walks, either the combination of Place Fell & Beda Fell, or the Beda Fell, Angletarn, Brock, Rest Dodd, Nab side of the valley. Both would make for good routes, but just a tad too short at around 13-14km each, and hence my "W" shaped horseshoe approach!
 
 From Chapel in the Hause, head to Beda Fell Knott, then along ridge to cairn at Beda Head. The clouds were lifting to some extent and I was able to switch from full waterproofs to a Lightspeed over my microfleece top.
 
-St Sunday Crag seen over Chapel in the House
-St Sunday Crag, viewed over col at Chapel in the Hause
+![view-towards-st-sunday-crag](view-towards-st-sunday-crag.jpg "view-towards-st-sunday-crag")
+*St Sunday Crag, viewed over col at Chapel in the Hause.*
 
 There are nice views throughout. In the photo above St Sunday Crag is almost visible in the cloud, although Fairfield (to the left) and the Helvellyn range (to the right) are a bit more clouded in.
 
-"The fell is best climbed along its north ridge, over the serrated crest of Winter Crag."
+> "The fell is best climbed along its north ridge, over the serrated crest of Winter Crag."
 
 Looking towards Beda Head
 The view towards Beda Head
@@ -80,14 +80,14 @@ Angletarn Pikes to Brock Crags:
 
 This was my first visit to Angletarn Pikes, but will be very happy to return. There would be plenty to explore, some decent scrambling to be had - or go the whole hog and bring your bouldering mat! Would also make a great spot for a wildcamp, but I get the feeling it might be a little too popular. There are two distinct summits to Angletarn Pikes, the northern one being a couple of metres higher.
 
-"Twin upthrusts of rock, 200 yards apart, give individuality to this unusual summit; the northerly is the higher."
+> "Twin upthrusts of rock, 200 yards apart, give individuality to this unusual summit; the northerly is the higher."
 
 Angle Tarn
 Angle Tarn seen from below the southern summit of Angletarn Pikes
 
 It might be advisable to descend south-west from the southern summit as I ran into some very boggy ground on the north-east side, but either way, it's a short walk back to the main path that leads you around the Tarn below the ridge of Buck Crag. The natural line of this route would take you up Satura Crag to Rest Dodd, but I took a short diversion up to the summit of Brock Crags.
 
-"It is as a viewpoint that the summit merits the most respect."
+> "It is as a viewpoint that the summit merits the most respect."
 
 Summit of Brock Crags
 Summit cairn at Brock Crags, with Dove Crag and Hart Crag in the background
@@ -101,7 +101,7 @@ The climb to Rest Dodd, although only about 150m above the col leading to Satura
 Rampsgill Head seen from Rest Dodd
 Rampsgill Head seen from summit of Rest Dodd
 
-"Rest Dodd stands at an angle on the undulating grassy ridge coming down from the main watershed to the shores of Ullswater, and its south-west slope, which drains into Hayeswater Gill, is crossed by the track from Patterdale to High Street."
+> "Rest Dodd stands at an angle on the undulating grassy ridge coming down from the main watershed to the shores of Ullswater, and its south-west slope, which drains into Hayeswater Gill, is crossed by the track from Patterdale to High Street."
 
 It's particularly worth noting the bogs between Rest Dodd and The Nab. In fact, you can't miss them, and it does tend to slow your progress somewhat. I caught a few glimpses of red deer, and noted a sign which asked walkers to keep a distance and avoid causing any disturbance to the herd. My plan had been to descend to Rampsgill Beck and follow the farm track back to the road, but that would have taken me through the middle of dozens of them. I decided to simply follow the line of the ridge, descending Nab End, and thus avoiding the deer entirely.
 
@@ -113,10 +113,6 @@ There are a couple of points worth bearing in mind with this. Nab End is extreme
 Summary:
 
 This is an enjoyable route, but I'd hesitate to recommend the fairly drastic diversion I took to Beda Fell. It's an inevitable consequence of trying to combine Beda Fell and Place Fell into a longer circular route. The ascent of Beda Fell from Housesteadbrow would have been nice, but then you either have to descend the same way, or carry on and undertake a pretty tiring ascent and descent of Place Fell from Chapel in the Hause. To anyone not concerned with Wainwright Bagging, I'd definitely suggest doing one or the other, but not both, then carrying on with the route to Angletarn Pikes. (Personally, I think I'd be quite tempted to climb Beda Fell from Housesteadbrow, via Winter Crag...) Also, as I now realise, The Nab should probably be avoided, particularly in the summer.
-
-{source}
-
-{/source}
 
 Perhaps surprisingly, this was only the third time I'd needed full waterproofs since August 2010. Oh the joys of the English summer! For me, this is a Rab Latok Alpine jacket, which I've been very pleased with - and love the hood, and some Berghaus GoreTex Paclite pants. Again, I've found them great, even in these warm and damp conditions.
 
