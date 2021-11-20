@@ -17,7 +17,7 @@ taxonomy:
         - 'grisedale pike'
     hiking-cat:
         - wainwrights
-media_order: '00coledale.jpg,crag-hill.jpg'
+media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg'
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
@@ -46,17 +46,19 @@ The path up Outerside is straight up the north-east ridge. It's not immediately 
 
 It's saying something - that the most complex piece of navigation throughout the entire day was getting through Braithwaite village onto the path to Barrow! But really, this says even more about how easy it is to follow the rest of the route. The following worked for me; click here to see a satellite view in Picasa.
 
-The walk up Barrow offers some fantastic views back to the Northern Fells, and particularly towards Derwent Water. In the image on the left below, the green fields looked amazing. Catbells would be off to the right. The second image is looking up the pathway, towards Causey Pike and Crag Hill.
+The walk up Barrow offers some fantastic views back to the Northern Fells, and particularly towards Derwent Water. In the image on the left below, the green fields looked amazing. Catbells would be off to the right.
 
-Derwent Water from Barrow      Looking towards Causey Pike and Crag Hill
+![catbells-and-derwent-water](catbells-and-derwent-water.jpg "catbells-and-derwent-water")
+*Derwent Water from Barrow.*
 
 From Barrow you drop down the side of Stile End on a path that would ultimately take you to Sail. But, around Low Moss, you need to head up to the north-west ridge of Outerside. There's not much of a path to this point, just follow the sheep tracks through the bracken and heather. The Outerside path remains hidden by deep heather until you're almost on top of it, whereupon it becomes a clear track to the summit.
 
-View from Outerside to head of Coledale
+![head-of-coledale-from-outerside](head-of-coledale-from-outerside.jpg "head-of-coledale-from-outerside")
+*View from Outerside to head of Coledale.*
 
 Outerside is rather flat at the top, and the approach from the north is definitely more interesting than the south, which is just a gentle grass slope. The views are excellent, with the head of the Coledale valley to the west, and the view south dominated by Causey Pike. The image above is the view towards Force Crag, with Eel Crag to the upper left and Hopegill Head just visible in the upper right.
 
-The path to Sail:
+### The path to Sail
 
 The ascent of Sail breaks into two logical stages. First, the climb to the col between Sail and Scar Crags which takes you up a steep stony path. Then there's the climb up a somewhat artificial, but strangely impressive, zig-zag path to the summit.
 
@@ -64,7 +66,7 @@ View from Sail      View from Sail to Crag Hill
 
 From the summit of sail, there is a short walk along a wide rocky ridge to Crag Hill (Eel Crag). Again, I was pleased I'd chosen to be approaching from this direction.
 
-Crag Hill (Eel Crag) to Wandope:
+### Crag Hill (Eel Crag) to Wandope
 
 As the name Eel Crag suggests, steep rocky faces are presented to the northerly sides, but the summit is rounded and slopes gently down to the south. My original plan was to head from here straight to Hopegill Head, but I was well ahead of schedule and decided to have a short walk over to Wandhope.
 
@@ -74,7 +76,7 @@ Descent of Crag Hill towards Wandhope      From summit of Wandhope
 
 Wandhope doesn't look like much when approached from the south, but it was a very pleasant place to stop. Spent a while sat beside the summit cairn enjoying the views.
 
-Hopegill Head:
+### Hopegill Head
 
 The path to Hopegill Head takes you below the northern side of Grasmoor. I'd decided to save this for another day, and followed the path down to Coledale Hause. It's another very well maintained path, following the upper course of Liza Beck.
 
@@ -86,7 +88,7 @@ From Hopegill Head, looking south      Cliffs below Hopegill Head, to west
 
 Hopegill Head is an impressive, rocky summit, all the more so if seen from the western side, with steep slopes, broken cliffs and gullies down to Hobcarton. The ridge, above left is looking south to Whiteside - with my back to Grisedale Pike.
 
-Grisedale Pike:
+### Grisedale Pike
 
 I'd anticipated Grisedale Pike being a highlight of the day's route - and so it was when I encountered @stevenhorner and @HelenJFisher coming the other way! But even apart from that, Grisedale Pike offers commanding views over the surrounding area.
 
@@ -94,7 +96,7 @@ From Grisedale Pike towards Crag Hill
 
 Sadly, it also marked the final summit, before the long descent to Braithwaite.
 
-Summary:
+### Summary
 
 I can highly recommend the Coledale Round. It appears to be a popular route, and given a choice, I'd have probably walked it mid-week, but it's not excessively busy. It's also a fairly easy route. Just a couple of steep bits, on the climb up to Crag Hill, and the path to Hopegill Head which is basically up a steep scree path, a little slippy in places. Similarly, the descent from Grisedale Pike is occasionally quite steep, but again - there's no actual difficulty in any of these sections.
 
