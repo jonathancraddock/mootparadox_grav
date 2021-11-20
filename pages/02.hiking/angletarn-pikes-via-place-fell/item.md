@@ -13,7 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
-media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg,rampsgill-head-from-rest-dodd.jpg,the-nab.jpg'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg,rampsgill-head-from-rest-dodd.jpg,the-nab.jpg,place-fell-and-ullswater.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -110,9 +110,12 @@ It's particularly worth noting the bogs between Rest Dodd and The Nab. In fact, 
 
 There are a couple of points worth bearing in mind with this. Nab End is extremely steep and makes for a tricky descent. Dropping 150m in about 300m sounds ok, but short sections of it are steeper than this might suggest. Dig in your walking poles and take it steady! Also, I joined a farm track near Rampsgill Beck, had to climb a fence into an adjacent field to avoid an angry bull, and once back on the road I saw various signs saying private, and further on - an electric fence. It was only later that I realised the reasons for this, the area around The Nab being home to the oldest native herd of red deer in England. This is another good reason to read your Wainwright guide before the walk, rather than after you've finished your blog post! (And note the second edition contains much additional info on this point.)
 
-Summary:
+### Summary
 
 This is an enjoyable route, but I'd hesitate to recommend the fairly drastic diversion I took to Beda Fell. It's an inevitable consequence of trying to combine Beda Fell and Place Fell into a longer circular route. The ascent of Beda Fell from Housesteadbrow would have been nice, but then you either have to descend the same way, or carry on and undertake a pretty tiring ascent and descent of Place Fell from Chapel in the Hause. To anyone not concerned with Wainwright Bagging, I'd definitely suggest doing one or the other, but not both, then carrying on with the route to Angletarn Pikes. (Personally, I think I'd be quite tempted to climb Beda Fell from Housesteadbrow, via Winter Crag...) Also, as I now realise, The Nab should probably be avoided, particularly in the summer.
+
+![place-fell-and-ullswater](place-fell-and-ullswater.jpg "place-fell-and-ullswater")
+*Place Fell and the south end of Ullswater.*
 
 Perhaps surprisingly, this was only the third time I'd needed full waterproofs since August 2010. Oh the joys of the English summer! For me, this is a Rab Latok Alpine jacket, which I've been very pleased with - and love the hood, and some Berghaus GoreTex Paclite pants. Again, I've found them great, even in these warm and damp conditions.
 
