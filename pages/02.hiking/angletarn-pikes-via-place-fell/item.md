@@ -13,7 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
-media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg,rampsgill-head-from-rest-dodd.jpg,the-nab.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -94,19 +94,19 @@ Summit cairn at Brock Crags, with Dove Crag and Hart Crag in the background
 
 Brock Crags is perhaps not the most exciting summit in the world, but well worth a visit for its (potentially) superb views of the surrounding hills, not least St Sunday Crag and the Fairfield range, as well as some great views towards Stony Cove Pike and High Street.
 
-Rest Dodd and descent via The Nab:
+### Rest Dodd and descent via The Nab
 
 The climb to Rest Dodd, although only about 150m above the col leading to Satura Crag, is a bit of a pull at the end of the day, but once at the summit, it's pretty much all downhill from there! Notably, descending across the aptly named Deer Forest.
 
-Rampsgill Head seen from Rest Dodd
-Rampsgill Head seen from summit of Rest Dodd
+![rampsgill-head-from-rest-dodd](rampsgill-head-from-rest-dodd.jpg "rampsgill-head-from-rest-dodd")
+*Rampsgill Head seen from summit of Rest Dodd.*
 
 > "Rest Dodd stands at an angle on the undulating grassy ridge coming down from the main watershed to the shores of Ullswater, and its south-west slope, which drains into Hayeswater Gill, is crossed by the track from Patterdale to High Street."
 
 It's particularly worth noting the bogs between Rest Dodd and The Nab. In fact, you can't miss them, and it does tend to slow your progress somewhat. I caught a few glimpses of red deer, and noted a sign which asked walkers to keep a distance and avoid causing any disturbance to the herd. My plan had been to descend to Rampsgill Beck and follow the farm track back to the road, but that would have taken me through the middle of dozens of them. I decided to simply follow the line of the ridge, descending Nab End, and thus avoiding the deer entirely.
 
-The Nab from Rest Dodd
-The Nab seen from the descent of Rest Dodd
+![the-nab](the-nab.jpg "the-nab")
+*The Nab seen from the descent of Rest Dodd.*
 
 There are a couple of points worth bearing in mind with this. Nab End is extremely steep and makes for a tricky descent. Dropping 150m in about 300m sounds ok, but short sections of it are steeper than this might suggest. Dig in your walking poles and take it steady! Also, I joined a farm track near Rampsgill Beck, had to climb a fence into an adjacent field to avoid an angry bull, and once back on the road I saw various signs saying private, and further on - an electric fence. It was only later that I realised the reasons for this, the area around The Nab being home to the oldest native herd of red deer in England. This is another good reason to read your Wainwright guide before the walk, rather than after you've finished your blog post! (And note the second edition contains much additional info on this point.)
 
