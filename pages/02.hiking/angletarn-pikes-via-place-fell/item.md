@@ -15,9 +15,14 @@ taxonomy:
         - 'the nab'
 ---
 
-Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "we told ourselves that nature was beautiful, even in her tears".
+Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
+
+!!!! A 20km circular route, starting from the Winter Crag car park in Martindale. (_Wainwright Book 5: The Northern Fells_)
 
 ===
+
+[View Full Screen](https://map.mootparadox.com/full/martindale1) | [GPX](https://map.mootparadox.com/gpx/martindale1)  
+<p><iframe src="https://map.mootparadox.com/embed/martindale1" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 Place Fell from Angletarn South Summit     Looking down to Angle Tarn
 Views from the northern summit (left) and the southern summit (right) of Angletarn Pikes
@@ -117,4 +122,6 @@ Perhaps surprisingly, this was only the third time I'd needed full waterproofs s
 
 Next posting on this blog will either be my ascent of Great End from Seathwaite, or some new baby photos... whichever comes first. But, with a due date of 8th August, personally I wouldn't bet on Great End!
 
-"to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains" A. Wainwright
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
