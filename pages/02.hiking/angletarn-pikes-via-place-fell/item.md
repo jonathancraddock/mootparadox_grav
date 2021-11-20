@@ -13,7 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
-media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -71,25 +71,25 @@ There are nice views throughout. In the photo above St Sunday Crag is almost vis
 
 > "The fell is best climbed along its north ridge, over the serrated crest of Winter Crag."
 
-Looking towards Beda Head
-The view towards Beda Head
+![beda-head](beda-head.jpg "beda-head")
+*The view towards Beda Head.*
 
 Beda Head turned out to be a very nice spot for a stop, with great views over Martindale and Ullswater. After the mandatory Granola bar, retrace footsteps, climbing along the line of Heckbeck Head towards Angletarn Pikes.
 
-Angletarn Pikes to Brock Crags:
+### Angletarn Pikes to Brock Crags
 
 This was my first visit to Angletarn Pikes, but will be very happy to return. There would be plenty to explore, some decent scrambling to be had - or go the whole hog and bring your bouldering mat! Would also make a great spot for a wildcamp, but I get the feeling it might be a little too popular. There are two distinct summits to Angletarn Pikes, the northern one being a couple of metres higher.
 
 > "Twin upthrusts of rock, 200 yards apart, give individuality to this unusual summit; the northerly is the higher."
 
-Angle Tarn
-Angle Tarn seen from below the southern summit of Angletarn Pikes
+![angle-tarn](angle-tarn.jpg "angle-tarn")
+*Angle Tarn seen from below the southern summit of Angletarn Pikes.*
 
 It might be advisable to descend south-west from the southern summit as I ran into some very boggy ground on the north-east side, but either way, it's a short walk back to the main path that leads you around the Tarn below the ridge of Buck Crag. The natural line of this route would take you up Satura Crag to Rest Dodd, but I took a short diversion up to the summit of Brock Crags.
 
 > "It is as a viewpoint that the summit merits the most respect."
 
-Summit of Brock Crags
+![brock-crags-summit-cairn](brock-crags-summit-cairn.jpg "brock-crags-summit-cairn")
 Summit cairn at Brock Crags, with Dove Crag and Hart Crag in the background
 
 Brock Crags is perhaps not the most exciting summit in the world, but well worth a visit for its (potentially) superb views of the surrounding hills, not least St Sunday Crag and the Fairfield range, as well as some great views towards Stony Cove Pike and High Street.
