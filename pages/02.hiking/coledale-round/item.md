@@ -22,7 +22,7 @@ media_order: '00coledale.jpg,crag-hill.jpg'
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
 
-!!!! A 17km circular route, from Braithwaite. (*Wainwright Book 6: The North Western Fells*)
+!!!! A 17km circular route around the classic Coledale Horseshoe, starting in Braithwaite. (*Wainwright Book 6: The North Western Fells*)
 
 ===
 
