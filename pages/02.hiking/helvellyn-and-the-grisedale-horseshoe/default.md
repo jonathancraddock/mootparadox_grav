@@ -21,20 +21,22 @@ taxonomy:
 media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,striding-edge-2.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
 ---
 
-Without wishing to overstate the emotion of a specific moment, it was the scene below, near Grisedale Beck, that reminded me of what I have always wanted from a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Needless to say, that was not part of my original plan!
+It was the scene below, from near Grisedale Beck, that reminded me what I have always looked for in a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Not my original plan, but a lesson in always being prepared.
 
 ===
 
-I began this project of Wainwright Bagging in August 2010 with a clean slate, as I can't remember for certain which summits I visited 20 years ago. Until today I had stuck with the Northern Fells. Blencathra will always be a personal favourite but, I'm sure like many others, Helvellyn was probably the first mountain I ever wanted to climb.
+I began this project of Wainwright Bagging in August 2010 with a clean slate; I can't remember which summits I visited 20 years ago. I began with the Northern Fells. Blencathra will always be a personal favourite, and I'm sure I'm not alone in that, but Helvellyn was probably the first mountain I ever wanted to climb. For many, it's probably the first (or only!) summit they would think about.
 
 ![helvellyn](helvellyn.jpg "helvellyn")
 *View towards Helvellyn.*
 
-And so, it was Wednesday 6th October when I found myself in Glenridding for the first time in many years, to tackle a modified Grisedale Horseshoe. I believe the classic route would be structured around Catstycam, Helvellyn and St Sunday Crag. In this walk, I wanted to include Striding Edge and also some additional Wainwrights, so the horseshoe became slightly extended; nine Wainwrights to be precise. It also added up to around 8000 feet of ascent, and a fairly tough daywalk.
+And so it was on Wednesday, 6th October, that I found myself back in Glenridding and Patterdale for the first time in many years, to tackle a modified Grisedale Horseshoe. I believe the classic route would be structured around Catstycam, Helvellyn and St Sunday Crag. In this walk, I wanted to include Striding Edge, and some additional Wainwrights, so the horseshoe became extended; nine Wainwrights to be precise. It also added up to around 8000 feet of ascent, and a fairly tough daywalk.
 
 ### Route Summary
 
-Park in Patterdale. I was lucky and managed to get into the road-layby near the White Lion Inn, but otherwise go to the Patterdale Hotel and hand them the shirt off your back. (Or £3.50 if you think you might be needing your shirt later.) There's a public toilet in the White Lion car park, which is a welcome sight after a 90 minute drive! From there, head directly to Hole in the Wall via the path that takes you through the Patterdale Hotel car park. I followed the Striding Edge path, but only after a short detour to Birkhouse Moor. The Helvellyn summit is the beginning of a route along the edge of the crags that takes you to Nethermost Pike and then Dollywaggon Pike. Drop down to Grisedale Tarn, and climb Seat Sandal from the north and descend to the east, down to Grisedale Hause. Climb the scree/path up to Fairfield. Head down the ridge, over Cofa Pike to Deepdale Hause (some care is needed here) and then on to the summit of St Sunday Crag. This is now well into the homeward stretch! Head back towards the Patterdale Hotel, via Birks and Arniston Crag.
+Park in Patterdale. I was lucky and managed to get into the road-layby near the White Lion Inn, but otherwise go to the Patterdale Hotel and hand them the shirt off your back. (Or £3.50 at 2010 pricing if you think you might be needing your shirt later.) There's a public toilet in the White Lion car park, which is a welcome sight after a 90 minute drive! From there, head directly to Hole in the Wall via the path that takes you through the Patterdale Hotel car park. I followed the Striding Edge path, but only after a short detour to Birkhouse Moor. 
+
+The Helvellyn summit is the beginning of a route along the edge of the crags that takes you to Nethermost Pike and then Dollywaggon Pike. Drop down to Grisedale Tarn, and climb Seat Sandal from the north and descend to the east, down to Grisedale Hause. Climb the scree/path up to Fairfield. Head down the ridge, over Cofa Pike to Deepdale Hause (some care is needed here) and then on to the summit of St Sunday Crag. This is now well into the homeward stretch! Head back towards the Patterdale Hotel, via Birks and Arniston Crag.
 
 ### Map
 
@@ -55,20 +57,20 @@ It was windy on Striding Edge and I kept slightly below the ridge to the norther
 
 I also noticed an inordinate number of discarded banana skins along the way. I can only assume this is the result of some kind of misguided tribute to the late Norman Wisdom, but whoever thinks this is a good idea must be positively loopy!
 
-Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. If you would like to be cautious, it's probably better for ascent, although I met several people coming the other way, and they were not having any difficulty.
+Aside from the dangers posed by hordes of banana wielding cretins, I'm fairly sure Striding Edge should be the route of choice in most ordinary conditions. Enjoyable and I suspect slightly in ascent, there's a school of thought that the steep dropoff from the summit and climbing up the short chimney to attain the ridge, could be more the more pleasing direction.
 
 ### Helvellyn to Grisedale Tarn
 
 Never underestimate the change in climate from lower slopes to summit. This was brought home to me yet again as I reached the summit of Helvellyn to be greeted by a cloud of hailstones hitting me in the face at 60 mph! I took shelter on Helvellyn for a while and chatted to a fellrunner who was out for a short 20 mile stroll! He'd been running in shorts, but the hailstones had brought him into the summit shelter for a costume change.
 
-I swapped my Montane Lightspeed for my Rab Latok Alpine, which offered rather more protection against the deteriorating weather. The wind didn't start to calm down until after Fairfield, but thankfully the high speed hailstones were fairly short lived.
+I also swapped my Montane Lightspeed for a Rab Latok Alpine, which offered rather more protection against the deteriorating weather. The wind didn't start to calm down until after Fairfield, but thankfully the high speed hailstones were fairly short lived.
 
-If you follow this route, keep in mind that the best marked path from the Helvellyn summit takes you below the summits of Nethermost Pike and Dollywaggon Pike, so be prepared to take a couple of short detours if you want to visit the true summit of each. This view is from the route up to Dollywaggon Pike, looking towards St Sunday Crag. Note the ridge route to the summit of Dollywaggon that cuts diagonally left to right in the picture below, known as "the Tongue". A decent looking route for another occasion.
+If you follow this route, keep in mind that the most obvious path from the Helvellyn summit takes you below the summits of Nethermost Pike and Dollywaggon Pike, so be prepared to take a couple of short detours if you want to visit the true summit of each. This view is from the route up to Dollywaggon Pike, looking towards St Sunday Crag. Note the ridge route to the summit of Dollywaggon that cuts diagonally left to right in the picture below, known as "the Tongue". A nice looking route for another occasion.
 
 ![st-sunday-crag](st-sunday-crag.jpg "st-sunday-crag")
 *Below Dollywaggon Pike looking towards St Sunday Crag.*
 
-There are a couple of options for the route down to Seat Sandal. I took the steeper and more direct route. There's a zig-zag path further east, but it was longer and didn't particularly look like it was going to be any easier.
+There are a couple of options for the route down to Seat Sandal. I took the steeper and more direct route. There's a zig-zag path further east, but it was longer, and didn't look like it was going to be any easier.
 
 ### Seat Sandal
 
@@ -81,7 +83,7 @@ The images above show the view from the summit of Seat Sandal, looking across to
 
 ### Fairfield to St Sunday Crag
 
-The path on the Seat Sandal side of Fairfield is not great, being little more than a slightly flattened route up a scree slope. Easy enough, but a bit of a trudge and the summit was completely clouded in by the time I got there. However, the views down into Deepdale were simply amazing as the fog began to lift; a definite highlight of the days route. Sadly the photograph below cannot even come close to doing it justice.
+The path on the Seat Sandal side of Fairfield is not great, being little more than a slightly flattened route up a scree slope. Easy enough, but a bit of a trudge and the summit was completely clouded in by the time I got there. However, the views down into Deepdale were amazing as the fog began to lift; a definite highlight of the days route. Sadly the photograph below cannot come close to doing it justice.
 
 ![st-sunday-crag-from-fairfield](st-sunday-crag-from-fairfield.jpg "st-sunday-crag-from-fairfield")
 *From Fairfield, overlooking Cofa Pike and St Sunday Crag.*
@@ -93,13 +95,11 @@ There might be multiple routes from Fairfield to St Sunday Crag. The one I found
 ![cofa-pike](cofa-pike.jpg "cofa-pike")
 *Looking back towards Cofa Pike, on path to St Sunday Crag.*
 
-On the left, above, is the view back to Cofa Pike, and on the right is a wider view towards Fairfield.
+Above is the view back to Cofa Pik, Fairfield is in the background.
 
 ### Birks and Arniston Crag
 
-I'm sure some would agree it's good to see the Lakeland fells at all different times of day. I experienced Birks at dusk, and Arniston Crag in darkness. Seeing the lights around Ullswater was interesting, but apart from this, the views were limited. No photos unfortunately as the compact camera I was carrying is not good in low light.
-
-Arniston Crag looked like the more interesting of the two; good spot for a picnic and some amateur bouldering! Birks would probably have had some decent views, but not sure I'd go out of my way to visit it again, except en route to loftier fells.
+I'm sure some would agree it's good to see the Lakeland fells at all different times of day. I experienced Birks at dusk, and Arniston Crag in darkness. Seeing the lights around Ullswater was interesting, but apart from this, the views were limited. No photos unfortunately as the compact camera I was carrying is not good in low light. Arniston Crag looked like the more interesting of the two; good spot for a picnic and perhaps some amateur bouldering! Birks would probably have had some decent views, but personally I'd probably like to combine it with some loftier fells.
 
 ### Summary
 
@@ -108,7 +108,7 @@ This is a route that felt somewhat longer than I'd anticipated. This was partly 
 ![striding-edge-2](striding-edge-2.jpg "striding-edge-2")
 *Striding Edge, with Red Tarn visible below Helvellyn.*
 
-In keeping with the structure of my last post - what did I learn? The views from Fairfield were magnificent (I'm pretty sure this was my first ascent) and I'm looking forward to returning; probably mid-week though, as I get the impression it would be busy at weekends. I need to make earlier starts; I think that much goes without saying! However, given the circumstances, carrying a headtorch was absolutely invaluable. Mine is a Petzl e'Lite, at about 24g, weighs next to nothing and, I think I can safely say, everyone should have one!
+The views from Fairfield are magnificent, and I'm pretty sure this was my first visit. I'll look forward to returning, probably mid-week though, as I get the impression it would be busy at weekends, and the Fairfield Horseshoe is a true Lakeland classic. The rapid transition from dusk to darkness shows that carrying a headtorch is invaluable. Mine is a Petzl e'Lite weighing just 24g, and packs into a tiny waterproof case. I think it's safe to say that everybody should have one!
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
