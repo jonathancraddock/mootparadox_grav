@@ -22,7 +22,7 @@ media_order: '00coledale.jpg,crag-hill.jpg'
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
 
-!!!! A 17km circular route around the classic Coledale Horseshoe, starting in Braithwaite. (*Wainwright Book 6: The North Western Fells*)
+!!!! The Coledale Horseshoe, 17km, starting in Braithwaite. (*Wainwright Book 6: The North Western Fells*)
 
 ===
 
@@ -100,6 +100,6 @@ I can highly recommend the Coledale Round. It appears to be a popular route, and
 
 Things I learned? I'd seriously consider walking the route in the direction described above, I think you ascend Barrow, Outerside, Sail and Crag Hill from their better sides. Wandhope to Grisedale Pike is probably 50/50 either way. If following in the opposite direction, I'd probably take @stevenhorner's advice and follow the ridge from Sail to Causey Pike, instead of dropping down towards Barrow. There seems to be ample parking along the Whinlatter Pass, just outside Braithwaite, although I guess it might be a different story in the middle of summer. However, if you're not a fan of bananas, be very careful where you park!
 
-See Also: http://www.stevenhorner.com & http://helenswonderings.blogspot.com
-
-"to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains" A. Wainwright
+> "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
+> 
+> ![a.wainwright](/user/images/aw-sig.png)
