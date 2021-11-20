@@ -13,6 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -24,8 +25,9 @@ Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mo
 [View Full Screen](https://map.mootparadox.com/full/martindale1) | [GPX](https://map.mootparadox.com/gpx/martindale1)  
 <p><iframe src="https://map.mootparadox.com/embed/martindale1" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-Place Fell from Angletarn South Summit     Looking down to Angle Tarn
-Views from the northern summit (left) and the southern summit (right) of Angletarn Pikes
+
+![views-from-angletarn-pike](views-from-angletarn-pike.jpg "views-from-angletarn-pike")
+*Views from the northern summit (towards Place Fell, left) and the southern summit (right) of Angletarn Pikes.*
 
 It was a good decision, with a morning of rain, clearing to become a very pleasant afternoon; t-shirt weather by the time I got to The Nab. Living in a climate that's as unpredictable as ours, I think there's a good case to just go with your plans, carry appropriate kit so you'll be prepared for whatever the weather might throw at you, and if all else fails - then be prepared for a last minute change of plans if conditions dictate.
 
