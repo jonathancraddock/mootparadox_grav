@@ -23,7 +23,7 @@ media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg
 
 It was the scene below, from near Grisedale Beck, that reminded me what I have always looked for in a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Not my original plan, but a lesson in always being prepared.
 
-!!!! A 20km circular route, starting in Patterdale. (_Wainwright Book 1: The Eastern Fells_)
+!!!! A 23km circular route with 3300m of ascent, starting in Patterdale. (_Wainwright Book 1: The Eastern Fells_)
 
 ===
 
