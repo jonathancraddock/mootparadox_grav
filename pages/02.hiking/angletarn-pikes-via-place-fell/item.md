@@ -13,7 +13,7 @@ taxonomy:
         - 'brock crags'
         - 'rest dodd'
         - 'the nab'
-media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg'
+media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
@@ -22,41 +22,39 @@ Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mo
 
 ===
 
+### Map
+
 [View Full Screen](https://map.mootparadox.com/full/martindale1) | [GPX](https://map.mootparadox.com/gpx/martindale1)  
 <p><iframe src="https://map.mootparadox.com/embed/martindale1" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
+Mistrust of the weather forecast was a good decision, with a morning of light rain that cleared into a very pleasant afternoon; it was t-shirt weather by the time I got to The Nab. Living in a climate that's as unpredictable as ours, I think there's a good case to just go with your plans, carry appropriate kit so you'll be prepared for whatever the weather might throw at you, and if all else fails - then be prepared for a last minute change of plans, if conditions dictate.
 
 ![views-from-angletarn-pike](views-from-angletarn-pike.jpg "views-from-angletarn-pike")
 *Views from the northern summit (towards Place Fell, left) and the southern summit (right) of Angletarn Pikes.*
 
-It was a good decision, with a morning of rain, clearing to become a very pleasant afternoon; t-shirt weather by the time I got to The Nab. Living in a climate that's as unpredictable as ours, I think there's a good case to just go with your plans, carry appropriate kit so you'll be prepared for whatever the weather might throw at you, and if all else fails - then be prepared for a last minute change of plans if conditions dictate.
-
 In spite of the damp start, I added another 6 Wainwrights from Book 2: The Far Eastern Fells. Bagging count now stands at 65.
 
-Route Summary:
+### Route Summary
 
 Park near the church at Martindale. I accidentally parked next to the church at Christy Bridge (half a mile down the road) and it's possible this was not appreciated as, by the time I returned, someone had ostentatiously parked a silage trailer in the middle of the road. Hard to say if this was a "statement", or just the perfectly normal parking attempts of a bewildered moron.
 
 Wherever you eventually decide to park, leave your windows closed and cross the lower portion of Housteadbrow (below Winter Crag) and head up to High Dodd via Garth Heads. Follow the ridge to the summit of Place Fell (657m). This is a pretty gentle climb. It's then a steep descent to Chapel in the Hause, and any normal person would head straight to Angletarn Pikes. Therefore, I took a lengthy diversion to Beda Fell (509m) before climbing back up to Angletarn Pikes (567m). From here the route follows a natural progression to Brock Crags (561m) and Rest Dodd (696m) with another steep descent via The Nab (576m).
 
-Map:
-
-Click here to view OS Map on Social Hiking...
-
-Carpark to Place Fell:
+### Carpark to Place Fell
 
 I think it's probably best to play it safe, and park in the area next to Martindale Church. There's not much other parking to be found, and the roads are very narrow, so probably worth arriving early at weekends and during holiday times. Beyond the Christy Bridge chapel, there's no parking opportunities so far as I could tell. However, on this wet Wednesday in mid-June, there was plenty of space. Cross over Howsteadbrow into the Boredale valley and follow the gently angled path to High Dodd.
 
-Path to High Dodd_ Gentle climb to High Dodd_
+![path-to-high-dodd](path-to-high-dodd.jpg "path-to-high-dodd")
+*Gentle climb to High Dodd.*
 
 The rain started getting heavy as I reached the top of the ridge and I eventually donned my Paclite over-trousers. I was also struck by a long forgotten smell; wet ferns! It's funny, because it's a distinctive smell I seem to remember a lot from childhood, but hadn't noticed it in a long time. It made walking through the driving rain almost completely worthwhile!
 
-"Place Fell rises steeply from the curve formed by the upper and middle reaches of Ullswater and its bulky mass dominates the head of the lake."
+> "Place Fell rises steeply from the curve formed by the upper and middle reaches of Ullswater and its bulky mass dominates the head of the lake."
 
 Once you're onto High Dodd, it's an easy walk up to Place Fell, via the ridge of Hart Crag.
 
-Place Fell
-Looking back to Place Fell from Beda Fell Knott
+![place-fell-from-beda-fell-knott](place-fell-from-beda-fell-knott.jpg "place-fell-from-beda-fell-knott")
+*Looking back to Place Fell from Beda Fell Knott.*
 
 From Place Fell, you descend rocky paths to Round How, whereupon the path steepens considerably until you reach Chapel in the Hause. It would be a short walk from here to the northernmost summit of Angletarn Pikes (about 1km) but instead I took a 6km diversion around to Beda Fell and back. Had to be done, but took longer than I'd anticipated and it put me a bit behind schedule.
 
