@@ -17,14 +17,19 @@ taxonomy:
         - 'grisedale pike'
     hiking-cat:
         - wainwrights
-media_order: crag-hill.jpg
+media_order: '00coledale.jpg,crag-hill.jpg'
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
 
-!!!! Wainwright, Book 6: North Western Fells - Second Edition (Pictorial Guides to the Lakeland Fells)
+!!!! A 17km circular route, from Braithwaite. (*Wainwright Book 6: The North Western Fells*)
 
 ===
+
+### Map
+
+[View Full Screen](https://map.mootparadox.com/full/coledale) | [GPX](https://map.mootparadox.com/gpx/coledale)  
+<p><iframe src="https://map.mootparadox.com/embed/coledale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 I can certainly recommend this route as an easy day-walk, just over 10 miles (17km) and 5750 feet of ascent (1752m). My GPS shows I was moving for about four hours. If planning a few stops for refreshment and photographs along the way, allowing about six hours should be plenty of time. The terrain is excellent, great views, well marked paths, and takes you to 7 Wainwrights. The only potential downside could be it's popularity, if you don't like company on the fells, but it's not Helvellyn, and considering it was a Saturday the crowds were bearable! Wainwright count now stands at 38 bagged, and 176 to go!
 
