@@ -43,7 +43,7 @@ The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_o
 | [Catstycam to Sheffield Pike](/hiking/catstycam-to-sheffield-pike) | catstycam, helvellyn, lower man, whiteside, raise, stybarrow dodd, hartside, sheffield pike, glenridding dodd |
 | [Gowbarrow from Brunt Crag](/hiking/gowbarrow-from-brunt-crag) | gowbarrow fell |
 | [Dovedale Round](/hiking/dovedale-round) | hartsop above how, hart crag, dove crag, little hart crag, high hartsop dodd |
-| [Grisedale Horseshoe Redux](/hiking/grisedale-horseshoe-redux) | birkhouse moor, helvellyn, nethermost pike, dollywaggon pike, seat sandal, fairfield, st sunday crag, birks, arniston crag |
+| [Grisedale Horseshoe Redux](/hiking/helvellyn-and-the-grisedale-horseshoe) | birkhouse moor, helvellyn, nethermost pike, dollywaggon pike, seat sandal, fairfield, st sunday crag, birks, arniston crag |
 
 | **Book 2.) The Far Eastern Fells** | **24 / 36** |
 | --- | --- |
@@ -58,7 +58,7 @@ The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_o
 
 | **Book 4.) The Southern Fells** | **3 / 30** |
 | --- | --- |
-| [Great End via Seathwaite Fell](/hiking/scafell-pike-from-seathwaite) | seathwaite fell, great end |
+| [Great End via Seathwaite Fell](/hiking/great-end-via-seathwaite-fell) | seathwaite fell, great end |
 | [Scafell Pike from Seathwaite](/hiking/scafell-pike-from-seathwaite) | scafell pike |
 
 | **Book 5.) The Northern Fells** | **24 / 24** |
