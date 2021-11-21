@@ -12,6 +12,8 @@ taxonomy:
         - 'hartsopp dodd'
         - 'caudale moor'
         - 'thornthwaite crag'
+    hiking-cat:
+        - wainwrights
 media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg,gray-crag-and-hayeswater.jpg'
 ---
 
