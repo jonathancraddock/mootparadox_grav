@@ -13,7 +13,7 @@ taxonomy:
         - 'knott rigg'
         - 'ard crags'
         - 'scar crags'
-    hiking:
+    hiking-cat:
         - wainwrights
 ---
 
