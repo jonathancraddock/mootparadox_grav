@@ -15,6 +15,7 @@ taxonomy:
         - 'scar crags'
     hiking-cat:
         - wainwrights
+date: '26-01-2011 12:00'
 ---
 
 I chose another short route for this walk on Wednesday 26th January. Next one might need to be a bit longer to avoid developing a reputation for being the wrong type of lightweight!
