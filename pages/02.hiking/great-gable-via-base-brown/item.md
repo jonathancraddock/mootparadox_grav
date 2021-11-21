@@ -12,6 +12,7 @@ taxonomy:
         - 'great gable'
     hiking-cat:
         - wainwrights
+date: '29-09-2011 12:00'
 ---
 
 It was Thursday 29th September 2011, unseasonably warm, and happily I was able to swap a day off from the following week to get out in the fresh air, instead of boiling to death in a Middlesbrough office-block with broken air conditioning units! I had a route planned, but had to make some last minute modifications due to a late start. The original route, which was still fairly short, would have descended Great Gable to the north-west, climbing Kirk Fell, and returning to Seathwaite via Brandreth and Grey Knotts. Sadly, me and early starts are not natural bedfellows! So instead, I came off Great Gable to Styhead Tarn, and followed the path down Styhead Gill, back to Seathwaite Farm.
