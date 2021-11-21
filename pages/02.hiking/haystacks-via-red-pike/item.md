@@ -12,6 +12,7 @@ taxonomy:
         - haystacks
     hiking-cat:
         - wainwrights
+date: '03-11-2010 12:00'
 ---
 
 Haystacks felt like a significant milestone on my continued exploration of the Wainwright Fells, being the location where Betty Wainwright scattered her late husband's ashes in 1991.
