@@ -66,6 +66,12 @@ a:visited {
 .blog-listing .card {
   margin-bottom: 20px; }
 
+/* feint border on img */
+p > img {
+  border: #cecece solid 1px;
+  border-radius: 2px;
+}
+
 /* Grey background on blockquote */
 blockquote {
   border-left: 0.3rem solid #dfdfdf;
