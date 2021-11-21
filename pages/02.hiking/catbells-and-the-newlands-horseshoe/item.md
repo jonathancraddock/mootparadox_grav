@@ -4,8 +4,8 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'lake district'
         - cumbria
+        - 'lake district'
         - 'north western fells'
         - robinson
         - catbells
@@ -13,6 +13,8 @@ taxonomy:
         - 'dale head'
         - 'high spy'
         - 'maiden moor'
+    hiking-cat:
+        - wainwrights
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
