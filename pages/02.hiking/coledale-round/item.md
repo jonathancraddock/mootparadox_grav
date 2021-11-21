@@ -18,6 +18,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg,view-from-wandhope.jpg,coledale-hause-from-sand-hill.jpg'
+date: '16-10-2010 12:00'
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
