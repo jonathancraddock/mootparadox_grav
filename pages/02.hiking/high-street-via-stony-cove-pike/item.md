@@ -15,6 +15,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg,gray-crag-and-hayeswater.jpg'
+date: '20-04-2011 12:00'
 ---
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
