@@ -18,6 +18,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg,bowscale-and-blencathra.jpg,carrock-fell-vale-of-eden.jpg,overnight-gear.jpg'
+date: '03-05-2011 12:00'
 ---
 
 On the eve of my 38th birthday, it would have been almost exactly 20 years since I'd spent a night under canvas - or in this case, lightweight sil nylon. After about nine months of day walks and Wainwright bagging, acquiring gear whenever I saw something that looked good value, it was finally time to take the plunge and extend a route over a couple of days.
