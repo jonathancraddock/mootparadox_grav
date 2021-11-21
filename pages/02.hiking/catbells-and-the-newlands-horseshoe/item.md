@@ -16,7 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
-media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg,newlands-beck-below-dalehead-tarn.jpg'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg,descent-from-dale-head.jpg,newlands-beck-below-dalehead-tarn.jpg,newlands-beck-towards-high-spy.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -75,20 +75,20 @@ Dale Head is a tremendous viewpoint and the photos really don't do justice to th
 
 ### High Spy to Maiden Moor
 
-![newlands-beck-below-dalehead-tarn](newlands-beck-below-dalehead-tarn.jpg "newlands-beck-below-dalehead-tarn")
-*Looking down Newlands Beck, below and to the east of Dalehead Tarn.*
+![descent-from-dale-head](descent-from-dale-head.jpg "descent-from-dale-head")
+*Steep descent from Dale Head to Dalehead Tarn, looking towards High Spy.*
 
 I took the path to the north of Dalehead Tarn and crossed Newlands Beck. Here the path turns north towards High Spy. There looks to be some excellent spots for wild-camping around the tarn; definitely one to keep in mind.
 
-pic
-*Steep descent from Dale Head to Dalehead Tarn, looking towards High Spy.*
+![newlands-beck-below-dalehead-tarn](newlands-beck-below-dalehead-tarn.jpg "newlands-beck-below-dalehead-tarn")
+*Looking down Newlands Beck, below and to the east of Dalehead Tarn.*
 
 Compared to the descent from Dale Head, it's a gentle climb from here up to the summit of High Spy. The path is clear, but it's worth a minor detour to look over Miners Crag; impressive in it's own right and with great views into the valley. This is my only accent of High Spy, but it looks like it's flanked by equally impressive crags to the eastern side.
 
 > "High country can rarely be appraised properly from valley level, however."
 
-pic
-*View from east of Dalehead Tarn towards High Spy.*
+![newlands-beck-towards-high-spy](newlands-beck-towards-high-spy.jpg "newlands-beck-towards-high-spy")
+*View from Newlands Beck, east of Dalehead Tarn, towards High Spy.*
 
 From the summit of High Spy, there is almost no ascent left in this direction, and it's an easy walk down to Catbells via Maiden Moor. Do take the advice from the Wainwright guide and take a short detour to visit the cairn above Blea Crag. The views over Derwent Water are excellent.
 
