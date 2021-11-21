@@ -19,6 +19,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,browncove-crags-thirlmere.jpg,swirral-edge-and-red-tarn.jpg,nick-head-marker-sheffield-pike.jpg,catstycam-selfie.jpg'
+date: '09-07-2015 12:00'
 ---
 
 This route on 9th July 2015 made for a longish day-walk, from Catstycam looping around to Sheffield Pike. The distance is 20km (with 1.6km of ascent) and it takes in the summit of 9 Wainwrights.
