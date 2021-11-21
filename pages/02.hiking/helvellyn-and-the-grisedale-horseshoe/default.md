@@ -19,6 +19,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,striding-edge-2.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
+date: '06-10-2010 12:00'
 ---
 
 It was the scene below, from near Grisedale Beck, that reminded me what I have always looked for in a Lakeland walk. The high, craggy fells - not the sheep! The day was destined to end in darkness and fog, navigating off Arniston Crag with a headtorch. Not my original plan, but a lesson in always being prepared.
