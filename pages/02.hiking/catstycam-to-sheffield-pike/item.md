@@ -16,6 +16,8 @@ taxonomy:
         - hartside
         - 'sheffield pike'
         - 'glenridding dodd'
+    hiking-cat:
+        - wainwrights
 media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,browncove-crags-thirlmere.jpg,swirral-edge-and-red-tarn.jpg,nick-head-marker-sheffield-pike.jpg,catstycam-selfie.jpg'
 ---
 
