@@ -20,20 +20,18 @@ date: '16-05-2012 12:00'
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
 
+!!!! Newlands Horseshoe, 19km, and around 6 hours. (*Wainwright Book 6: The North Western Fells*)
+
 ===
 
-It was Wednesday 16th May 2012... and finally getting around to posting this trip report simply reinforces what I already knew - I need to get more walking done in 2013!
+It was Wednesday 16th May 2012. This walk took me to six "Wainwrights", all new additions to my bagging list. The count is now 80.
 
 View over Newlands from Hindscarth Edge
 View above Newlands towards Catbells, seen from Hindscarth Edge
 
-Refer to Waiwright Book 6: The North Western Fells for more details. This walk took me to six "Wainwrights", all new additions to my bagging list. The count is now 80.
+> "Scenes of great beauty unfold on all sides, and they are scenes in depth to a degree not usual, the narrow summit [Catbells] permitting downward views of Borrowdale and Newlands within a few paces."
 
-"Scenes of great beauty unfold on all sides, and they are scenes in depth to a degree not usual, the narrow summit [Catbells] permitting downward views of Borrowdale and Newlands within a few paces."
-
-**Route Summary: **
-
-Distance 19km, duration 6.5 hours.
+### Route Summary
 
 Park at Little Town / Chapel Bridge (or somewhere in the vicinity) and follow the lane to Low High Snab. At the final gate on the lane, turn up onto the ridge of High Snab Bank and follow it to the summit of Robinson. Descend to the south, joining the ridge marked Littledale Edge and head up to Hindscarth. Again, descend to the south, and follow the ridge marked Hindscarth Edge to the summit of Dale Head. Here the path becomes a steep descent to Dalehead Tarn. Cross the stream and begin to turn north. Follow the natural line of High Spy, Maiden Moor and Catbells. Descend Catbells to the west, and join the gravel farm track that leads back towards Little Town.
 
