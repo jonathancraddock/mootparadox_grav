@@ -16,6 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00mardale.jpg,haweswater-riggindale.jpg,climbing-rough-crag.jpg,banstree-to-selside-pike.jpg,high-street-from-rough-crag.jpg,blea-water-harter-fell.jpg,small-water-blea-water.jpg,haweswater-from-harter-fell.jpg,selside-pike-swindale.jpg,buildings-on-old-corpse-road.jpg,haweswater.jpg'
+date: '21-03-2012 12:00'
 ---
 
 My plan was to start at Mardale Head, climbing High Street via the classic Riggindale route, then making a circuit around Mardale Ill Bell, Harter Fell, Branstree and Selside Pike. I think it would have been a really nice route, had it not been for an unexpected road closure conspiring against me; but more of that later! It was the 21st March, 2012, and a very pleasant spring day.
