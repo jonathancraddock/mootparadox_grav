@@ -13,6 +13,8 @@ taxonomy:
         - 'little hart crag'
         - 'high hartsop dodd'
         - winter
+    hiking-cat:
+        - wainwrights
 media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg,little-hart-carg.jpg,looking-towards-st-sunday-crag.jpg'
 ---
 
