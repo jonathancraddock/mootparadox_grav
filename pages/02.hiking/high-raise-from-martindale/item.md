@@ -4,8 +4,8 @@ taxonomy:
     category:
         - hiking
     tag:
-        - 'lake district'
         - cumbria
+        - 'lake district'
         - 'far eastern fells'
         - 'bonscale pike'
         - 'arthur''s pike'
@@ -17,6 +17,8 @@ taxonomy:
         - 'the knott'
         - 'steel knotts'
         - 'hallin fell'
+    hiking-cat:
+        - wainwrights
 ---
 
 Notes and route plan to follow.
