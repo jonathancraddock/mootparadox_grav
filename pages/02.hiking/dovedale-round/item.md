@@ -16,6 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: '00dovedale.jpg,summit-of-hart-crag.jpg,hartsop-above-how.jpg,hart-crag.jpg,dove-crag-to-little-hart-crag.jpg,dove-crag-summit-fell-runner.jpg,fairfield-horseshoe-clouds.jpg,high-hartsop-dodd.jpg,pogu-spikes.jpg,little-hart-carg.jpg,looking-towards-st-sunday-crag.jpg'
+date: '15-12-2010 12:00'
 ---
 
 I don't know if The Dovedale Round is an official route, but it probably should be. Have a look on Google and you'll find a few references to a "Dovedale Horseshoe" and a "Dovedale Round", but several of these walk in along the valley floor. To me, this type of walk should be defined by its use of ridges, both in and out. This route fits the bill, and takes in five Wainwrights along the way.
