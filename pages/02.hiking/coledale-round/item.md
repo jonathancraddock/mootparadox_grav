@@ -94,7 +94,7 @@ Hopegill Head is an impressive, rocky summit, all the more so if seen from the w
 
 ### Grisedale Pike
 
-I'd anticipated Grisedale Pike being a highlight of the day's route and it offers commanding views over the surrounding area.
+I'd anticipated Grisedale Pike being a highlight of the day's route and it offers commanding views over the surrounding area, including most of the day's route so far.
 
 ![view-from-grisedale-pike](view-from-grisedale-pike.jpg "view-from-grisedale-pike")
 *From Grisedale Pike towards Crag Hill.*
