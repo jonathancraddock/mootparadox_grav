@@ -16,7 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
-media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -43,8 +43,8 @@ Park at Little Town / Chapel Bridge (or somewhere in the vicinity) and follow th
 
 ### Little Town to Robinson
 
-Leaving Little Town, heading for Low High Snab Paved road becomes a track at Low High Snab Robinson from High Snab Bank Blea Crags towards Robinson
-Click on thumbnails to expand, click on image again (or press "x" on keyboard) to close...
+![path-from-little-town](path-from-little-town.jpg "path-from-little-town")
+*Leaving Little Town, along a paved road until you reach Low High Snab.*
 
 There is free parking in a layby at Little Town, just east of Chapel Bridge, but it has fairly limited spaces. The roads are narrow and seem to offer very few opportunities for additional parking. On a previous route to Causey Pike I parked at Uzzicar, which seemed more spacious and was easier to get to, but it would add about 4 or 5 km to this route. I believe there is also a car-park at the north end of the Catbells ridge - not sure what that one's like. Wherever you park, head for the start of the ridge marked High Snab Bank.
 
