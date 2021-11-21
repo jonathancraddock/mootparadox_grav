@@ -66,8 +66,8 @@ a:visited {
 .blog-listing .card {
   margin-bottom: 20px; }
 
-/* feint border on img */
-p > img {
+/* feint border on img, only in body of blog posts */
+.e-content > p > img {
   border: #cecece solid 1px;
   border-radius: 2px;
 }
