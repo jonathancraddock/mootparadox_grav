@@ -19,6 +19,7 @@ taxonomy:
         - 'hallin fell'
     hiking-cat:
         - wainwrights
+date: '07-05-2013 12:00'
 ---
 
 Notes and route plan to follow.
