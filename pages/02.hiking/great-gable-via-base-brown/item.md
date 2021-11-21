@@ -13,7 +13,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '29-09-2011 12:00'
-media_order: '00greatgable.jpg,great-gable-summit.jpg,seathwaite-from-path-to-base-brown.jpg,aaron-slack-and-styhead-tarn.jpg,great-end-from-great-gable.jpg,great-gable-from-green-gable.jpg,hanging-stone-base-brown.jpg,path-to-green-gable.jpg,raven-crag-from-sourmilk-gill.jpg'
+media_order: '00greatgable.jpg,great-gable-summit.jpg,seathwaite-from-path-to-base-brown.jpg,aaron-slack-and-styhead-tarn.jpg,great-end-from-great-gable.jpg,great-gable-from-green-gable.jpg,hanging-stone-base-brown.jpg,raven-crag-from-sourmilk-gill.jpg,path-to-green-gable.jpg'
 ---
 
 It was Thursday 29th September 2011, unseasonably warm, and happily I was able to swap a day off from the following week to get out in the fresh air, instead of boiling to death in a Middlesbrough office-block with broken air conditioning units! I had a route planned, but had to make some last minute modifications due to a late start. The original route, which was still fairly short, would have descended Great Gable to the north-west, climbing Kirk Fell, and returning to Seathwaite via Brandreth and Grey Knotts. Sadly, me and early starts are not natural bedfellows! So instead, I came off Great Gable to Styhead Tarn, and followed the path down Styhead Gill, back to Seathwaite Farm.
@@ -33,8 +33,8 @@ Park along the Seathwaite road, which leads from the B5289 a couple of hundred m
 
 Take care with your direction off Great Gable, there are some sides you probably don't want to casually walk off. The path to Styhead Tarn leaves the summit due east, then turns south-east after about 200 metres. Paths are unclear at the summit as it's predominantly covered in rocks, but I presume this path to Sty Head is one of the most popular routes, and it's well maintained and unmissable once you get to it. From the tarn, follow Styhead Gill back to Stockley Bridge and then turn north on the farm track back to Seathwaite.
 
-View from ascent of Base Brown
-View towards Seathwaite from the ascent of Base Brown
+![seathwaite-from-path-to-base-brown](seathwaite-from-path-to-base-brown.jpg "seathwaite-from-path-to-base-brown")
+*View towards Seathwaite from the ascent of Base Brown.*
 
 > "Great Gable is a favourite of all fell walkers, and first favourite with many."
 
@@ -42,7 +42,7 @@ View towards Seathwaite from the ascent of Base Brown
 
 Leave the B2589 from Keswick at the Seatoller Bridge and follow the road down to Seathwaite Farm; there is ample free parking along the roadside.
 
-pic
+![raven-crag-from-sourmilk-gill](raven-crag-from-sourmilk-gill.jpg "raven-crag-from-sourmilk-gill")
 *View of Raven Crag from Sourmilk Gill.*
 
 A good tip if following this route is to note the path to Sourmilk Gill starts in the middle of the farm buildings, under a small arch. The more obvious assumption, that the path goes around the outside, does get you back onto the same path eventually, but forms a bit of a pointless detour around a field.
@@ -51,13 +51,13 @@ There is less than 1km of steep ascent before you arrive at Gillercomb, a level 
 
 > "Base Brown marks the end of roads and farmsteads, of woods and green pastures, as one proceeds into the upper recesses of Borrowdale. It marks the beginning of wilderness and desolation."
 
-pic
+![hanging-stone-base-brown](hanging-stone-base-brown.jpg "hanging-stone-base-brown")
 *The "Hanging Stone" on ascent to Base Brown.*
 
 There's a huge boulder below the crags, which is a good landmark, as I found there's a clear path shortly after; seen in photo below-left. It's a good path, but remember there are steep crags to your left, so stay on the path and follow it around. Standing on the aforementioned boulder is also a good viewpoint back towards Seathwaite.
 
-Approaching summit of Base Brown     Path to Green Gable
-Approaching summit of Base Brown (left) and path to Green Gable (right)
+![path-to-green-gable](path-to-green-gable.jpg "path-to-green-gable")
+*Path to Green Gable.*
 
 Once you're at the summit of Base Brown, the path becomes considerably easier across the col known as Blackmoor Pols and it's an easy walk up to the summit of Green Gable.
 
@@ -67,15 +67,15 @@ Once you're at the summit of Base Brown, the path becomes considerably easier ac
 
 I don't think I was seeing Green Gable on one of it's better days. The photo below shows a brief glimpse through the cloud, but for most of the time there was nothing to be seen in any direction, and I'm sure it would normally command some superb views.
 
-pic
+![great-gable-from-green-gable](great-gable-from-green-gable.jpg "great-gable-from-green-gable")
 *Great Gable, with cloud lifting, seen from Green Gable.*
 
 Windy Gap is appropriately named, being both a gap, and windy.
 
 It's fairly steep on both sides, and seemed particularly loose underfoot on the Great Gable side, so care should be taken not to dislodge rocks onto anyone who might be below. The gaps in the cloud appeared to be getting more frequent as I began the climb up from Windy Gap, and it was definitely feeling brighter.
 
-From Green Gable into Windy Gap     From path to Great Gable
-From Green Gable into Windy Gap (left) and from path to Great Gable (right)
+![aaron-slack-and-styhead-tarn](aaron-slack-and-styhead-tarn.jpg "aaron-slack-and-styhead-tarn")
+*Aaron Slack and Styhead Tarn.*
 
 Gable Crag, shown in the photo above-right is a popular climbing area. Saw some jackets and gear at the base of the cliff, although couldn't actually see where they were climbing. Didn't venture around to have a look - but the route Wainwright describes as the "Gable Girdle" sounds like something well worth returning to.
 
@@ -90,7 +90,7 @@ It would have been easy to be disappointed by the cloudy conditions, but sitting
 
 The path I took down Great Gable I presume must be the most popular route, although it might also be the least interesting. However, it's a good quality path and leads conveniently down to the top of the pass at Sty Head.
 
-pic
+![great-end-from-great-gable](great-end-from-great-gable.jpg "great-end-from-great-gable")
 *Great End, seen from descent of Great Gable.*
 
 From there, I rejoined the path I'd descended on my previous trip: Great End, via Seathwaite Fell. From Styhead Tarn it follows the path of Styhead Gill, passing Taylorgill Force and rejoining the Seathwaite track near Stockley Bridge. It's a pleasant descent in the shadow of the surrounding fells, with Base Brown to the west, Glaramara to the East, and Seathwaite Fell looking down from the head of the valley.
