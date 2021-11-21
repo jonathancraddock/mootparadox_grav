@@ -16,6 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -31,7 +32,7 @@ I believe this route follows the classic Newlands Horseshoe, from Robinson to Ca
 
 It was Wednesday 16th May 2012. This walk took me to six "Wainwrights", all new additions to my bagging list. The count is now 80.
 
-pic
+![head-of-newlands-towards-catbells](head-of-newlands-towards-catbells.jpg "head-of-newlands-towards-catbells")
 *View above Newlands towards Catbells, seen from Hindscarth Edge.*
 
 > "Scenes of great beauty unfold on all sides, and they are scenes in depth to a degree not usual, the narrow summit [Catbells] permitting downward views of Borrowdale and Newlands within a few paces."
