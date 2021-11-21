@@ -31,7 +31,7 @@ I think I was walking this popular route in reverse, or at least, most people se
 [View Full Screen](https://map.mootparadox.com/full/coledale) | [GPX](https://map.mootparadox.com/gpx/coledale)  
 <p><iframe src="https://map.mootparadox.com/embed/coledale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
-I can certainly recommend this route as an easy day-walk, just over 10 miles (17km) and 5750 feet of ascent (1752m). My GPS shows I was moving for about four hours. If planning a few stops for refreshment and photographs along the way, allowing about six hours should be plenty of time. The terrain is excellent, great views, well marked paths, and takes you to 7 Wainwrights. The only potential downside could be it's popularity, if you don't like company on the fells, but it's not Helvellyn, and considering it was a Saturday the crowds were bearable! Wainwright count now stands at 38 bagged, and 176 to go!
+I have no hesitation recommending this route as an easy day-walk, just over 10 miles (17km) and 5750 feet of ascent (1752m). My GPS shows I was moving for about four hours. If planning a few stops for refreshment and photographs along the way, allowing about six hours should be plenty of time. The terrain is excellent, great views, well marked paths, and takes you to 7 Wainwrights. The only potential downside could be it's popularity, if you don't like company on the fells, but considering it was a Saturday the crowds were bearable! Wainwright count now stands at 38 bagged, and 176 to go!
 
 ![crag-hill](crag-hill.jpg "crag-hill")
 *View towards Crag Hill at the head of the Coledale valley.*
@@ -44,7 +44,7 @@ The path up Outerside is straight up the north-east ridge. It's not immediately 
 
 ### Barrow and Outerside
 
-It's saying something - that the most complex piece of navigation throughout the entire day was getting through Braithwaite village onto the path to Barrow! But really, this says even more about how easy it is to follow the rest of the route. The following worked for me; click here to see a satellite view in Picasa.
+It's saying something - that the most complex piece of navigation throughout the entire day was getting through Braithwaite village onto the path to Barrow! But really, this says even more about how easy it is to follow the rest of the route.
 
 The walk up Barrow offers some fantastic views back to the Northern Fells, and particularly towards Derwent Water. In the image on the left below, the green fields looked amazing. Catbells would be off to the right.
 
@@ -94,21 +94,21 @@ Hopegill Head is an impressive, rocky summit, all the more so if seen from the w
 
 ### Grisedale Pike
 
-I'd anticipated Grisedale Pike being a highlight of the day's route - and so it was when I encountered @stevenhorner and @HelenJFisher coming the other way! But even apart from that, Grisedale Pike offers commanding views over the surrounding area.
+I'd anticipated Grisedale Pike being a highlight of the day's route and it offers commanding views over the surrounding area.
 
 ![view-from-grisedale-pike](view-from-grisedale-pike.jpg "view-from-grisedale-pike")
 *From Grisedale Pike towards Crag Hill.*
 
-Sadly, it also marked the final summit, before the long descent to Braithwaite.
+Sadly, it also marked my final summit, before the long descent to Braithwaite.
 
 ### Summary
 
-I can highly recommend the Coledale Round. It appears to be a popular route, and given a choice, I'd have probably walked it mid-week, but it's not excessively busy. It's also a fairly easy route. Just a couple of steep bits, on the climb up to Crag Hill, and the path to Hopegill Head which is basically up a steep scree path, a little slippy in places. Similarly, the descent from Grisedale Pike is occasionally quite steep, but again - there's no actual difficulty in any of these sections.
+I can highly recommend the Coledale Round. It appears to be a popular route, and given a choice, I'd have probably walked it mid-week, but it's not excessively busy. It's also a fairly easy route. Just a couple of steep sections, on the climb up to Crag Hill, and the path to Hopegill Head which is basically up a steep scree path, a little slippy in places. Similarly, the descent from Grisedale Pike is occasionally quite steep, but again - there's no actual difficulty in any of these sections.
 
 ![grisedale-pike-towards-northern-fells](grisedale-pike-towards-northern-fells.jpg "grisedale-pike-towards-northern-fells")
 *From the descent of Grisedale Pike, looking towards the Northern Fells.*
 
-Things I learned? I'd seriously consider walking the route in the direction described above, I think you ascend Barrow, Outerside, Sail and Crag Hill from their better sides. Wandhope to Grisedale Pike is probably 50/50 either way. If following in the opposite direction, I'd probably take @stevenhorner's advice and follow the ridge from Sail to Causey Pike, instead of dropping down towards Barrow. There seems to be ample parking along the Whinlatter Pass, just outside Braithwaite, although I guess it might be a different story in the middle of summer. However, if you're not a fan of bananas, be very careful where you park!
+Things I learned? I'd seriously consider walking the route in the direction described above, I think you ascend Barrow, Outerside, Sail and Crag Hill from their better sides. Wandhope to Grisedale Pike is probably 50/50 either way. If following in the opposite direction, I'd probably follow the ridge from Sail to Causey Pike, instead of dropping down towards Barrow. There seems to be ample parking along the Whinlatter Pass, just outside Braithwaite, although I guess it might be a different story in the middle of summer.
 
 > "...to those who travel alone, the solitary wanderers on the fells, who find contentment in the companionship of the mountains."
 > 
