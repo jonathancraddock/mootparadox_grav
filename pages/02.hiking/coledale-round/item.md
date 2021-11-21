@@ -17,7 +17,7 @@ taxonomy:
         - 'grisedale pike'
     hiking-cat:
         - wainwrights
-media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg'
+media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg,coledale-hause-from-sand-hill.jpg,view-from-wandhope.jpg'
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
@@ -62,7 +62,8 @@ Outerside is rather flat at the top, and the approach from the north is definite
 
 The ascent of Sail breaks into two logical stages. First, the climb to the col between Sail and Scar Crags which takes you up a steep stony path. Then there's the climb up a somewhat artificial, but strangely impressive, zig-zag path to the summit.
 
-View from Sail      View from Sail to Crag Hill
+![view-from-sail](view-from-sail.jpg "view-from-sail")
+*View from Sail.*
 
 From the summit of sail, there is a short walk along a wide rocky ridge to Crag Hill (Eel Crag). Again, I was pleased I'd chosen to be approaching from this direction.
 
@@ -72,7 +73,8 @@ As the name Eel Crag suggests, steep rocky faces are presented to the northerly 
 
 This route takes you along the edge of a broad, slightly sloping plateau. On my way, I saw someone climbing the north-east ridge of Wandope. It looked very steep, but nevertheless he arrived safely at the summit! I'd guess that's probably about the most impressive route to the summit of Wandhope.
 
-Descent of Crag Hill towards Wandhope      From summit of Wandhope
+![view-from-wandhope](view-from-wandhope.jpg "view-from-wandhope")
+*Stunning panorama from the summit of Wandhope.*
 
 Wandhope doesn't look like much when approached from the south, but it was a very pleasant place to stop. Spent a while sat beside the summit cairn enjoying the views.
 
@@ -92,13 +94,17 @@ Hopegill Head is an impressive, rocky summit, all the more so if seen from the w
 
 I'd anticipated Grisedale Pike being a highlight of the day's route - and so it was when I encountered @stevenhorner and @HelenJFisher coming the other way! But even apart from that, Grisedale Pike offers commanding views over the surrounding area.
 
-From Grisedale Pike towards Crag Hill
+![view-from-grisedale-pike](view-from-grisedale-pike.jpg "view-from-grisedale-pike")
+*From Grisedale Pike towards Crag Hill.*
 
 Sadly, it also marked the final summit, before the long descent to Braithwaite.
 
 ### Summary
 
 I can highly recommend the Coledale Round. It appears to be a popular route, and given a choice, I'd have probably walked it mid-week, but it's not excessively busy. It's also a fairly easy route. Just a couple of steep bits, on the climb up to Crag Hill, and the path to Hopegill Head which is basically up a steep scree path, a little slippy in places. Similarly, the descent from Grisedale Pike is occasionally quite steep, but again - there's no actual difficulty in any of these sections.
+
+![grisedale-pike-towards-northern-fells](grisedale-pike-towards-northern-fells.jpg "grisedale-pike-towards-northern-fells")
+*From the descent of Grisedale Pike, looking towards the Northern Fells.*
 
 Things I learned? I'd seriously consider walking the route in the direction described above, I think you ascend Barrow, Outerside, Sail and Crag Hill from their better sides. Wandhope to Grisedale Pike is probably 50/50 either way. If following in the opposite direction, I'd probably take @stevenhorner's advice and follow the ridge from Sail to Causey Pike, instead of dropping down towards Barrow. There seems to be ample parking along the Whinlatter Pass, just outside Braithwaite, although I guess it might be a different story in the middle of summer. However, if you're not a fan of bananas, be very careful where you park!
 
