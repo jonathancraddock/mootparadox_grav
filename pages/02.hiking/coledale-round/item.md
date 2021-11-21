@@ -17,7 +17,7 @@ taxonomy:
         - 'grisedale pike'
     hiking-cat:
         - wainwrights
-media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg,coledale-hause-from-sand-hill.jpg,view-from-wandhope.jpg'
+media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg,view-from-wandhope.jpg,coledale-hause-from-sand-hill.jpg'
 ---
 
 I think I was walking this popular route in reverse, or at least, most people seemed to be going the other way. I'm pretty sure I took the better direction for the first half of the route, and I think the latter half would have been equally good in either direction. After my experiences on the Grisedale Horseshoe, starting too late and finishing in darkness, I chose a shorter route and was underway before 10am.
@@ -82,11 +82,13 @@ Wandhope doesn't look like much when approached from the south, but it was a ver
 
 The path to Hopegill Head takes you below the northern side of Grasmoor. I'd decided to save this for another day, and followed the path down to Coledale Hause. It's another very well maintained path, following the upper course of Liza Beck.
 
-Hopegill Head towards Eel Crag and Wandhope
+![coledale-hause-from-sand-hill](coledale-hause-from-sand-hill.jpg "coledale-hause-from-sand-hill")
+*Hopegill Head towards Eel Crag and Wandhope.*
 
 Above you see the view from the ascent of Hopegill Head, looking back towards Crag Hill (Eel Crag) on the left, and the summit of Wandhope is just visible towards the centre of the horizon. Grasmoor is to the right. You can see more than a dozen people back down the path, and there were as many again at the summit. Shocking, when I'd been used to enjoying mid-week solitude! But, can't complain for a Saturday, I suppose.
 
-From Hopegill Head, looking south      Cliffs below Hopegill Head, to west
+![hopegill-head](hopegill-head.jpg "hopegill-head")
+*Cliffs below Hopegill Head, looking to the west.*
 
 Hopegill Head is an impressive, rocky summit, all the more so if seen from the western side, with steep slopes, broken cliffs and gullies down to Hobcarton. The ridge, above left is looking south to Whiteside - with my back to Grisedale Pike.
 
