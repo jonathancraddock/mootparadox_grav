@@ -16,6 +16,8 @@ date: '13-07-2011 12:00'
 
 The weather was perfect for a day's hiking on 13th July 2011, and my intention was to make a circuit starting at Seathwaite, with Great End at the southernmost point, and then returning via Glaramara and Bessyboot. A good plan I think, but I spent too long in Cust's Gully and eventually had to cut the route short. More about that in the detail of the trip report below!
 
+!!!! A 15km route to Great End, via Seathwaite Fell. (*Wainwright Book 4: The Southern Fells*)
+
 ===
 
 Great End seen from Styhead Tarn
