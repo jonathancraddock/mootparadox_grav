@@ -74,7 +74,7 @@ The Wikipedia article [List of Wainwrights](https://en.wikipedia.org/wiki/List_o
 | --- | --- |
 | [Catbells and the Newlands Horseshoe](/hiking/catbells-and-the-newlands-horseshoe) | robinson, catbells, hindscarth, dale head, high spy, maiden moor |
 | [Causey Pike via Knott Rigg](/hiking/causey-pike-via-knott-rigg) | causey pike, knott rigg, ard crags, scar crags |
-| [The Coledale Round](/hiking/the-coledale-round) | barrow, outerside, sail, crag hill, wandope, hopegill head, grisedale pike |
+| [The Coledale Round](/hiking/coledale-round) | barrow, outerside, sail, crag hill, wandope, hopegill head, grisedale pike |
 
 | **Book 7.) The Western Fells** | **7 / 33** |
 | --- | --- |
