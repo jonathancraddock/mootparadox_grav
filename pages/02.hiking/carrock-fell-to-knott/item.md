@@ -12,6 +12,8 @@ taxonomy:
         - 'high pike'
         - 'great sca fell'
         - knott
+    hiking-cat:
+        - wainwrights
 media_order: '00carrock_avif.jpg,high-pike-towards-blencathra_avif.jpg,carrock-fell-summit_avif.jpg,roughton-gill_avif.jpg,river-caldew_avif.jpg,river-caldew-valley_avif.jpg,east-carrock-fell_avif.jpg'
 ---
 
