@@ -22,8 +22,8 @@ It was Thursday 29th September 2011, unseasonably warm, and happily I was able t
 
 ===
 
-![great-gable-summit](great-gable-summit.jpg "great-gable-summit")
-*View from Great Gable summit.*
+[View Full Screen](https://map.mootparadox.com/full/greatgable1) | [GPX](https://map.mootparadox.com/gpx/greatgable1)  
+<p><iframe src="https://map.mootparadox.com/embed/greatgable1" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 This route added three more Wainwrights to my bagging-count, bringing the total up to 70, and tantalizingly close to 1/3 of the way there!
 
@@ -79,8 +79,8 @@ From Green Gable into Windy Gap (left) and from path to Great Gable (right)
 
 Gable Crag, shown in the photo above-right is a popular climbing area. Saw some jackets and gear at the base of the cliff, although couldn't actually see where they were climbing. Didn't venture around to have a look - but the route Wainwright describes as the "Gable Girdle" sounds like something well worth returning to.
 
-pic
-*Cloudy views from the summit of Great Gable.*
+![great-gable-summit](great-gable-summit.jpg "great-gable-summit")
+*View from Great Gable summit.*
 
 It would have been easy to be disappointed by the cloudy conditions, but sitting on the summit, watching the clouds swirling around the Scafells, Lingmell and Great End, it was a remarkable sight - glimpses here and there, before another curtain of white descended to hide the view. Another good reason not to be discouraged by English weather!
 
