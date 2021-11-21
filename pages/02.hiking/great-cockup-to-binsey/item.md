@@ -6,13 +6,15 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'great sca fell'
         - 'northern fells'
+        - 'great sca fell'
         - 'longlands fell'
         - 'brae fell'
         - 'meal fell'
         - 'great cockup'
         - binsey
+    hiking-cat:
+        - wainwrights
 ---
 
 This was my fourth visit to the Northern Fells, and I think it's going to take at least one (and possibly two) more walks to complete the 24 summits in Wainwrights Northern Fells guide. I may have felt slightly less enthusiastic than I should about this north westerly region, the highest summit being Great Sca Fell, and this is only 2136'. Driving in along the A66, seeing fantastic clear views across Blencathra, I was tempted to divert. It was the threat of Saturday hoardes and a desire to stick to the plan that kept me going, and I parked up near Over Water, with a brief stop en route to search the edge of a car park, a ditch and hedgerow for a missing GPS receiver. Unsurprisingly, no luck there!
