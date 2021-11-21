@@ -11,6 +11,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-outcrop-gowbarrow.jpg,gowbarrow-summit.jpg,ullswater-steamer.jpg,aira-beck.jpg'
+date: '08-07-2015 12:00'
 ---
 
 This was to be a short warm-up on the afternoon of 8th July 2015, prior to a night's camping at Glenridding, and [Catstycam](/blog/catstycam-to-sheffield-pike) the following day.
