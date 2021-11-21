@@ -16,7 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
-media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg,newlands-beck-below-dalehead-tarn.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -59,9 +59,6 @@ After an initially steep and grassy start to gain the ridge, it's easy going all
 
 ### The Hindscarth diversion, and Dale Head
 
-pic
-*Descent of Robinson towards Littledale Edge Looking along the path to Hindscarth View to summit of Hindscarth Descent towards Dale Head.*
-
 The summit of Robinson appears rather flat and barren, but there are a couple of nice cairns/shelters to rest in. Care needs to be taken if leaving the summit to the north as there are some steep crags in that direction. However, my route took me due south, following the fence down to Littledale Edge. The path I followed up the west side of Hindscarth is not marked on my OS map, but is clearly visible on the ground.
 
 ![robinson-towards-high-crag](robinson-towards-high-crag.jpg "robinson-towards-high-crag")
@@ -78,8 +75,8 @@ Dale Head is a tremendous viewpoint and the photos really don't do justice to th
 
 ### High Spy to Maiden Moor
 
-Looking down stream below and to the east of Dalehead Tarn Near the summit of High Spy, looking north The summit of Maiden Moor Below summit of Maiden Moor, looking towards Catbells
-Click on thumbnails to expand, click on image again (or press "x" on keyboard) to close...
+![newlands-beck-below-dalehead-tarn](newlands-beck-below-dalehead-tarn.jpg "newlands-beck-below-dalehead-tarn")
+*Looking down Newlands Beck, below and to the east of Dalehead Tarn.*
 
 I took the path to the north of Dalehead Tarn and crossed Newlands Beck. Here the path turns north towards High Spy. There looks to be some excellent spots for wild-camping around the tarn; definitely one to keep in mind.
 
