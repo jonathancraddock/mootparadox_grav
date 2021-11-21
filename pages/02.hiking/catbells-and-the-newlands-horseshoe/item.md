@@ -16,7 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
-media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -50,8 +50,8 @@ There is free parking in a layby at Little Town, just east of Chapel Bridge, but
 
 I began at Little Town, crossing Chapel Bridge, and following the tarmac road past the chapel as far as Low High Snab. There it becomes a stony farm track leading into the Scope Beck valley.
 
-pic
-*Easy scrambling over Blea Crags to Robinson.*
+![blea-crags](blea-crags.jpg "blea-crags")
+*Easy scrambling over Blea Crags, heading towards Robinson.*
 
 > "There is great diversity of scene during the climb and the views in retrospect are very beautiful, while an exciting fresh panorama opens up when the summit is reached."
 
