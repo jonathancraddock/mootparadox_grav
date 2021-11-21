@@ -13,7 +13,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '29-09-2011 12:00'
-media_order: '00greatgable.jpg,great-gable-summit.jpg,seathwaite-from-path-to-base-brown.jpg,aaron-slack-and-styhead-tarn.jpg,great-end-from-great-gable.jpg,great-gable-from-green-gable.jpg,hanging-stone-base-brown.jpg,raven-crag-from-sourmilk-gill.jpg,path-to-green-gable.jpg'
+media_order: '00greatgable.jpg,great-gable-summit.jpg,seathwaite-from-path-to-base-brown.jpg,aaron-slack-and-styhead-tarn.jpg,great-end-from-great-gable.jpg,great-gable-from-green-gable.jpg,hanging-stone-base-brown.jpg,raven-crag-from-sourmilk-gill.jpg,path-to-green-gable.jpg,styhead-tarn-and-great-end.jpg'
 ---
 
 It was Thursday 29th September 2011, unseasonably warm, and happily I was able to swap a day off from the following week to get out in the fresh air, instead of boiling to death in a Middlesbrough office-block with broken air conditioning units! I had a route planned, but had to make some last minute modifications due to a late start. The original route, which was still fairly short, would have descended Great Gable to the north-west, climbing Kirk Fell, and returning to Seathwaite via Brandreth and Grey Knotts. Sadly, me and early starts are not natural bedfellows! So instead, I came off Great Gable to Styhead Tarn, and followed the path down Styhead Gill, back to Seathwaite Farm.
@@ -98,6 +98,9 @@ From there, I rejoined the path I'd descended on my previous trip: Great End, vi
 ### Summary
 
 I'd be happy to recommend this route. The ascent of Base Brown via Sourmilk Gill is steep, but rewarded with some excellent views, and within those first 3km you're already up at about 650m. The short ascent between Green Gable and Great Gable probably doesn't really do justice to either - and both deserve more exploration in future. In particular, I'd like to return to the Gable Girdle, described on pages 9 and 10 of Wainwrights western fells. This link to Pace the Peaks features some photos of that route.
+
+![styhead-tarn-and-great-end](styhead-tarn-and-great-end.jpg "styhead-tarn-and-great-end")
+*Styhead Tarn and Great End.*
 
 In summary, a very enjoyable day out, and a short but worthwhile route.
 
