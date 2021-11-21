@@ -16,7 +16,7 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '16-05-2012 12:00'
-media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg'
+media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg'
 ---
 
 I believe this route follows the classic Newlands Horseshoe, from Robinson to Catbells, via Hindscarth, Dale Head, High Spy and Maiden Moor; car parked at Little Town. I chose this direction (starting at Robinson) preferring to begin at the higher end of the route. Taken in the other direction there's a bit of a hard slog up from Dalehead Tarn to the summit of Dale Head, and I was happy to meet it in descent, rather than ascent! Choosing to finish at Catbells also means a very gentle finish, being very easy going from Dalehead Tarn back to the car-park. Either way, I think you really can't go wrong with this route - it's a good one!
@@ -64,12 +64,12 @@ pic
 
 The summit of Robinson appears rather flat and barren, but there are a couple of nice cairns/shelters to rest in. Care needs to be taken if leaving the summit to the north as there are some steep crags in that direction. However, my route took me due south, following the fence down to Littledale Edge. The path I followed up the west side of Hindscarth is not marked on my OS map, but is clearly visible on the ground.
 
-pic
+![robinson-towards-high-crag](robinson-towards-high-crag.jpg "robinson-towards-high-crag")
 *From below Robinson summit, looking towards High Crag and Pillar.*
 
 Incorporating Hindscarth into this route requires a minor and fairly painless diversion. You only need to re-trace your steps for about 100 metres near the summit, and apart from this, it follows a natural diagonal up and down either side of the ridge, so definitely no excuse for missing it out!
 
-pic
+![view-from-dale-head](view-from-dale-head.jpg "view-from-dale-head")
 *View from Dale Head.*
 
 > "Dale Head has much in common with Eel Crag in the Grasmoor group. Their summits are focal points of high country, the meeting place of ascending ridges."
