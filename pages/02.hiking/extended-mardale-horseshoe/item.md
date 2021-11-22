@@ -21,9 +21,11 @@ date: '21-03-2012 12:00'
 
 My plan was to start at Mardale Head, climbing High Street via the classic Riggindale route, then making a circuit around Mardale Ill Bell, Harter Fell, Branstree and Selside Pike. I think it would have been a really nice route, had it not been for an unexpected road closure conspiring against me; but more of that later! It was the 21st March, 2012, and a very pleasant spring day.
 
-!!!! A 26kmkm circuit of Mardale Head. (*Waiwright Book 2: The Far Eastern Fells*)
+!!!! A 26km circuit of Mardale Head. (*Wainwright Book 2: The Far Eastern Fells*)
 
 ===
+
+### Map
 
 [View Full Screen](https://map.mootparadox.com/full/mardale) | [GPX](https://map.mootparadox.com/gpx/mardale)  
 <p><iframe src="https://map.mootparadox.com/embed/mardale" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
