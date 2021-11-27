@@ -15,6 +15,7 @@ taxonomy:
         - 'walla crag'
         - 'armboth fell'
         - 'high tove'
+        - planned
     hiking-cat:
         - wainwrights
 ---
