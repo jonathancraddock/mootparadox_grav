@@ -8,18 +8,18 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'far eastern fells'
+        - planned
+        - 'mardale ill bell'
+        - 'harter fell'
+        - 'thornthwaite crag'
         - 'kentmere horseshoe'
         - 'shipman knotts'
         - 'kentmere pike'
-        - 'harter fell'
-        - 'mardale ill bell'
-        - 'thornthwaite crag'
         - froswick
         - 'ill bell'
         - yoke
         - sallows
         - 'sour howes'
-        - planned
 ---
 
 Planned...
@@ -30,7 +30,7 @@ Planned...
 
 #### Extended Horseshoe
 
-Route could be cut short below the summit of Yoke, returning directly to Kentmere.
+The traditional Kentmere Horseshoe does not include Sallows and Sour Howes, and this route could be cut short below the summit of Yoke, returning directly to Kentmere.
 
 [View Full Screen](https://map.mootparadox.com/full/kentmere-ext-plan) | [GPX](https://map.mootparadox.com/gpx/kentmere-ext-plan)  
 <p><iframe src="https://map.mootparadox.com/embed/kentmere-ext-plan" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
