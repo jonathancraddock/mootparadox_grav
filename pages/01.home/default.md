@@ -25,7 +25,9 @@ What happened to the old site? For the last couple of weeks the answer has been,
 
 ### What Next?
 
-I'm bringing the hiking blog posts across from my old site, with [improved maps](/projects/simple-self-hosted-gpx-map) and better versions of the photographs. Find blog posts related to [Hiking](/hiking), or various [Projects](/projects), probably with a vaguely techie twist.
+I'm bringing the hiking blog posts across from my old site, with [improved maps](/projects/simple-self-hosted-gpx-map) and better versions of the photographs. Follow these links to blog posts related to [Hiking](/hiking), and some [Planned](/hiking/tag:planned) Wainwright-bagging routes.
+
+There may also be a few [Projects](/projects), probably with a techie twist.
 
 ![](/hiking/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
 *Red Tarn with Swirral Edge to the left.*
