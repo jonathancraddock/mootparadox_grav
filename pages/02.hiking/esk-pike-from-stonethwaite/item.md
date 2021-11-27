@@ -15,6 +15,7 @@ taxonomy:
         - glaramara
         - bessyboot
         - 'angle tarn'
+        - planned
     hiking-cat:
         - wainwrights
 ---
