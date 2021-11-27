@@ -1,24 +1,24 @@
 ---
 title: 'Fairfield Horseshoe and Stone Arthur'
-date: '01-01-2000 12:07'
+date: '01-01-2000 12:09'
 taxonomy:
     category:
         - hiking
     tag:
         - cumbria
         - 'lake district'
+        - 'high pike'
         - 'eastern fells'
+        - 'hart crag'
+        - 'dove crag'
+        - planned
         - 'fairfield horseshoe'
         - 'nab scar'
         - 'heron pike'
         - 'stone arthur'
         - 'great rigg'
         - fairfield
-        - 'hart crag'
-        - 'dove crag'
-        - 'high pike'
         - 'low pike'
-        - planned
     hiking-cat:
         - wainwrights
 ---
