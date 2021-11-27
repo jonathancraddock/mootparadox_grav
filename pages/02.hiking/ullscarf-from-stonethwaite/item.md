@@ -13,6 +13,7 @@ taxonomy:
         - ullscarf
         - 'great crag'
         - 'grange fell'
+        - planned
     hiking-cat:
         - wainwrights
 ---
