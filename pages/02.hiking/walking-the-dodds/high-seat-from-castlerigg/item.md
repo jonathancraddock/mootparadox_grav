@@ -1,6 +1,20 @@
 ---
 title: 'High Seat from Castlerigg'
 date: '01-01-2000 12:00'
+taxonomy:
+    category:
+        - hiking
+    tag:
+        - cumbria
+        - 'lake district'
+        - 'central fells'
+        - 'high rigg'
+        - 'raven crag'
+        - 'high seat'
+        - 'bleaberry fell'
+        - 'walla crag'
+    hiking-cat:
+        - wainwrights
 ---
 
 Planned...
