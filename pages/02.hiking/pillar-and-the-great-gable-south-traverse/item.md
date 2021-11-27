@@ -25,7 +25,7 @@ Planned...
 
 ===
 
-A fairly tough day-walk, but well worth it! Gillercomb is a great spot, then over Haystacks and to Pillar via Pillar Cove and the final section of the climbers' traverse. Along the ridge to Kirk Fell, before joining the Great Gable south traverse below Napes Needle. Time for a brisk cool off in Styhead Tarn, and an easy walk back to the valley.
+A fairly tough day-walk, but well worth it! Gillercomb is a spectacular spot, then over Haystacks and to Pillar, via Pillar Cove and the final section of the climbers' traverse. Along the ridge to Kirk Fell, before joining the Great Gable south traverse below Napes Needle. Time for a brisk cool off in Styhead Tarn, and an easy walk back to the valley...
 
 [View Full Screen](https://map.mootparadox.com/full/pillar-plan) | [GPX](https://map.mootparadox.com/gpx/pillar-plan)  
 <p><iframe src="https://map.mootparadox.com/embed/pillar-plan" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
