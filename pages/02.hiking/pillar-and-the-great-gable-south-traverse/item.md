@@ -1,17 +1,17 @@
 ---
 title: 'Pillar and the Great Gable South Traverse'
-date: '01-01-2000 12:08'
+date: '01-01-2000 12:09'
 taxonomy:
     category:
         - hiking
     tag:
         - cumbria
         - 'lake district'
-        - 'western fells'
         - planned
+        - 'western fells'
+        - haystacks
         - 'grey knotts'
         - brandreth
-        - haystacks
         - pillar
         - 'kirk fell'
         - 'styhead tarn'
