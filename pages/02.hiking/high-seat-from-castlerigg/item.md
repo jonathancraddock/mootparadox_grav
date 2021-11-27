@@ -21,7 +21,7 @@ taxonomy:
 
 Planned...
 
-!!!! A 17km circular route, starting from Castlerigg. (_Wainwright Book 3: The Central Fells_)
+!!!! A 21km circular route, starting from Castlerigg. (_Wainwright Book 3: The Central Fells_)
 
 ===
 
