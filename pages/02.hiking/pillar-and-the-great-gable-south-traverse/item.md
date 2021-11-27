@@ -1,6 +1,6 @@
 ---
 title: 'Pillar and the Great Gable South Traverse'
-date: '01-01-2000 12:09'
+date: '01-01-2000 12:10'
 taxonomy:
     category:
         - hiking
