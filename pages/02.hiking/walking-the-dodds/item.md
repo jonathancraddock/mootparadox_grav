@@ -8,11 +8,12 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'eastern fells'
+        - 'stybarrow dodd'
+        - hartside
         - 'clough head'
         - 'great dodd'
         - 'watson''s dodd'
-        - 'stybarrow dodd'
-        - hartside
+        - planned
     hiking-cat:
         - wainwrights
 ---
