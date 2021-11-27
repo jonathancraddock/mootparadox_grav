@@ -1,5 +1,20 @@
 ---
 title: 'Ullscarf from Stonethwaite'
+date: '01-01-2000 12:03'
+taxonomy:
+    category:
+        - hiking
+    tag:
+        - cumbria
+        - 'lake district'
+        - 'central fells'
+        - 'eagle crag'
+        - 'sergeant''s crag'
+        - ullscarf
+        - 'great crag'
+        - 'grange fell'
+    hiking-cat:
+        - wainwrights
 ---
 
 Planned...
