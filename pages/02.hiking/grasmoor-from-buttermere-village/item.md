@@ -9,12 +9,13 @@ taxonomy:
         - 'lake district'
         - 'north western fells'
         - whiteside
+        - wandope
         - 'hopegill head'
         - grasmoor
-        - wandope
         - 'whiteless pike'
         - 'rannerdale knotts'
         - 'crummock water'
+        - planned
     hiking-cat:
         - wainwrights
 ---
