@@ -10,7 +10,7 @@ taxonomy:
         - 'southern fells'
         - planned
         - lingmell
-        - 'sca fell'
+        - scafell
         - 'slight side'
         - 'illgill head'
         - 'whin rigg (wasdale)'
