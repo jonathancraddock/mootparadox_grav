@@ -13,7 +13,7 @@ taxonomy:
         - 'sca fell'
         - 'slight side'
         - 'illgill head'
-        - 'whin rigg'
+        - 'whin rigg (wasdale)'
         - wastwater
         - 'burnmoor tarn'
     hiking-cat:
