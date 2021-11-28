@@ -1,5 +1,5 @@
 ---
-title: 'High Raise from Grasmere'
+title: 'High Raise (High White Stones) from Grasmere'
 date: '01-01-2000 12:11'
 taxonomy:
     category:
@@ -8,13 +8,13 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'southern fells'
+        - planned
         - 'silver how'
         - 'blea rigg'
         - 'sergeant man'
         - 'high raise (high white stones)'
         - 'tarn crag'
         - 'easedale tarn'
-        - planned
     hiking-cat:
         - wainwrights
 ---
