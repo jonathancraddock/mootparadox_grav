@@ -13,7 +13,7 @@ taxonomy:
         - 'blea rigg'
         - 'sergeant man'
         - 'high raise (high white stones)'
-        - 'tarn crag'
+        - 'tarn crag (easedale)'
         - 'easedale tarn'
     hiking-cat:
         - wainwrights
