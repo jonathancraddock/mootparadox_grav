@@ -7,13 +7,13 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - planned
         - 'central fells'
         - 'eagle crag'
         - 'sergeant''s crag'
         - ullscarf
-        - 'great crag'
+        - 'great crag (stonethwaite)'
         - 'grange fell'
-        - planned
     hiking-cat:
         - wainwrights
 ---
