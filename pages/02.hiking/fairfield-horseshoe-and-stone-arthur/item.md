@@ -7,11 +7,11 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'high pike'
+        - planned
+        - 'high pike (scandale)'
         - 'eastern fells'
         - 'hart crag'
         - 'dove crag'
-        - planned
         - 'fairfield horseshoe'
         - 'nab scar'
         - 'heron pike'
