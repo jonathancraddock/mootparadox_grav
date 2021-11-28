@@ -1,5 +1,5 @@
 ---
-title: 'High Raise from Martindale'
+title: 'High Raise (High Street) from Martindale'
 taxonomy:
     category:
         - hiking
