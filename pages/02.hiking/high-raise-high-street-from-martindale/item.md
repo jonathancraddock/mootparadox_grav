@@ -11,7 +11,7 @@ taxonomy:
         - 'arthur''s pike'
         - 'loadpot hill'
         - 'wether hill'
-        - 'high raise'
+        - 'high raise (high street)'
         - 'rampsgill head'
         - 'kidsty pike'
         - 'the knott'
