@@ -8,13 +8,13 @@ taxonomy:
         - cumbria
         - 'lake district'
         - planned
-        - 'high pike (scandale)'
         - 'eastern fells'
         - 'hart crag'
         - 'dove crag'
+        - 'high pike (scandale)'
         - 'fairfield horseshoe'
         - 'nab scar'
-        - 'heron pike'
+        - 'heron pike (rydal)'
         - 'stone arthur'
         - 'great rigg'
         - fairfield
