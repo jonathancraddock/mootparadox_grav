@@ -15,6 +15,7 @@ taxonomy:
         - 'brown howe'
         - 'loughrigg tarn'
         - 'tarn hows'
+        - planned
     hiking-cat:
         - wainwrights
 ---
