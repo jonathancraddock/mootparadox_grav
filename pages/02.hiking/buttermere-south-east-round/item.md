@@ -16,6 +16,7 @@ taxonomy:
         - haystacks
         - 'fleetwith pike'
         - buttermere
+        - planned
     hiking-cat:
         - wainwrights
 ---
