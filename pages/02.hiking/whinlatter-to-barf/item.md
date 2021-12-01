@@ -7,13 +7,13 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - planned
         - 'north western fells'
         - whinlatter
         - greystones
         - 'broom fell'
         - 'lord''s seat'
         - barf
-        - planned
         - bassenthwaite
     hiking-cat:
         - wainwrights
