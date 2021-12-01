@@ -13,6 +13,7 @@ taxonomy:
         - nodered
     projects-cat:
         - web
+date: '31-10-2021 15:00'
 ---
 
 !!!! Test to see whether it's possible to copy/paste straight from a GitHub markdown file.
