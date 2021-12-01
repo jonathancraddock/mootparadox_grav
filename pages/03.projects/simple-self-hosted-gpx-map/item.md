@@ -16,7 +16,7 @@ routes:
     aliases:
         - /projects/simple-map
     canonical: /projects/simple-self-hosted-gpx-map
-date: '27-10-2021 12:30'
+date: '01-11-2021 12:30'
 ---
 
 My aim was simple. And perhaps it was *too* simple.
