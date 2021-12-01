@@ -28,11 +28,11 @@ Planned...
 
 #### Traditional Kentmere Horseshoe
 
-I believe this GPX follows the traditional route. If you wanted to add Sallows and Sour Howes to the end of the route, it adds around 3km.
+I believe this GPX follows the traditional route.
 
 [View Full Screen](https://map.mootparadox.com/full/kentmere-plan) | [GPX](https://map.mootparadox.com/gpx/kentmere-plan)  
 <p><iframe src="https://map.mootparadox.com/embed/kentmere-plan" height="500" width="100%" style="border:none; margin-top:-1.2em;"></iframe></p>
 
 #### Extended Horseshoe
 
-The traditional Kentmere Horseshoe does not include Sallows and Sour Howes, but with sufficient energy they could be added beyond the summit of Yoke, before returning to Kentmere.
+The traditional Kentmere Horseshoe does not include Sallows and Sour Howes, but with sufficient energy they could be added beyond the summit of Yoke, before returning to Kentmere. It would add a minimum of 3km to the route.
