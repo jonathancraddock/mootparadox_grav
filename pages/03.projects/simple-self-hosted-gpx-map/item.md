@@ -17,6 +17,7 @@ routes:
         - /projects/simple-map
     canonical: /projects/simple-self-hosted-gpx-map
 date: '01-11-2021 12:30'
+media_order: 00gpxmaps.jpg
 ---
 
 My aim was simple. And perhaps it was *too* simple.
