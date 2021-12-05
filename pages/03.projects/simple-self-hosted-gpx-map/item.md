@@ -20,7 +20,7 @@ date: '01-11-2021 12:30'
 media_order: 00gpxmaps.jpg
 ---
 
-My aim was simple. And perhaps it was *too* simple.
+My aim was simple. And perhaps it was ***too*** simple.
 
 I wanted an open-source mapping solution that would allow me 
 to embed a map/GPX route into a blog post in plain and simple fashion. I wanted the 
