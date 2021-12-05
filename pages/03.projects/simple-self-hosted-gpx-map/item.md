@@ -53,7 +53,7 @@ scenarios. If all you want to do is put a GPX route onto a map, you only need a 
 of Javascript.
 
 >NOTE: The default name of the start and end pins are `pin-icon-start.png` and `pin-icon-end.png`.
->The substring 'icon' is often blocked by products such as AdblockPlus and uBlock Origin, so it's
+>I'd been finding that the substring 'icon' is sometimes blocked by adblocking products, so it's
 >advisable to rename them.
 
 Keeping it simple, I envisaged three scenarios:
