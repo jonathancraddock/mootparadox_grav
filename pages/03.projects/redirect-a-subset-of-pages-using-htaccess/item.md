@@ -12,6 +12,7 @@ taxonomy:
     projects-cat:
         - web
 date: '02-12-2021 12:00'
+media_order: 00redirects.jpg
 ---
 
 Wrestling with .htaccess syntax is a pleasure that I engage in every six months or so! I grasp the basic principles, but have never had cause to become fully fluent. These two rules are the culmination of a requirement to redirect a specific subset of pages from a site that used different URI structures; with and without query strings.
