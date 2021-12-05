@@ -29,7 +29,7 @@ sense, not a postage stamp sized map in an ugly looking box, surrounded by usele
 
 ===
 
-I'm talking about a coloured line displayed on top of a map, so there is no conceivable requirement for cookies, advertising, intrusive tracking, social media logins, licensing fees, pop-up messages, in-your-face invitations to sign up for stuff nobody needs, or any other annoyances.
+What I'm describing is a coloured line displayed on top of a map. There is no requirement for cookies, advertising, intrusive tracking, social media logins, condescending watermarks all over the place, licensing fees, pop-up messages, in-your-face invitations to sign up for stuff nobody needs, requests for "likes", or any other annoyances.
 
 ### Pennine Way, Bowlees to Dufton
 
