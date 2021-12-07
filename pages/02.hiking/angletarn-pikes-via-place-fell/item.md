@@ -17,6 +17,8 @@ taxonomy:
         - wainwrights
 media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg,rampsgill-head-from-rest-dodd.jpg,the-nab.jpg,place-fell-and-ullswater.jpg'
 date: '15-06-2011 12:00'
+metadata:
+    description: 'A 20km circular route over Angletarn Pikes, starting from the Winter Crag car park in Martindale.'
 ---
 
 Looking at the dire weather reports on the Accuweather Mountain Forecast, the Mountain Weather Information Service, the BBC and the Met Office, I had almost come to the conclusion it wasn't worth setting off on the drive to the Lakes on this un-promising 15th June 2011. My mind was quickly changed by the Pooley Bridge Steamer Pier webcam. This showed the reality of the situation, damp but reasonably bright conditions, with summits just visible. I'm not overly concerned by rain - just so long as I'm still getting a decent view. In the words of Jerome K Jerome, "*we told ourselves that nature was beautiful, even in her tears*".
