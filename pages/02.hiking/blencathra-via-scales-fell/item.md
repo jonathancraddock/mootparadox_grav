@@ -16,6 +16,8 @@ taxonomy:
     hiking-cat:
         - wainwrights
 date: '09-08-2010 12:00'
+metadata:
+    description: 'Starting from Mungrisdale village, this was an easy 16km circular route to Blencathra via Scales Fell., '
 ---
 
 Monday 9th August, 2010, marked my return to the Lake District fells after an absence of about 19 years. Half a lifetime ago, my Duke of Edinburgh expedition for the Gold award, marked my last hill walking of any significance. It was a revelation to me that you don't need to carry a 20kg pack any more and I finally succumbed to the lure of the hills.
