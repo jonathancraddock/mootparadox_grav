@@ -13,6 +13,8 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+simplesearch:
+    process: false
 ---
 
 # Welcome to mootParadox
