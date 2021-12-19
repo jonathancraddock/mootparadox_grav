@@ -1,3 +1,4 @@
+/* Use a handwritten font for blockquote text */
 @font-face {
   font-family: quoteFont;
   src: url(/kalam.ttf);
@@ -8,14 +9,7 @@
   background: #cacaca;
 }
 
-/* ??? 
-a:visited {
-  color: #fff;
-  margin-bottom: 5px;
-}
-*/
-
-/* Dropdown link menu text to white */
+/* Pull-down menu on narrow display text to white */
 .treemenu li a, .treemenu li a.active, .treemenu li a:focus, .treemenu li a:hover {
   color: #3062a2 !important;
   margin-bottom: 5px;
@@ -23,7 +17,7 @@ a:visited {
   font-weight: bolder;
 }
 
-/* Style the dropdown menu buttons */
+/* Pull-down menu on narrow display button style */
 .treemenu li {
   margin: 1em 0 1em 0;
   border-radius: .1em;
@@ -33,32 +27,39 @@ a:visited {
   box-shadow: 2px 2px 8px 0 rgba(68, 68, 68, 0.3);
 }
 
+/* Switch off the menu toggle as I don't need it for this config */
 .treemenu li.tree-empty > .toggler {
   display: none;
 }
 
-/* Align bullet to centre of text */
+/* Align bullet to centre of text 
 .treemenu .toggler {
   padding-top: 3px;
-}
+} */
 
-/* Don't make dropdown menu transparent */
+/* Pull-down menu on narrow display, not transparent */
 .overlay.open {
   opacity: 1;
 }
 
 /* Default Links */
-a {
-  color: #126bd9;
-}
+a { color: #126bd9; }
+a:visited { color: #126bd9; }
 
-a:visited {
-  color: #126bd9;
-}
-
-/**/
+/* Reduce size of title text on search page */
 .search-header {
   font-size: x-large;
+}
+
+/* Override 80% width and go full screen width */
+.search-wrapper .search-input {
+    width: 100%;
+}
+
+/* Simplify layout of 'items' in search results */
+.search-item {
+  margin-left: 0;
+  margin-bottom: 32px;
 }
 
 /* Tighten up margins on  blog cards */
@@ -83,10 +84,12 @@ blockquote {
   font-size: large;
 }
 
+/* Increase size of (handwriting) blockquote text */
 blockquote p {
   font-size: large;
 }
 
+/* Style the 'Wainwright' signature on Hiking blog posts */
 blockquote p img[src="/user/images/aw-sig.png"] {
   display: flex;
   margin-left: auto;
@@ -94,6 +97,7 @@ blockquote p img[src="/user/images/aw-sig.png"] {
   opacity: 0.75;
 }
 
+/* Edit side 'border' of success callout */
 .notices.green {
   border-left: 0.3rem solid #5cb85c4a;
 }
@@ -111,7 +115,6 @@ h1, h2, h3, h4, h5, h6 {
 .h5, h5 {
   font-size: 1.2rem;
 }
-
 
 /* Larger 'category' taxonomy tags */
 .taxonomyCats .tags .label {
@@ -146,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
   position:relative;
 }
 
-/* Allow button to be displayed over a Hero section */
+/* Allow button to be displayed 'above' a Hero section */
 .btn, .button {
     z-index: 1 !important;
     position: relative !important;
@@ -185,7 +188,7 @@ hr {
     margin: 0.6rem 0;
 }
 
-/* Use <em> after image as a caption */
+/* Use <em> immediately after an image as a re-styled caption */
 p > img + em {
     font-size: small;
     margin-top: -.25em;
@@ -201,11 +204,12 @@ p > img + em {
     border-radius: 8px;
 }
 
-/* faded green-grey and dark red for code snippets */
+/* Faded green-grey and dark red for code snippets */
 code {
     color: #800;
     background: #f4f9f2;
 }
+
 
 table {
     overflow-x: auto;
@@ -223,12 +227,6 @@ table td, table th {
     border-bottom-width: 0.05rem;
 }
 
-
-/* table tbody tr:nth-of-type(2n+1) {
-    background: #f8f9fa;
-} */
-
-
 table th {
     border: #0000001a;
     border-style: solid;
@@ -239,15 +237,19 @@ tr > :first-child {
     width: 33%;
 }
 
+/* ============= */
+/* MEDIA QUERIES */
+/* ============= */
 
 @media screen and (max-width: 576px) {
-  /* Reduced height map on mobile */
+
+  /* Show a reduced height map on mobile */
   iframe {
     height: 350px;
     padding-right: 1em;
   }
 
-  /* Smaller AW sig */
+  /* Smaller AW blockquote sig on mobile */
   blockquote p img[src="/user/images/aw-sig.png"] {
     width: 175px;
     height: auto;

@@ -20,8 +20,6 @@ date: '20-04-2011 12:00'
 
 Sun tan cream was at the ready for this day of glorious sunshine in The Far Eastern Fells. It was April 20th 2011 and yes, I have been very slow to update my blog!
 
-**Migration in progress...**
-
 !!!! A sunny 17km route to High Street via Stony Cove Pike. (*Wainwright Book 2: The Far Eastern Fells*)
 
 ===
