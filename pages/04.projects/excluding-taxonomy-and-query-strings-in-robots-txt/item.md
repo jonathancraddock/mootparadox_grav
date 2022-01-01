@@ -1,5 +1,5 @@
 ---
-title: 'Excluding Taxonomy and Query Strings in Robots.txt'
+title: 'Excluding Taxonomy and Query Strings in Robots txt'
 date: '01-01-2022 13:30'
 media_order: '00robots1.jpg,search-result-tag.png'
 published: false
