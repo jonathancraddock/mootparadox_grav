@@ -7,14 +7,16 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'eastern fells'
         - planned
-        - 'priesthole cave'
+        - 'eastern fells'
         - 'dove crag'
         - 'little hart crag'
+        - 'priesthole cave'
         - 'red screes'
         - 'middle dodd'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
