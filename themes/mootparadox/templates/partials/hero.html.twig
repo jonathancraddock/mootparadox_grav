@@ -10,7 +10,7 @@
 
         {% if uri.route|contains('outdoors') %}
           <!-- route includes 'outdoors' : {{uri.route}} -->
-          {% include 'partials/taxonomylist.html.twig' with {base_url: '/outdoors', taxonomy: 'hiking-cat'} %}
+          {% include 'partials/taxonomylist.html.twig' with {base_url: '/outdoors', taxonomy: 'outdoors-cat'} %}
         {% endif %}
 
         {% if uri.route|contains('projects') %}
