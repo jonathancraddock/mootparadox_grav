@@ -13,6 +13,8 @@ taxonomy:
         - 'usway burn'
     hiking-cat:
         - cheviots
+    outdoors-cat:
+        - cheviots
 media_order: '00coquetvalley.jpg,coquet-valley-approaching-the-knock.jpg'
 date: '30-12-2020 12:00'
 ---
