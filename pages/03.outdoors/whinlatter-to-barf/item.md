@@ -17,6 +17,8 @@ taxonomy:
         - bassenthwaite
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
