@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - planned
         - 'north western fells'
         - whiteside
         - wandope
@@ -15,8 +16,9 @@ taxonomy:
         - 'whiteless pike'
         - 'rannerdale knotts'
         - 'crummock water'
-        - planned
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
