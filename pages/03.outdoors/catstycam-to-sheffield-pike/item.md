@@ -18,6 +18,8 @@ taxonomy:
         - 'glenridding dodd'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00catstycam.jpg,catstycam-from-glenridding-valley.jpg,catstycam-north-ridge.jpg,browncove-crags-thirlmere.jpg,swirral-edge-and-red-tarn.jpg,nick-head-marker-sheffield-pike.jpg,catstycam-selfie.jpg'
 date: '09-07-2015 12:00'
 ---
