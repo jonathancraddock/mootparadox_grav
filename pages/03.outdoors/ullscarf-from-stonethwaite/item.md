@@ -16,6 +16,8 @@ taxonomy:
         - 'grange fell'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
