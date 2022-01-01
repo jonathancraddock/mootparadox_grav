@@ -12,6 +12,8 @@ taxonomy:
         - haystacks
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '03-11-2010 12:00'
 ---
 
