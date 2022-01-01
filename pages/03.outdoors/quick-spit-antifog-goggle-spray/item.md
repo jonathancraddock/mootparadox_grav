@@ -1,6 +1,7 @@
 ---
 title: 'Quick Spit Antifog Goggle Spray'
 date: '18-06-2021 16:00'
+media_order: quick-spit-1.jpg
 ---
 
 I began swimming outdoors in June 2020. To put this in context, summer began well and
@@ -18,7 +19,7 @@ a chance on an unfamiliar pair.
 
 I found it via Amazon -> [Jaws Quick Spit Anti Fog Spray SLO003 30ml](https://www.amazon.co.uk/dp/B0012Q2S4W)
 
-
+![quick-spit-1](quick-spit-1.jpg "quick-spit-1")
 
 ### Experience
 
