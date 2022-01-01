@@ -15,6 +15,8 @@ taxonomy:
         - binsey
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '04-09-2010 12:00'
 ---
 
