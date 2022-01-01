@@ -15,6 +15,8 @@ taxonomy:
         - 'grey crag'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
