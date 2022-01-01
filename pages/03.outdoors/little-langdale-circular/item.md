@@ -8,6 +8,7 @@ taxonomy:
         - cumbria
         - 'lake district'
         - 'southern fells'
+        - planned
         - 'central fells'
         - 'loughrigg fell'
         - 'black fell'
@@ -15,8 +16,9 @@ taxonomy:
         - 'brown howe'
         - 'loughrigg tarn'
         - 'tarn hows'
-        - planned
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
