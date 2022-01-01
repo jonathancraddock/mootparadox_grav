@@ -19,6 +19,8 @@ taxonomy:
         - 'hallin fell'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '07-05-2013 12:00'
 ---
 
