@@ -8,15 +8,17 @@ taxonomy:
         - 'lake district'
         - 'eastern fells'
         - helvellyn
+        - fairfield
         - 'birkhouse moor'
         - 'nethermost pike'
         - 'dollywaggon pike'
         - 'seat sandal'
-        - fairfield
         - 'st sunday crag'
         - birks
         - 'arniston crag'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 media_order: '00helvellyn.jpg,helvellyn.jpg,birkhouse-moor-towards-helvellyn.jpg,striding-edge-1.jpg,striding-edge-2.jpg,st-sunday-crag.jpg,grisedale-tarn-from-seat-sandal.jpg,cofa-pike.jpg,st-sunday-crag-from-fairfield.jpg'
 date: '06-10-2010 12:00'
