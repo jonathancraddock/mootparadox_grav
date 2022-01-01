@@ -7,10 +7,10 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'central fells'
         - planned
-        - langdale
         - 'dungeon ghyll'
+        - langdale
+        - 'central fells'
         - 'pavey ark'
         - thunacar
         - 'pike of stickle'
@@ -18,6 +18,8 @@ taxonomy:
         - 'harrison stickle'
         - 'stickle tarn'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
