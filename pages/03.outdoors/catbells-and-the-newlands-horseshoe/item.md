@@ -15,6 +15,8 @@ taxonomy:
         - 'maiden moor'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '16-05-2012 12:00'
 media_order: '00catbells.jpg,head-of-newlands-towards-catbells.jpg,path-from-little-town.jpg,blea-crags.jpg,robinson-towards-high-crag.jpg,view-from-dale-head.jpg,descent-from-dale-head.jpg,newlands-beck-below-dalehead-tarn.jpg,newlands-beck-towards-high-spy.jpg,path-over-catbells.jpg,catbells-towards-maiden-moor.jpg'
 ---
