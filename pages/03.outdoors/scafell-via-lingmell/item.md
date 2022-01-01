@@ -18,6 +18,8 @@ taxonomy:
         - 'burnmoor tarn'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
