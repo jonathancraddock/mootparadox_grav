@@ -15,6 +15,8 @@ taxonomy:
         - 'bowscale fell'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '09-08-2010 12:00'
 metadata:
     description: 'Starting from Mungrisdale village, this was an easy 16km circular route to Blencathra via Scales Fell., '
