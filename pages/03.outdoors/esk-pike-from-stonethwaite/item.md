@@ -7,16 +7,18 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'central fells'
         - 'southern fells'
+        - planned
+        - 'angle tarn'
+        - 'central fells'
         - 'rossett pike'
         - 'esk pike'
         - 'allen crags'
         - glaramara
         - bessyboot
-        - 'angle tarn'
-        - planned
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
