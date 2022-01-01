@@ -12,6 +12,8 @@ taxonomy:
         - 'great gable'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '29-09-2011 12:00'
 media_order: '00greatgable.jpg,great-gable-summit.jpg,seathwaite-from-path-to-base-brown.jpg,aaron-slack-and-styhead-tarn.jpg,great-end-from-great-gable.jpg,great-gable-from-green-gable.jpg,hanging-stone-base-brown.jpg,raven-crag-from-sourmilk-gill.jpg,path-to-green-gable.jpg,styhead-tarn-and-great-end.jpg'
 ---
