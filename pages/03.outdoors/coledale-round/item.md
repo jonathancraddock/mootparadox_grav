@@ -17,6 +17,8 @@ taxonomy:
         - 'grisedale pike'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00coledale.jpg,crag-hill.jpg,catbells-and-derwent-water.jpg,head-of-coledale-from-outerside.jpg,view-from-grisedale-pike.jpg,view-from-sail.jpg,grisedale-pike-towards-northern-fells.jpg,hopegill-head.jpg,view-from-wandhope.jpg,coledale-hause-from-sand-hill.jpg'
 date: '16-10-2010 12:00'
 ---
