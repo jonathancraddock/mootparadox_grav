@@ -5,7 +5,7 @@ show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 6
+    limit: 8
     order:
         by: date
         dir: desc
