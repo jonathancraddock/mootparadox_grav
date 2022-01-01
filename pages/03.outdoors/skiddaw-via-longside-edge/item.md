@@ -13,6 +13,8 @@ taxonomy:
         - 'long side'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00longside.jpg,long-side-edge-skiddaw.jpg,ullock-pike.jpg,skiddaw.jpg,skiddaw-little-man.jpg,skiddaw-south-summit.jpg,views-from-skiddaw-little-man.jpg,skiddaw-trig-point.jpg,dead-crags-bakestall.jpg,whitewater-dash-falls.jpg,clouds-over-bakestall.jpg'
 date: '23-08-2010 12:00'
 ---
