@@ -7,13 +7,15 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - 'central fells'
         - planned
+        - 'central fells'
         - 'steel fell'
         - 'calf crag'
         - 'gibson knott'
         - 'helm crag'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
