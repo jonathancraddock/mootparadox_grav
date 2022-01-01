@@ -8,7 +8,7 @@ While introducing a combination of categories and tags to this [Grav](https://ge
 
 ===
 
-By way of an example, the Google result below is an internal list, generated on the fly, for any post tagged with the string `angletarn pikes'.
+By way of an example, the Google result below is an internal list, generated on the fly, for any post tagged with the string `angletarn pikes`.
 
 ![search-result-tag](search-result-tag.png "search-result-tag")
 *Example of a Google 'tag' result.*
