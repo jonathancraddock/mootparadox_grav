@@ -15,6 +15,8 @@ taxonomy:
         - 'scar crags'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 date: '26-01-2011 12:00'
 ---
 
