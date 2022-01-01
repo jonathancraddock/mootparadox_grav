@@ -8,10 +8,12 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
-        - winter
         - 'southern fells'
+        - winter
         - 'scafell pike'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 date: '08-02-2012 12:00'
 ---
