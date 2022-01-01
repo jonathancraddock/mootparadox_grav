@@ -15,6 +15,8 @@ taxonomy:
         - 'the nab'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00martindale.jpg,bannerdale-valley.jpg,views-from-angletarn-pike.jpg,path-to-high-dodd.jpg,place-fell-from-beda-fell-knott.jpg,view-towards-st-sunday-crag.jpg,beda-head.jpg,angle-tarn.jpg,brock-crags-summit-cairn.jpg,rampsgill-head-from-rest-dodd.jpg,the-nab.jpg,place-fell-and-ullswater.jpg'
 date: '15-06-2011 12:00'
 metadata:

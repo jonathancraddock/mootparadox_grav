@@ -8,9 +8,9 @@
 
         {# display list of taxonomy categories at the start of the blog listing page, below hero #}
 
-        {% if uri.route|contains('hiking') %}
-          <!-- route includes 'hiking' : {{uri.route}} -->
-          {% include 'partials/taxonomylist.html.twig' with {base_url: '/hiking', taxonomy: 'hiking-cat'} %}
+        {% if uri.route|contains('outdoors') %}
+          <!-- route includes 'outdoors' : {{uri.route}} -->
+          {% include 'partials/taxonomylist.html.twig' with {base_url: '/outdoors', taxonomy: 'hiking-cat'} %}
         {% endif %}
 
         {% if uri.route|contains('projects') %}
