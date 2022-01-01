@@ -21,6 +21,8 @@ taxonomy:
         - 'low pike'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
