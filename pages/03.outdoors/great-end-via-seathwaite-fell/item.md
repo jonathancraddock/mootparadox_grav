@@ -6,10 +6,12 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - 'southern fells'
         - 'great end'
         - 'seathwaite fell'
-        - 'southern fells'
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 date: '13-07-2011 12:00'
 ---
