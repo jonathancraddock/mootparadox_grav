@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - planned
         - 'western fells'
         - 'great borne'
         - 'starling dodd'
@@ -16,8 +17,9 @@ taxonomy:
         - haystacks
         - 'fleetwith pike'
         - buttermere
-        - planned
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
