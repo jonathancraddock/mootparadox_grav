@@ -17,6 +17,8 @@ taxonomy:
         - 'styhead tarn'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
