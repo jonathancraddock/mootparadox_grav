@@ -3,6 +3,14 @@ title: 'Excluding Taxonomy and Query Strings in Robots txt'
 date: '01-01-2022 13:30'
 media_order: '00robots1.jpg,search-result-tag.png'
 published: true
+taxonomy:
+    tag:
+        - grav
+        - robots.txt
+        - google
+        - taxonomy
+    projects-cat:
+        - web
 ---
 
 While introducing a combination of categories and tags to this [Grav](https://getgrav.org/) website, I noticed that Google had been happily indexing a variety of valid URLs that were either internal search results, or lists based on taxonomy categories or tags. By their nature, these results are transient, and I decided to exclude them.
