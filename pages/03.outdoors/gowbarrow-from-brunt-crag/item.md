@@ -10,6 +10,8 @@ taxonomy:
         - 'gowbarrow fell'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: 'ullswater-south-west.jpg,yew-crag-towards-hallin-fell.jpg,craggy-outcrop-gowbarrow.jpg,gowbarrow-summit.jpg,ullswater-steamer.jpg,aira-beck.jpg'
 date: '08-07-2015 12:00'
 ---
