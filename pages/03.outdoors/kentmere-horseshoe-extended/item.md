@@ -18,6 +18,10 @@ taxonomy:
         - froswick
         - 'ill bell'
         - yoke
+    hiking-cat:
+        - wainwrights
+    outdoors-cat:
+        - wainwrights
 ---
 
 Planned...
