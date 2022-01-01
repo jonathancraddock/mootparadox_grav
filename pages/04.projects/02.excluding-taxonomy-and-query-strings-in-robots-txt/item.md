@@ -27,7 +27,7 @@ Some example URLs excluded by these rules include:
 * `Disallow: *cat:` -> [https://mootparadox.com/outdoors/outdoors-cat:wainwrights](https://mootparadox.com/outdoors/outdoors-cat:wainwrights)
 * `Disallow: *query:` -> [https://mootparadox.com/search/query:skiddaw,longside](https://mootparadox.com/search/query:skiddaw,longside)
 
-The use of a colon is common to all three scenarios, and you might want to be cautious if you're the type of person who would include a colon in a page title. (Personally I wouldn't, so it's fine!)
+The use of a colon is common to all three scenarios, and you might want to be cautious if you're the type of person who would include a colon in a page title. (Personally I wouldn't, so it's fine.)
 
 I first became aware of this on 10th December 2021 and made the changes the same day. As of 1st January 2022, there are a couple of them left behind, but at the beginning of December, Google had pages of these search results based on page tags and categories.
 
