@@ -17,7 +17,7 @@ I began swimming outdoors in June 2020. To put this in context, summer began wel
 
 ===
 
-The fogging was so rapid, I had basically no visibility. These goggles were never great, even in a pool, but I used to manage half a dozen lengths before having to sort them out. During the COVID-19 lockdown it has been difficult to try on new goggles. Knowing these Speedos were a good fit, it seemed worth trying an antifog spray before taking a chance on an unfamiliar pair.
+The fogging was so rapid, I had basically no visibility. These goggles were never great, even in a pool, but I used to manage half a dozen lengths before having to sort them out. During the COVID-19 lockdown it has been difficult to try on new goggles, so knowing that these Speedos were a good fit, it seemed worth trying an antifog spray before taking a chance on an unfamiliar pair.
 
 ### Where's It From?
 
