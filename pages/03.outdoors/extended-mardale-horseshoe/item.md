@@ -15,6 +15,8 @@ taxonomy:
         - 'selside pike'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00mardale.jpg,haweswater-riggindale.jpg,climbing-rough-crag.jpg,banstree-to-selside-pike.jpg,high-street-from-rough-crag.jpg,blea-water-harter-fell.jpg,small-water-blea-water.jpg,haweswater-from-harter-fell.jpg,selside-pike-swindale.jpg,buildings-on-old-corpse-road.jpg,haweswater.jpg'
 date: '21-03-2012 12:00'
 ---
