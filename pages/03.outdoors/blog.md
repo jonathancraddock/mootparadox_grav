@@ -1,5 +1,5 @@
 ---
-title: Hiking
+title: Outdoors
 content:
     items:
         - '@self.children'
