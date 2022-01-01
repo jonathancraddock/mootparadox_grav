@@ -2,14 +2,20 @@
 title: 'Quick Spit Antifog Goggle Spray'
 date: '18-06-2020 16:00'
 media_order: '00quickspit.jpg,quick-spit-1.jpg'
+taxonomy:
+    tag:
+        - goggles
+        - anti-fog
+        - 'open water'
+    outdoors-cat:
+        - swimming
 ---
 
-I began swimming outdoors in June 2020. To put this in context, summer began well and
-at a rough guess, I’d say the water temperature was close to 15 degrees. Of course, when
-your goggles steam up after less than 30 seconds, it puts rather a dampener on your swim!
-The fogging was so rapid, a minute in the water reduced my visibility to zero.
+I began swimming outdoors in June 2020. To put this in context, summer began well and the water temperatures in the North Tyne were around 15 degrees. But, when your goggles steam up after less than 30 seconds, it does put rather a dampener on your swim!
 
 ===
+
+The fogging was so rapid, I had basically no visibility. These goggles were never great, even in a pool, but I used to manage half a dozen lengths before having to sort them out. In this colder environment, they 
 
 During the COVID-19 lockdown it has been difficult to try on new goggles. Knowing
 these Speedos were a good fit, it seemed worth trying an antifog spray before taking
