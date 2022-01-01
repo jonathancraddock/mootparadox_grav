@@ -14,6 +14,8 @@ taxonomy:
         - 'thornthwaite crag'
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00highstreet.jpg,high-street.jpg,hartsopp-dodd-towards-fairfield.jpg,hartsop-dodd.jpg,thornthwaite-beacon.jpg,thornthwaite-crag-and-high-street.jpg,blea-water-and-mardale-ill-bell.jpg,gray-crag-and-hayeswater.jpg'
 date: '20-04-2011 12:00'
 ---
