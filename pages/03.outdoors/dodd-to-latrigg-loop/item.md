@@ -14,6 +14,8 @@ taxonomy:
         - latrigg
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00dodd-latrigg.jpg,north-western-fells.jpg,dodd-towards-derwent-water.jpg,skiddaw-from-carl-side.jpg,long-side-edge.jpg,skiddaw-trig-point.jpg,skiddaw-house-and-lonscale-fell.jpg,lonscale-fell.jpg,latrigg.jpg'
 date: '01-09-2010 12:00'
 ---
