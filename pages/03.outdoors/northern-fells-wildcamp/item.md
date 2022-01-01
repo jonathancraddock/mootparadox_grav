@@ -17,6 +17,8 @@ taxonomy:
         - wildcamping
     hiking-cat:
         - wainwrights
+    outdoors-cat:
+        - wainwrights
 media_order: '00northern-fells.jpg,northern-fells-a66.jpg,great-calva.jpg,camped-near-dry-gill-head.jpg,mungrisdale-common.jpg,bowscale-tarn.jpg,bannerdale-valley.jpg,looking-up-sharp-edge.jpg,morning-view.jpg,bowscale-and-blencathra.jpg,carrock-fell-vale-of-eden.jpg,overnight-gear.jpg'
 date: '03-05-2011 12:00'
 ---
