@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - cumbria
         - 'lake district'
+        - planned
         - 'central fells'
         - 'high rigg'
         - 'raven crag'
@@ -15,8 +16,9 @@ taxonomy:
         - 'walla crag'
         - 'armboth fell'
         - 'high tove'
-        - planned
     hiking-cat:
+        - wainwrights
+    outdoors-cat:
         - wainwrights
 ---
 
