@@ -1,0 +1,69 @@
+{% extends 'partials/base.html.twig' %}
+{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
+{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+{% set show_sidebar = header_var('show_sidebar', [page, blog])|defined(true)  %}
+{% set show_pagination = header_var('show_pagination', [page, blog])|defined(true) %}
+{% set hero_image_name = page.header.hero_image %}
+
+{% block metasocial %}
+<!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page.url(true, true) }}" />
+  <meta property="og:site_name" content="mootParadox.com" />
+  <meta property="og:description" content="{{ page.summary|striptags|trim|e }}" />
+<!-- Twitter Card data -->
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="{{ page.url(true, true) }}" />
+  <meta name="twitter:site" content="mootParadox.com" />
+  <meta name="twitter:description" content="{{ page.summary|striptags|trim|e }}" />
+<!-- Image data -->
+{% set image = page.media.images|first %}
+{% if image %}
+  <meta property="og:image" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta name="twitter:image" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta name="twitter:image:src" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta itemprop="image" content="https://mootparadox.com{{ image.url|raw }}" />
+{% else %}
+  <meta property="og:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta name="twitter:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta name="twitter:image:src" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta itemprop="image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+{% endif %}
+{% endblock %}
+
+{% block hero %}
+    {% if hero_image_name %}
+        {% set hero_image = page.media[hero_image_name] %}
+        {% set content %}
+            <h1>{{ page.title }}</h1>
+            <h2>{{ page.header.subtitle }}</h2>
+            {% include 'partials/blog/date.html.twig' %}
+            {% include 'partials/blog/taxonomy.html.twig' %}
+        {% endset %}
+        {% include 'partials/hero.html.twig' with {id: 'blog-hero'} %}
+
+    {% endif %}
+{% endblock %}
+
+{% block body %}
+<section id="body-wrapper" class="section blog-listing">
+    <section class="container {{ grid_size }}">
+
+        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+            {% include 'partials/breadcrumbs.html.twig' %}
+        {% endif %}
+
+        {% embed 'partials/layout.html.twig' %}
+            {% block item %}
+                {% include 'partials/blog-item.html.twig' %}
+            {% endblock %}
+            {% block sidebar %}
+                {% include 'partials/sidebar.html.twig' %}
+            {% endblock %}
+        {% endembed %}
+
+    </section>
+</section>
+{% endblock %}
