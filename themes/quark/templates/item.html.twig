@@ -5,6 +5,34 @@
 {% set show_pagination = header_var('show_pagination', [page, blog])|defined(true) %}
 {% set hero_image_name = page.header.hero_image %}
 
+{% block metasocial %}
+<!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page.url(true, true) }}" />
+  <meta property="og:site_name" content="mootParadox.com" />
+  <meta property="og:description" content="{{ page.summary|striptags|trim|e }}" />
+<!-- Twitter Card data -->
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="{{ page.url(true, true) }}" />
+  <meta name="twitter:site" content="mootParadox.com" />
+  <meta name="twitter:description" content="{{ page.summary|striptags|trim|e }}" />
+<!-- Image data -->
+{% set image = page.media.images|first %}
+{% if image %}
+  <meta property="og:image" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta name="twitter:image" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta name="twitter:image:src" content="https://mootparadox.com{{ image.url|raw }}" />
+  <meta itemprop="image" content="https://mootparadox.com{{ image.url|raw }}" />
+{% else %}
+  <meta property="og:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta name="twitter:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta name="twitter:image:src" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta itemprop="image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+{% endif %}
+{% endblock %}
+
 {% block hero %}
     {% if hero_image_name %}
         {% set hero_image = page.media[hero_image_name] %}
