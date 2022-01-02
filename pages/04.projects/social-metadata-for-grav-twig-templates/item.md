@@ -1,5 +1,5 @@
 ---
-title: 'Social Metadata for Grav Twig Template'
+title: 'Social Metadata for Grav Twig Templates'
 date: '02-01-2022 18:45'
 media_order: '00metadata.jpg,404-image.jpg'
 taxonomy:
