@@ -1,13 +1,14 @@
 ---
 title: 'Social Metadata for Grav Twig Template'
 date: '02-01-2022 18:45'
+media_order: '00metadata.jpg,404-image.jpg'
 ---
 
 As much as I dislike social media, if in the unlikely event somone ever wanted to *share* one of these posts, I'd like it to have an image and a description. Including some OpenGraph and Twitter metadata sounds like it ought to be sufficient.
 
 ===
 
-I took the pragmatic approach of finding an article that looked correct after being shared on Mastodon, the only platform I actively use, and then examining the source to see what else they had included. As it happens, it was a news post from [Nextcloud](https://nextcloud.com/blog/), but I think the syntax is pretty standard.
+I took the pragmatic approach of seeking out an article that looked correct after being shared on Mastodon (the only platform I actively use) and then examining the source to see what else they had included. As it happens, it was a news post from [Nextcloud](https://nextcloud.com/blog/), but I think the syntax is pretty standard.
 
 With that as a starting point, it requires a few minor adjustments to turn it into a Twig template.
 
@@ -65,3 +66,6 @@ And then determine which image to use:
 * If there's an image -> `https://example.com{{ image.url|raw }}`
 * Without an image -> `{{imgdefault}}`
 
+![404-image](404-image.jpg "404-image")
+
+For testing, this [OpenGraph Preview](https://www.opengraph.xyz) page proved useful, and lets you view the output as seen by multiple sites, from Facebook to Linkedin.
