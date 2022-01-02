@@ -20,16 +20,17 @@
   <meta name="twitter:description" content="{{ page.summary|striptags|trim|e }}" />
 <!-- Image data -->
 {% set image = page.media.images|first %}
+{% set imgdefault = "https://mootparadox.com/user/images/img-default.jpg" %}
 {% if image %}
   <meta property="og:image" content="https://mootparadox.com{{ image.url|raw }}" />
   <meta name="twitter:image" content="https://mootparadox.com{{ image.url|raw }}" />
   <meta name="twitter:image:src" content="https://mootparadox.com{{ image.url|raw }}" />
   <meta itemprop="image" content="https://mootparadox.com{{ image.url|raw }}" />
 {% else %}
-  <meta property="og:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
-  <meta name="twitter:image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
-  <meta name="twitter:image:src" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
-  <meta itemprop="image" content="https://mootparadox.com/user/pages/03.outdoors/saughy-hill-via-copper-snout/00coquetvalley.jpg" />
+  <meta property="og:image" content="{{imgdefault}}" />
+  <meta name="twitter:image" content="{{imgdefault}}" />
+  <meta name="twitter:image:src" content="{{imgdefault}}" />
+  <meta itemprop="image" content="{{imgdefault}}" />
 {% endif %}
 {% endblock %}
 

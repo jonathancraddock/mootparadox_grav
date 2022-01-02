@@ -37,6 +37,7 @@
     {{ assets.js()|raw }}
 {% endblock %}
 {% block metasocial %}
+{% set image = page.media.images|first %}
 <!-- Image -> https://mootparadox.com{{ image.url|raw }} -->
 {% endblock %}
 
