@@ -2,6 +2,18 @@
 title: 'Social Metadata for Grav Twig Template'
 date: '02-01-2022 18:45'
 media_order: '00metadata.jpg,404-image.jpg'
+taxonomy:
+    category:
+        - projects
+    tag:
+        - grav
+        - twig
+        - 'social media'
+        - metadata
+        - html
+        - tags
+    projects-cat:
+        - web
 ---
 
 As much as I dislike social media, if in the unlikely event somone ever wanted to *share* one of these posts, I'd like it to have an image and a description. Including some OpenGraph and Twitter metadata sounds like it ought to be sufficient.
