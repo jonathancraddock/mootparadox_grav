@@ -4,6 +4,7 @@ visible: false
 routes:
     aliases:
         - /404
+media_order: 404-image.jpg
 ---
 
 Probably not the page you're looking for... try the menu in the top navigation bar.
