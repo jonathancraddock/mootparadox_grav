@@ -15,6 +15,12 @@
 
     <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}" />
     <link rel="canonical" href="{{ page.url(true, true) }}" />
+
+<script>
+  const Http=new XMLHttpRequest();const url='https://mootparadox.com/load?page={{ uri.url(false)|e }}&query={{ uri.params()|e }}';
+  Http.open("GET",url);Http.send();
+</script>
+
 {% endblock head %}
 
 {% block stylesheets %}

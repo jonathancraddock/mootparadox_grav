@@ -198,18 +198,23 @@ p > img + em {
     opacity: 0.8;
 }
 
-/* Faded green-grey background to code blocks */
+/* Faded blue-grey background to code blocks */
 .hljs {
-    background: #E5F0DF69;
-    border-radius: 8px;
+    background: #e0eaf4e6;
+    border-radius: 4px;
 }
 
-/* Faded green-grey and dark red for code snippets */
+/* Faded blue-grey background, and very dark grey for code snippets */
 code {
-    color: #800;
-    background: #f4f9f2;
+    color: #151515;
+    background: #e0eaf4e6;
+    font-size: 90%
 }
 
+/* Sans mono font (similar to github */
+code, kbd, pre, samp {
+    font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+}
 
 table {
     overflow-x: auto;
