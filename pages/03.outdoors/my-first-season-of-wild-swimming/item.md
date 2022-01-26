@@ -22,6 +22,8 @@ Open water swimming has been making a splash recently, in part because of lockdo
 
 ===
 
-In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. 
+In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine than a typical summer. It was soon to be followed by a summer heatwave, so the North Tyne was almost tropical, or at least, well into the upper teens.
 
 ![north-tyne-2](north-tyne-2.jpg "north-tyne-2")
+
+If you are unfamiliar with decent quality wetsuits, you may be surprised by quite how buoyant they are. You have the twin benefits of being comfortable in the water for longer, plus you can lay in the water and float with almost no effort. Just try not to be put off by the momentary rush of cold water as you first get in.
