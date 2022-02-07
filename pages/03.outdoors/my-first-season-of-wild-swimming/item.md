@@ -18,7 +18,7 @@ taxonomy:
         - swimming
 ---
 
-Open water swimming has been making a splash recently, in part because of lockdown indoor pool closures, and also with increased awareness of the health benefits. There are roughly two camps which are best summarised as "you must be joking" and "evangelists". Having made this transition myself, I can empathise with both positions; even though the first group are wrong!
+Open water swimming has been making a splash recently, in part because of lockdown related pool closures, and also because of increased awareness of the health benefits. There's two camps and I'll call them "you must be joking" camp, and the "evangelists". Having made the transition I can empathise with both positions; even though the first lot are wrong!
 
 ===
 
