@@ -18,13 +18,13 @@ taxonomy:
         - swimming
 ---
 
-Open water swimming has been making a splash recently, in part because of lockdown related pool closures, but also there's an increased awareness of the health benefits. There's two camps and I'll call them "you must be joking" camp, and the "evangelists". Having made this transition personally, I can empathise with both parties; even though the first lot are wrong!
+Open water swimming has been making a splash in the last few years. Lockdown related pool closures may have been a spring-board, but there's also increasing awareness of the health benefits. You find two camps. The "you must be joking" camp, and the "evangelists". Having made this transition personally, I can empathise with both parties, even though the first lot are wrong!
 
 ===
 
 In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine hours than a typical summer. It was soon to be followed by a summer heatwave, so the North Tyne was almost tropical, or at least, well into the upper teens.
 
-You can expect to pay over £100 for a decent wetsuit, the Lotic floating around £150, but I was lucky and found it on sale for £125. Other *name* brands (and you might think of C-Skins, Zone3, Orca, and so on) are probably going to cost you a little more. But, as a confident swimmer, happily covering a couple of miles of freestyle in the pool, I had no complaints with my Lotic.
+You can expect to pay around £100 for a decent wetsuit, and the Lotic floats around £150, although I was lucky and found it on sale for £125. Other *name* brands (and you might think of C-Skins, Zone3, Orca) are probably going to cost you a little more. But, as a confident swimmer, happily covering a couple of miles of freestyle in the pool, I had no complaints with my Lotic. My only tip would be, check it's a "swimming" wetsuit, as wetsuits for sailing, kayaking and surfing, may have a different balance, or a different range of movement through the arms, and so on.
 
 ![north-tyne-2](north-tyne-2.jpg "north-tyne-2")
 *First dip*
