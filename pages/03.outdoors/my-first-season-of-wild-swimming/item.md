@@ -39,13 +39,13 @@ Which seems like a neat segue into tow floats and these serve multiple purposes 
 
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
 
-Once you've decided to take the plunge, you'll need to find some water.
+Once you've decided to take the plunge, you'll need to find some water. 
 
 * https://www.swimming.org/openwater/open-water-swimming-venues/  
 ^- *searchable list of organised open water swimming venues*
 
 * https://www.wildswimming.co.uk/access-and-law/  
-^- *brief intro a access rights, and highlights specific problems you may face in England vs the rest of the civilised world!*
+^- *brief intro a access rights, and highlights some specific problems you may face in England vs the civilised world!*
 
 * https://www.gov.uk/government/publications/swim-healthy-leaflet/swim-healthy  
 ^- *safety information from Public Health England, including a map of bathing water quality*
