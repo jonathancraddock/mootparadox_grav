@@ -1,7 +1,7 @@
 ---
 title: 'My First Season of Wild Swimming'
 published: false
-media_order: '00harbottle.jpg,north-tyne-2.jpg,newbiggin-breakwater.jpg,chollerford-sunset.jpg,harbottle-lake.jpg,north-tyne-1.jpg,north-tyne-3.jpg,upper-coquetdale-book.jpg'
+media_order: '00harbottle.jpg,north-tyne-2.jpg,newbiggin-breakwater.jpg,north-tyne-1.jpg,north-tyne-3.jpg,harbottle-lake.jpg,upper-coquetdale-book.jpg,chollerford-sunset.jpg'
 taxonomy:
     category:
         - swimming
@@ -53,3 +53,24 @@ Once you've decided to take the plunge, you'll need to find some water and it wi
 * https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming  
 ^- *swimming in the Lake District, safety tips and lakes that permit swimming*
 
+Abc... (without wetsuit)
+
+![north-tyne-1](north-tyne-1.jpg "north-tyne-1")
+
+Abc... (open water)
+
+![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
+
+Abc... (walk and swim)
+
+![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
+
+Abc... (history)
+
+![upper-coquetdale-book](upper-coquetdale-book.jpg "upper-coquetdale-book")
+
+Abc... (final thoughts / sunset)
+
+![chollerford-sunset](chollerford-sunset.jpg "chollerford-sunset")
+
+Summary...
