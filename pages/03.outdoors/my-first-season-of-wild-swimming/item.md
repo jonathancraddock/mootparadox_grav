@@ -55,10 +55,6 @@ Once you've decided to take the plunge, you'll need to find some water and it wi
 * https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming  
 ^- *swimming in the Lake District, safety tips, and lakes that permit swimming*
 
-Abc... (without wetsuit)
-
-![north-tyne-1](north-tyne-1.jpg "north-tyne-1")
-
 Abc... (open water)
 
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
@@ -77,5 +73,6 @@ Abc... (final thoughts / sunset)
 
 After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll summarise the kit I've found useful.
 
-* Try Speedo Endurance+ costumes; my preference is for their aqua-shorts, but they're available in various cuts, men's and women's. The fabric is tough and snug fitting, and if you normally swim in baggy swim shorts you won't appreciate how horrific loose fabric shorts are until you've swum in proper trunks. (You'll never go back to them.)
+* Try Speedo Endurance+ costumes; my preference is for aqua-shorts, but they're available in various cuts, men's and women's. The fabric is tough and snug fitting, and if you normally swim in baggy swim shorts you won't appreciate how horrific loose fabric shorts are until you've swum in proper trunks. (You'll never go back to them.)
+* Find a bright coloured silicone hat that covers your ears!
 * 
