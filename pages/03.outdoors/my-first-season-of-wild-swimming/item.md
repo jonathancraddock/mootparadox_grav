@@ -75,4 +75,4 @@ After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll sum
 
 * Try Speedo Endurance+ costumes; my preference is for aqua-shorts, but they're available in various cuts, men's and women's. The fabric is tough and snug fitting, and if you normally swim in baggy swim shorts you won't appreciate how horrific loose fabric shorts are until you've swum in proper trunks. (You'll never go back to them.)
 * Find a bright coloured silicone hat that covers your ears!
-* 
+* If you favour modesty, a microfibre change robe is excellent. Don't worry about sizes - just buy XL - more space the better. 
