@@ -24,7 +24,7 @@ Open water swimming has been making a splash in the last few years. Lockdown rel
 
 In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine hours than a typical summer. It was soon to be followed by a summer heatwave, so the North Tyne was almost tropical, or at least, well into the upper teens.
 
-You can expect to pay at least £100 for a decent wetsuit, and the Lotic floats around £150, although I was lucky and found it on sale for £125. Other *name* brands (you might think Roka, C-Skins, Zone3, Orca) are probably going to cost somewhat more. But, as a confident (but non-racing) swimmer, happy to embark on a steady couple of miles freestyle, I had no complaints with my Lotic. My only tip would be, check it's a *swimming* wetsuit, as wetsuits for sailing, kayaking, surfing, and other sports, will have a different balance or a different range of mobility through the shoulders, and so on.
+You can expect to pay at least £100 for a decent wetsuit, and the Lotic floats around £150, although I was lucky and found it on sale for £125. Other *name* brands (you might think Roka, C-Skins, Zone3, Orca) are probably going to cost somewhat more. But, as a confident (but non-racing) swimmer happy to embark on a steady couple of miles freestyle, I had no complaints with my Lotic. My only tip would be, ensure it's a *swimming* wetsuit, as wetsuits for sailing, kayaking, surfing, and other sports, will have a different balance or a different range of mobility through the shoulders, and so on.
 
 ![north-tyne-2](north-tyne-2.jpg "north-tyne-2")
 *First dip*
@@ -35,11 +35,13 @@ On my first swim I borrowed a swim hat (yellow) and quickly bought my own (blue)
 
 ![north-tyne-1](north-tyne-1.jpg "north-tyne-1")
 
-And that seems like a neat segue into tow floats which serve multiple purposes too; visibility being just one. I chose the "Guardian" by [Ulu Drybags](https://uludrybags.com/), but there are plenty to choose from. This model has several nice features, including high-visibility reflecting panels, an emergency whistle, convenient grab-handles, and it's a decent size. It works as a drybag, but it's almost impossible to avoid some dampness, particularly if you need to get something out of it while you're still in the water; your GoPro camera, for example. Being a cautious chap, I double-up by putting my mobile phone, car keys and wallet, inside a second drybag, and so far so good.
+And that seems like a neat segue into tow floats which serve multiple purposes too; visibility being just one. I chose the "Guardian" by [Ulu Drybags](https://uludrybags.com/), but there's plenty of choice. This model has several nice features, including high-visibility reflecting panels, an emergency whistle, convenient grab-handles, and it's a decent size. It works as a drybag, but it's almost impossible to avoid some dampness, particularly if you need to get something out of it while you're still in the water; your GoPro camera, for example. Being a cautious chap, I double-up by putting my mobile phone, car keys and wallet, inside a second drybag, and so far so good.
+
+Space inside is fairly limited, depending on how much you inflate the upper and lower compartments. There's some advantages to this. If you stuff your small dry-bag of valuables to the bottom of the float and then inflate it, they won't be coming back out until you deflate it.
 
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
 
-Once you've decided to take the plunge, you'll need to find some water and it will surprise nobody that England and Wales trail behind Scotland and Europe in terms of public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns might be ok, but not if it's a reservoir - unless you're in Scotland. Confused? Finding some swimming friends and sharing information is ideal, but there are some additional resources below. 
+Once you've decided to take the plunge, you'll need to find some water and it will surprise nobody that England and Wales trail behind Scotland and Europe in terms of public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok, but not if it's a reservoir - unless you're in Scotland. Confused? Finding some swimming friends and sharing information is ideal, but there are some additional resources below. 
 
 * https://www.swimming.org/openwater/open-water-swimming-venues/  
 ^- *searchable list of organised open water swimming venues*
@@ -51,7 +53,7 @@ Once you've decided to take the plunge, you'll need to find some water and it wi
 ^- *safety information from Public Health England, including a map of bathing water quality*
 
 * https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming  
-^- *swimming in the Lake District, safety tips and lakes that permit swimming*
+^- *swimming in the Lake District, safety tips, and lakes that permit swimming*
 
 Abc... (without wetsuit)
 
@@ -73,4 +75,7 @@ Abc... (final thoughts / sunset)
 
 ![chollerford-sunset](chollerford-sunset.jpg "chollerford-sunset")
 
-Summary...
+After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll summarise the kit I've found useful.
+
+* Try Speedo Endurance+ costumes; my preference is for their aqua-shorts, but they're available in various cuts, men's and women's. The fabric is tough and snug fitting, and if you normally swim in baggy swim shorts you won't appreciate how horrific loose fabric shorts are until you've swum in proper trunks. (You'll never go back to them.)
+* 
