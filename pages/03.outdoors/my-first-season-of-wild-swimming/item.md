@@ -73,8 +73,10 @@ Abc... (final thoughts / sunset)
 
 After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll summarise the kit I've found useful.
 
-* Try Speedo Endurance+ costumes; my preference is for aqua-shorts, but they're available in various cuts, men's and women's. The fabric is tough and snug fitting, and if you normally swim in baggy swim shorts you won't appreciate quite how horrific loose fabric shorts are until you've swum in proper trunks.
+* Try Speedo Endurance+ or similar costumes; personally I like their aqua-shorts, but they're available in various cuts, both men's and women's. The fabric is tougher than other trunks and snug fitting. If you normally swim in baggy swim shorts you won't appreciate quite how horrific loose fabric shorts are until you've swum in decent trunks.
 * Find a bright coloured silicone hat that covers your ears.
-* Consider a tow-float. They're useful, and mandatory at many organised events and venues. Think about storage vs compact size.
-* I've found microfibre changing robe to be excellent. Don't worry about sizes - just buy XL - the more space the better. Compared to a regular towel they pack very small and dry faster. Mine is a "Fit-Flip" which sell on Amazon for around £20 and have a press-stud loop that makes it easy to hang on a tree branch.
-* 
+* Consider a tow-float. They're reassuring, and mandatory at many organised events and venues. Weigh up whether you want more storage vs a lighter, compact model.
+* I've found microfibre changing robes to be excellent. Don't worry about sizes - just buy XL - the more space the better. Compared to a regular towel they pack very small and dry faster. Mine is a "Fit-Flip" which sell on Amazon for around £25 and has a press-stud loop, which can be used to hang it from a tree branch.
+* If you have a short walk to your swim spot, [Dry Robes](https://dryrobe.com/), or a half-priced Alpkit version like the [Haven](https://alpkit.com/products/haven-changing-robe), are super cosy after a cold swim.
+* If you're swimming during a hike or other outdoorsy activity, I've found a thermal base-layer combined with a fleece and down jacket are great too - just dry off quickly and layer up.
+* Hot drink in a thermos, and some chocolate... no further explanation necessary! ;-)
