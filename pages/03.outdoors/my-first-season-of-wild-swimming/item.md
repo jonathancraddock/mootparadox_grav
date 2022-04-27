@@ -1,7 +1,7 @@
 ---
 title: 'My First Season of Wild Swimming'
 published: false
-media_order: '00harbottle.jpg,north-tyne-2.jpg,newbiggin-breakwater.jpg,north-tyne-1.jpg,north-tyne-3.jpg,harbottle-lake.jpg,upper-coquetdale-book.jpg,chollerford-sunset.jpg'
+media_order: '00harbottle.jpg,north-tyne-2.jpg,newbiggin-breakwater.jpg,north-tyne-1.jpg,harbottle-lake.jpg,north-tyne-3.jpg,upper-coquetdale-book.jpg,chollerford-sunset.jpg'
 taxonomy:
     category:
         - swimming
@@ -41,7 +41,7 @@ Space inside is fairly limited, depending on how much you inflate the upper and 
 
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
 
-Once you've decided to take the plunge, you'll need to find some water and it will surprise nobody that England and Wales trail behind Scotland and Europe in terms of public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok, but not if it's a reservoir - unless you're in Scotland. Confused? Finding some swimming friends and sharing information is ideal, but there are some additional resources below. 
+Once you've decided to take the plunge, you'll need to find some water and it will surprise nobody that England and Wales trail behind Scotland and Europe in terms of public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok, but not if it's a reservoir - unless you're in Scotland. Confused? Finding some swimming friends and sharing information is ideal, but there are some additional resources included below. 
 
 * https://www.swimming.org/openwater/open-water-swimming-venues/  
 ^- *searchable list of organised open water swimming venues*
@@ -55,13 +55,21 @@ Once you've decided to take the plunge, you'll need to find some water and it wi
 * https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming  
 ^- *swimming in the Lake District, safety tips, and lakes that permit swimming*
 
-Abc... (open water)
+I began in a wetsuit, and for longer swims I would absolutely use it, but having apprehensively dipped my toe into the world of wild swimming, I can confirm the buzz!
+
+Communing with nature in picturesque surroundings, feeling the water's chill embrace, pushing out across the shadowy unknown depths, observing the wide-eyed amazement of passing anoraks who silently wonder what those crazy nutters are up to!
+
+![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
+
+After twelve months of declining all invitations to lose the wetsuit, in the summer of 2021 I arrived back to river bank, thoroughly warmed up after a couple of kilometres of river swimming, and decided I should probably give this a go. There were three guys out in mid-stream, not really swimming, just chilling out. I didn't know them, but the one with the most impressive beard, who may have been their leader, offered me some advice that I've suck with ever since.
+
+"Wade into the water, waist deep, splash water on your face, neck and chest, then exhale as you lean forward into the water."
+
+
 
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
 
-Abc... (walk and swim)
 
-![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
 
 Abc... (history)
 
@@ -71,7 +79,7 @@ Abc... (final thoughts / sunset)
 
 ![chollerford-sunset](chollerford-sunset.jpg "chollerford-sunset")
 
-After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll summarise the kit I've found useful.
+After two seasons of outdoor swimming, one in a wetsuit and one without, I'll summarise the kit I've found useful.
 
 * Try Speedo Endurance+ or similar costumes; personally I like their aqua-shorts, but they're available in various cuts, both men's and women's. The fabric is tougher than other trunks and snug fitting. If you normally swim in baggy swim shorts you won't appreciate quite how horrific loose fabric shorts are until you've swum in decent trunks.
 * Buy a wetsuit. Cold water swimming is amazing and you should try it, but if you live in the north of England and enjoy longer swims, realistically you are going to be a whole lot more comfortable in a wetsuit.
@@ -79,5 +87,5 @@ After two seasons of outdoor swimming, one in a wetsuit and one wthout, I'll sum
 * Consider a tow-float. They're reassuring, and mandatory at many organised events and venues. Weigh up whether you want more storage vs a lighter, compact model.
 * I've found microfibre changing robes to be excellent. Don't worry about sizes - just buy XL - the more space the better. Compared to a regular towel they pack very small and dry faster. Mine is a "Fit-Flip" which sell on Amazon for around £25, and they have a press-stud loop which can be used to hang it from a tree branch.
 * If it's a short walk to your swim spot, [Dry Robes](https://dryrobe.com/), or a half-priced Alpkit version like the [Haven](https://alpkit.com/products/haven-changing-robe), are super cosy after a cold swim.
-* If you're swimming during a hike or other outdoorsy activity and need to travel light, I've found a thermal base-layer combined with a fleece and down jacket are great too - just dry off quickly and layer up.
+* If you're swimming during a hike or other outdoorsy activity and need to travel light, I've found a thermal base-layer (I bought a set at GoOutdoors for £10 and they serve this purpose fine) combined with a fleece and down jacket are great too - just dry off quickly and layer up.
 * Hot drink in a thermos, and a chocolate bar... no further explanation necessary! ;-)
