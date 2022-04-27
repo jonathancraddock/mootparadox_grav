@@ -63,7 +63,7 @@ Communing with nature in picturesque surroundings, feeling the water's chill emb
 
 After twelve months of declining all invitations to lose the wetsuit, in the summer of 2021 I arrived back to river bank, thoroughly warmed up after a couple of kilometres of river swimming, and decided I should probably give this a go. There were three guys out in mid-stream, not really swimming, just chilling out. I didn't know them, but the one with the most impressive beard, who may have been their leader, offered me some advice that I've suck with ever since.
 
-"Wade into the water, waist deep, splash water on your face, neck and chest, then exhale as you lean forward into the water."
+"Wade into the water until you're waist deep. Splash water on your face, neck and chest, then exhale as you lean forward into the water."
 
 
 
