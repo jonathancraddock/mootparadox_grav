@@ -61,15 +61,15 @@ Communing with nature in picturesque surroundings, feeling the water's chill emb
 
 ![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
 
-After twelve months of declining all invitations to lose the wetsuit, in the summer of 2021 I arrived back to river bank, thoroughly warmed up after a couple of kilometres of river swimming, and decided I should probably give this a go. There were three guys out in mid-stream, not really swimming, just chilling out. I didn't know them, but the one with the most impressive beard, who may have been their leader, offered me some advice that I've suck with ever since.
+I spent twelve months declining all invitations to lose the wetsuit. Then, in the summer of 2021, I arrived back to river bank. Thoroughly warmed up after a couple of kilometres of river swimming, I decided I should probably give this a go. There were three guys out in mid-stream, not really swimming, just chilling out. I didn't know them, but the one with the most impressive beard (who may have been their leader!) offered me some advice that I've suck with ever since.
 
 "Wade into the water until you're waist deep. Splash water on your face, neck and chest, then exhale as you lean forward into the water."
 
-
+It's sound advice, and I found it suits me to slow that down a little. Go waist deep, do the face and neck splashing. Then, repeat. Get your arms in the water. Splash your shoulders. That extra 15-20 seconds of acclimatisation, at least for me, seems takes the chill off the entry.
 
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
 
-
+You'll need to accept that it's going to feel a little bit chilly at first. The thing is, you'll soon learn to embrace that chill and then you start to enjoy the buzz.
 
 Abc... (history)
 
