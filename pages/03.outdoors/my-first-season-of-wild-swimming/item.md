@@ -90,7 +90,7 @@ Step away from the pool and give it a try. Combine it with a hike and get yourse
 
 After two full seasons of outdoor swimming (one in a wetsuit and one without) and now well into the third (so far, without) I'll summarise the kit I've found useful.
 
-* Try Speedo Endurance+ or similar costumes; personally I like their aqua-shorts, but they're available in various cuts, both men's and women's. The fabric is tougher than other trunks and snug fitting. If you normally swim in baggy swim shorts you won't appreciate quite how horrific loose fabric shorts are until you've swum in decent trunks.
+* Try Speedo Endurance+ or similar costumes; personally I like their aqua-shorts, but they're available in various cuts, both men's and women's. The fabric is tougher than other trunks and snug fitting. If you normally swim in baggy swim shorts you won't appreciate how horrific loose fabric shorts are until you've swum in decent trunks.
 * Buy a wetsuit. Cold water swimming is amazing and you should try it, but if you live in the north of England and enjoy longer swims, realistically you are going to be a whole lot more comfortable in a wetsuit.
 * Find a bright coloured silicone hat that covers your ears.
 * Consider a tow-float. They're reassuring, and mandatory at many organised events and venues. Weigh up whether you want more storage vs a lighter, compact model.
