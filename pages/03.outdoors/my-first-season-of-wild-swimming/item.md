@@ -65,21 +65,25 @@ I spent twelve months declining all invitations to lose the wetsuit. Then, in th
 
 "Wade into the water until you're waist deep. Splash water on your face, neck and chest, then exhale as you lean forward into the water."
 
-It's sound advice, and I found it suits me to slow that down a little. Go waist deep, do the face and neck splashing. Then, repeat. Get your arms in the water. Splash your shoulders. That extra 15-20 seconds of acclimatisation, at least for me, seems takes the chill off the entry.
+It's sound advice that I've been able to pass onto a couple of other since. Go waist deep, do the face and neck splashing. That part's easy, even when it's chilly. I've been adding some additional splashing into the mix. Just those few seconds of acclimatisation, at least for me, seems to ease the entry into the water.
+
+Exhaling is advice I've seen many times since. You don't want a surprised gasp from leaping into the water too quick.
+
+There's a rule of thumb that suggests one minute per degree. It's a useful guide, but treat it as a starting point - not a target. With temperatures in the mid teens you can stretch it out a bit. In colder temperatures, keeping an eye on your watch may be wise, because the cold can creep up fast.
 
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
 
-You'll need to accept that it's going to feel a little bit chilly at first. The thing is, you'll soon learn to embrace that chill and then you start to enjoy the buzz.
+You'll need to accept that it's not like getting into a swimming pool. The thing is, you'll soon learn to embrace that chill, and then start to enjoy the buzz. After a few dips, you'll be forced to admit that all the nutcases who were banging on about wild swimming were actually onto something!
 
-Abc... (history)
+> The water is always pure and very cold -- so cold that it was said to be certain death
 
 ![upper-coquetdale-book](upper-coquetdale-book.jpg "upper-coquetdale-book")
 
-Abc... (final thoughts / sunset)
+Step away from the pool and give it a try. Combine it with a hike and get yourself out into some truly wild spots.
 
 ![chollerford-sunset](chollerford-sunset.jpg "chollerford-sunset")
 
-After two seasons of outdoor swimming, one in a wetsuit and one without, I'll summarise the kit I've found useful.
+After two full seasons of outdoor swimming (one in a wetsuit and one without) and now well into the third (so far, without) I'll summarise the kit I've found useful.
 
 * Try Speedo Endurance+ or similar costumes; personally I like their aqua-shorts, but they're available in various cuts, both men's and women's. The fabric is tougher than other trunks and snug fitting. If you normally swim in baggy swim shorts you won't appreciate quite how horrific loose fabric shorts are until you've swum in decent trunks.
 * Buy a wetsuit. Cold water swimming is amazing and you should try it, but if you live in the north of England and enjoy longer swims, realistically you are going to be a whole lot more comfortable in a wetsuit.
