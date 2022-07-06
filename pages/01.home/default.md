@@ -23,7 +23,7 @@ simplesearch:
 
 mootParadox is my personal website, updated on very rare occasions. It's a miscellany of outdoors and techie ramblings.
 
-!!! The site is built with [Grav](), a modular flat-file CMS. If you want to find out more, take a look at [Learn Grav](http://learn.getgrav.org).
+!!! The site is built with [Grav](https://getgrav.org/), an open source flat-file CMS. I liked its modularity, only install what you need, and the templates use [Twig](https://twig.symfony.com/). If you want to find out more, take a look at [Learn Grav](http://learn.getgrav.org).
 
 ### What's on the site?
 
