@@ -81,6 +81,8 @@ You'll need to accept that it's not like getting into a swimming pool. The thing
 
 > The water is always pure and very cold -- so cold that it was said to be certain death to attempt to cross. We, however, know of several who have performed the feat and are still alive to tell the tale."
 
+Temperatures in the Tyne at Hexham has been 8 degrees the week before, and Horbottle Lough in mid November must have been the same, if not colder. I'm no hardened ice-man, but with a 7 minute countdown, and a cup of tea waiting, there were no ill effects - and a whole lot of exhilaration!
+
 ![upper-coquetdale-book](upper-coquetdale-book.jpg "upper-coquetdale-book")
 
 Step away from the pool and give it a try. Combine it with a hike and get yourself out into some truly wild spots.
