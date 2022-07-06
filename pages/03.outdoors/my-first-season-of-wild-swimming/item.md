@@ -77,7 +77,7 @@ There's a rule of thumb that suggests one minute per degree. It's a useful guide
 
 You'll need to accept that outdoor swimming is not like getting into a swimming pool. The thing is, you'll soon learn to embrace that chill, and then start to enjoy the buzz. After a few dips, you'll be forced to admit that all the nutcases who were banging on about wild swimming were actually onto something!
 
-> The water is always pure and very cold -- so cold that it was said to be certain death to attempt to cross. We, however, know of several who have performed the feat and are still alive to tell the tale."
+> The water is always pure and very cold -- so cold that it was said to be certain death to attempt to swim across. We, however, know of several who have performed the feat and are still alive to tell the tale."
 
 Temperatures in the Tyne at Hexham has been 8 degrees the week before, and Harbottle Lough in mid November would have been similar, perhaps colder. I'm no hardened ice-man, but with a 7 minute watch countdown, and a hot cup of tea waiting, there were no ill effects - and a whole lot of exhilarating fun!
 
