@@ -21,15 +21,15 @@ simplesearch:
 
 ### Info
 
-What happened to the old site? For the last couple of weeks the answer has been, "*The old version of this site is temporarily offline while I have a bit of an experiment with Grav CMS*". The updated answer is that [Grav](https://getgrav.org/) looks great and I'm sticking with it! :-)
+mootParadox is my personal website, updated on very rare occasions. It's a miscellany of outdoors and techie ramblings.
 
-!!! You can learn about **Grav** at their [Learn Grav](http://learn.getgrav.org) site.
+!!! The site is built with [Grav](), a modular flat-file CMS. If you want to find out more, take a look at [Learn Grav](http://learn.getgrav.org).
 
-### What Next?
+### What's on the site?
 
-I'm bringing the hiking blog posts across from my old site, with [improved maps](/projects/simple-self-hosted-gpx-map) and better versions of the photographs. Follow these links to blog posts related to [Outdoors](/outdoors), and some [planned](/outdoors/tag:planned) Wainwright-bagging routes.
+You'll find some hiking blog posts from my old site, with [improved maps](/projects/simple-self-hosted-gpx-map) and better versions of the photographs. Follow these links to blog posts related to [Outdoors](/outdoors), and some additional [planned](/outdoors/tag:planned) Wainwright-bagging routes.
 
-There may also be a few [Projects](/projects), probably with a techie twist.
+There are some [Projects](/projects), most have some sort of techie twist.
 
 ![](/outdoors/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
 *Red Tarn with Swirral Edge to the left.*
