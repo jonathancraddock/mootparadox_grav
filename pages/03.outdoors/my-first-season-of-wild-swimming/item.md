@@ -34,12 +34,14 @@ If you have never swum in a wetsuit before, you're probably going to be surprise
 On my first swim I borrowed a swim hat (yellow) and quickly bought my own (blue). It's worth it. Not only does it help keep your head slightly warmer but also it's great for your visibility in the water. Get one that covers your ears. The water still gets in, but it cuts out the discomfort of cold wind into damp ears.
 
 ![north-tyne-1](north-tyne-1.jpg "north-tyne-1")
+*Resting on an ULU Tow Float in the North Tyne*
 
 And that seems like a neat segue into tow floats which serve multiple purposes too; visibility being just one. I chose the "Guardian" by [Ulu Drybags](https://uludrybags.com/), but there's plenty of choice. This model has several nice features, including high-visibility reflecting panels, an emergency whistle, convenient grab-handles, and it's a decent size. It works as a drybag, but it's almost impossible to avoid some dampness, particularly if you need to get something out of it while you're still in the water; your GoPro camera, for example. Being a cautious chap, I double-up by putting my mobile phone, car keys and wallet, inside a second drybag, and so far so good.
 
 Space inside is fairly limited, depending on how much you inflate the upper and lower compartments. There's some advantages to this. If you stuff your small dry-bag of valuables to the bottom of the float and then inflate it, they won't be coming back out until you deflate it.
 
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
+*Newbiggin Breakwater with "Couple" statue*
 
 Once you've decided to take the plunge, you'll need to find some water and it will surprise nobody that England and Wales trail behind Scotland and Europe in terms of public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok, but not if it's a reservoir - unless you're in Scotland. Confused? Finding some swimming friends and sharing information is ideal, but there are some additional resources included below. 
 
@@ -60,6 +62,7 @@ I began in a wetsuit, and for longer swims I would absolutely use it, but having
 Communing with nature in picturesque surroundings, feeling the water's chill embrace, pushing out across the shadowy unknown depths, observing the wide-eyed amazement of passing anoraks who silently wonder what those crazy nutters are up to!
 
 ![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
+*Harbottle Lough in Northumberland*
 
 I spent twelve months declining all invitations to lose the wetsuit. Then, in the summer of 2021, I arrived back to river bank. Thoroughly warmed up after a couple of kilometres of river swimming, I decided I should probably give this a go. There were three guys out in mid-stream, not really swimming, just chilling out. I didn't know them, but the one with the most impressive beard (who may have been their leader!) offered me some advice that I've suck with ever since.
 
@@ -72,16 +75,18 @@ Exhaling is advice I've seen many times since. You don't want a surprised gasp f
 There's a rule of thumb that suggests one minute per degree. It's a useful guide, but treat it as a starting point - not a target. With temperatures in the mid teens you can stretch it out a bit. In colder temperatures, keeping an eye on your watch may be wise, because the cold can creep up fast.
 
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
+*Upstream, in the North Tyne*
 
 You'll need to accept that it's not like getting into a swimming pool. The thing is, you'll soon learn to embrace that chill, and then start to enjoy the buzz. After a few dips, you'll be forced to admit that all the nutcases who were banging on about wild swimming were actually onto something!
 
-> The water is always pure and very cold -- so cold that it was said to be certain death
+> The water is always pure and very cold -- so cold that it was said to be certain death to attempt to cross. We, however, know of several who have performed the feat and are still alive to tell the tale."
 
 ![upper-coquetdale-book](upper-coquetdale-book.jpg "upper-coquetdale-book")
 
 Step away from the pool and give it a try. Combine it with a hike and get yourself out into some truly wild spots.
 
 ![chollerford-sunset](chollerford-sunset.jpg "chollerford-sunset")
+*Swimming off into the sunset*
 
 After two full seasons of outdoor swimming (one in a wetsuit and one without) and now well into the third (so far, without) I'll summarise the kit I've found useful.
 
