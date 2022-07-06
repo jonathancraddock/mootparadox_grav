@@ -1,6 +1,6 @@
 ---
 title: 'My First Season of Wild Swimming'
-published: false
+published: true
 media_order: '00harbottle.jpg,north-tyne-2.jpg,newbiggin-breakwater.jpg,north-tyne-1.jpg,harbottle-lake.jpg,north-tyne-3.jpg,upper-coquetdale-book.jpg,chollerford-sunset.jpg'
 taxonomy:
     category:
