@@ -29,7 +29,7 @@ mootParadox is my personal website, updated on very rare occasions. It's a misce
 
 You'll find some hiking blog posts from my old site, with [improved maps](/projects/simple-self-hosted-gpx-map) and better versions of the photographs. Follow these links to blog posts related to [Outdoors](/outdoors), and some additional [planned](/outdoors/tag:planned) Wainwright-bagging routes.
 
-There are some [Projects](/projects), most have some sort of techie twist.
+There are some [Projects](/projects), most have a techie angle.
 
 ![](/outdoors/catstycam-to-sheffield-pike/swirral-edge-and-red-tarn.jpg)
 *Red Tarn with Swirral Edge to the left.*
