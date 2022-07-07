@@ -6,14 +6,14 @@ taxonomy:
     category:
         - swimming
     tag:
+        - 'open water'
         - goggles
         - anti-fog
-        - 'open water'
     outdoors-cat:
         - swimming
 ---
 
-I began swimming outdoors in June 2020. To put this in context, summer began well and the water temperatures in the North Tyne were around 15 degrees. But, when your goggles steam up after less than 30 seconds, it does put rather a dampener on your swim!
+I began swimming outdoors in May 2020. To put this in context, summer began well and the water temperatures in the North Tyne were around 15 degrees. But, when your goggles steam up after less than 30 seconds, it does put rather a dampener on your swim!
 
 ===
 
@@ -34,6 +34,8 @@ At home, packing my wetsuit before heading to the river (about 25 minutes drive)
 I was very careful not to touch the lens after that, packed them, and just before getting into the water I repeated the process, one spary each, rub it in, rinse in the river. After my experiences a few days earlier I was ready to be disappointed, but it was literally amazing. ***No steaming up at all - they stayed totally clear!***
 
 This is the North Tyne, reasonably warm conditions, and they stayed clear for about an hour. Indoor pools are currently all closed for social distancing reasons, so I can't comment on how this would perform in a heated pool.
+
+> Update, July 2022: Pool swimming is pretty much back to normal and I've been embarking on some longer swims recently. In a 6km swim, around 2h 10m, I found a re-spray after the 1st hour was useful. I could still see, but the fog was returning.
 
 ### Summary
 
