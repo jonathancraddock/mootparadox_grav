@@ -43,7 +43,7 @@ There's limited space, depending on how much you inflate its two compartments. T
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
 *Newbiggin breakwater with "Couple" statue, July 2021.*
 
-Once you've decided to take the plunge, you'll need to find some water. It's no surprise that England trails behind Scotland and Europe for public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok too, but not if it's a reservoir - unless you're in Scotland. Confused yet? Finding some local swimming friends and sharing information is ideal. If that's not an option but there are some more resources below. 
+Once you've decided to take the plunge, you'll need to find some water. It's no surprise that England trails behind Scotland and Europe for public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok too, but not if it's a reservoir - unless you're in Scotland. Confused yet? Finding some local swimming friends and sharing information is ideal. If that's not an option, there are some more resources below.
 
 * [swimming.org/openwater/open-water-swimming-venues](https://www.swimming.org/openwater/open-water-swimming-venues/)  
 ^- *searchable list of organised open water swimming venues*
