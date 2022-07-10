@@ -24,7 +24,7 @@ Open water swimming has been making a splash in the last few years. Lockdown rel
 
 In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine hours than a typical summer. It was soon followed by a summer heatwave. The North Tyne was almost tropical, or at least, well into the upper teens.
 
-You can expect to pay at least £100 for a decent wetsuit, and the Lotic floats-in around £150. I was lucky and found it on sale for £125. Other *name* brands (and you might think Roka, C-Skins, Zone3, Orca) will cost a bit more. As a confident (non-racing) swimmer, I have no complaints with my Lotic. My only tip would be, choose a *swimming* wetsuit. One's for sailing, kayaking, surfing, and other sports, have a different balance. Swimming suits give you a better range of mobility through the shoulders.
+You can expect to pay at least £100 for a decent wetsuit, and the Lotic floats-in around £150. I was lucky and found it on sale for £125. Other *name* brands (and you might think Roka, C-Skins, Zone3, Orca) will cost a bit more. As a confident (non-racing) swimmer, I have no complaints with my Lotic. My only tip would be, choose a *swimming* wetsuit. Ones for sailing, kayaking, surfing, and other sports, have a different balance. Swimming suits give you a better range of mobility through the shoulders.
 
 ![north-tyne-2](north-tyne-2.jpg "north-tyne-2")
 *First ever dip in the outdoors, May 2020.*
