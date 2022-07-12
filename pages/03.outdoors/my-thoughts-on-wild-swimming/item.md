@@ -18,32 +18,32 @@ taxonomy:
         - swimming
 ---
 
-Open water swimming has been making a splash in the last few years. Lockdown related pool closures created the spring-board. After that, there has been an increasing awareness of the health benefits. You'll find two camps. The "you must be joking" camp, and the "evangelists". Having made this transition, I can empathise with both parties, but the first lot have got it wrong!
+Open water swimming has been making a splash in the last few years. Lockdown related pool closures created a spring-board. After that, there came an increased awareness of the health benefits. You'll find two camps. The "you must be joking" camp, and the "evangelists". Having made this transition myself, I can empathise with both parties. But, the first lot have got it wrong!
 
 ===
 
-In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine hours than a typical summer. It was soon followed by a summer heatwave. The North Tyne was almost tropical, or at least, well into the upper teens.
+In May of 2020, with swimming pools closed and missing my weekly fix, I bought an [Alpkit Lotic](https://alpkit.com/products/lotic-mens) wetsuit and embarked on my first outdoor swim. The UK spring of 2020 was the fifth warmest on record, with more sunshine hours than a typical summer. It was followed by a summer heatwave. The North Tyne was almost tropical, or at least, well into the upper teens.
 
 You can expect to pay at least £100 for a decent wetsuit, and the Lotic floats-in around £150. I was lucky and found it on sale for £125. Other *name* brands (and you might think Roka, C-Skins, Zone3, Orca) will cost a bit more. As a confident (non-racing) swimmer, I have no complaints with my Lotic. My only tip would be, choose a *swimming* wetsuit. Ones for sailing, kayaking, surfing, and other sports, have a different balance. Swimming suits give you a better range of mobility through the shoulders.
 
 ![north-tyne-2](north-tyne-2.jpg "north-tyne-2")
 *First ever dip in the outdoors, May 2020.*
 
-If you have never swum in a wetsuit before, their buoyancy will surprise you. You can stay comfortable in the water for longer, or you can lay in the water and float with almost no effort. But, remember that wetsuits work by trapping a layer of water against your skin. There's a rush of cold water when you first get in. It comes in through the zip in the small of your back. ("Oooooh!") And when you start swimming more water comes in around your neck. ("Eeeeep!") Get moving - you'll be fine!
+If you have never swum in a wetsuit before, their buoyancy will surprise you. You can stay comfortable in the water for longer, and you can lay in the water and float with almost no effort. But, remember that wetsuits work by trapping a layer of water against your skin. Be prepared for the rush of cold water when you first get in. It comes in through the zip in the small of your back. ("Oooooh!") And when you start swimming more water comes in around your neck. ("Eeeeep!") Get moving - you'll be fine!
 
 On my first swim I borrowed a swim hat (yellow) and then bought my own (blue). It's worth it. Not only does it help keep your head warmer, they're also great for visibility in the water. Get one that covers your ears! The water still gets in, but it cuts out the discomfort of cold wind into damp ears.
 
 ![north-tyne-1](north-tyne-1.jpg "north-tyne-1")
 *Resting on an ULU Tow Float in the North Tyne.*
 
-And that leads into tow floats, which also serve several purposes. Visibility is the first. I chose the "Guardian" by [Ulu Drybags](https://uludrybags.com/), but there's plenty of choice. This model has several nice features. High-visibility reflecting panels, an emergency whistle, convenient grab-handles, and it's a decent size. It works as a drybag, but it's almost impossible to avoid some dampness. Be careful if you need to get something out of it while you're still in the water; your GoPro camera, for example. Being a cautious chap, I keep my mobile phone, car keys and wallet, inside a second drybag. So far so good.
+And that leads into tow floats, which also serve more than one purpose. Visibility is the first. I chose the "Guardian" by [Ulu Drybags](https://uludrybags.com/), but there's plenty of choice. This model has several nice features. High-visibility reflecting panels, an emergency whistle, convenient grab-handles, and it's a decent size. It works as a drybag, but it's almost impossible to avoid some dampness. Be careful if you need to get something out of it while you're still in the water; your GoPro camera, for example. Being a cautious chap, I keep my mobile phone, car keys and wallet, inside a second drybag. So far so good.
 
-There's limited space, depending on how much you inflate its two compartments. There's some advantages to this. If you stuff your dry-bag of valuables to the bottom before inflating, they won't fall out. But, in summer weather, I can stuff everything into it. That includes trainers, clothes, a mini-thermos, snacks, and a towel.
+There's limited space, depending on how much you inflate its two compartments. You'll find there's some advantages to this. If you stuff your dry-bag of valuables to the bottom before inflating, they won't fall out. But, in summer weather, I can stuff everything into it. That includes trainers, clothes, a mini-thermos, snacks, and a towel. And yes, it does still float!
 
 ![newbiggin-breakwater](newbiggin-breakwater.jpg "newbiggin-breakwater")
 *Newbiggin breakwater with "Couple" statue, July 2021.*
 
-Once you've decided to take the plunge, you'll need to find some water. It's no surprise that England trails behind Scotland and Europe for public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok too, but not if it's a reservoir - unless you're in Scotland. Confused yet? Finding some local swimming friends and sharing information is ideal. If that's not an option, there are some more resources below.
+Once you've decided to take the plunge, you'll need to find some water. It's no surprise that England trails behind Scotland and Europe for public access rights to water. The sea and navigable waterways are probably ok, but not if it's a canal. Lakes and tarns are probably ok too, but not if it's a reservoir - unless you're in Scotland. Confused yet? Finding some local swimming friends and sharing information is the best approach. If that's not an option, you'll need to explore and find information online. I've copied a few examples below.
 
 * [swimming.org/openwater/open-water-swimming-venues](https://www.swimming.org/openwater/open-water-swimming-venues/)  
 ^- *searchable list of organised open water swimming venues*
@@ -57,7 +57,7 @@ Once you've decided to take the plunge, you'll need to find some water. It's no 
 * [https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming](https://www.lakedistrict.gov.uk/visiting/things-to-do/water/swimming)  
 ^- *swimming in the Lake District, safety tips, and lakes that permit swimming*
 
-I began in a wetsuit, and for longer swims I would still use it. But, having dipped my toe into the world of wild swimming, I can confirm the buzz! Communing with nature in picturesque surroundings. Feeling the water's chill embrace. Pushing out across the shadowy unknown depths. Observing the wide-eyed amazement of passersby wondering what you nutters are up to!
+I began in a wetsuit, and for longer swims I'd still use it. But, having dipped my toe into the world of wild swimming, I can confirm the buzz! Communing with nature in picturesque surroundings. Feeling the water's chill embrace. Pushing out across shadowy unknown depths. Observing the wide-eyed amazement of passersby, wondering what you crazy nutters are up to!
 
 ![harbottle-lake](harbottle-lake.jpg "harbottle-lake")
 *Harbottle Lough, in Northumberland, November 2021.*
@@ -66,7 +66,7 @@ I'd spent twelve months declining all invitations to lose the wetsuit. Then, in 
 
 "Wade into the water until you're waist deep. Splash water on your face, neck and chest, then exhale as you lean forward into the water."
 
-It's sound advice, that I've passed onto a couple of others since. Go waist deep, do the face and neck splashing. That part's easy, even when it's chilly. I've been adding some extra splashing into the mix; arms and shoulders. Those few extra seconds of acclimatisation, at least for me, seems to ease your entry into the water.
+It's sound advice, that I've passed onto a couple of others since. Go waist deep, do the face and neck splashing. That part's easy, even when it's chilly. I've been adding some extra splashing into the mix; arms and shoulders. Those few extra seconds of acclimatisation, at least for me, ease your entry into the water.
 
 Exhaling is advice I've seen many times. You don't want a surprised gasp from leaping into cold water too quick.
 
@@ -75,7 +75,7 @@ Timing-wise, there's a rule of thumb suggesting one minute per degree Celsius. I
 ![north-tyne-3](north-tyne-3.jpg "north-tyne-3")
 *Upstream, in the North Tyne.*
 
-You'll need to accept that outdoor swimming is not like getting into a swimming pool. The thing is, you soon learn to embrace that chill, and then you can start to enjoy the buzz. After a few dips, you'll have to admit that all those nutcases who were banging on about the merits of wild swimming were actually onto something!
+You'll need to accept that outdoor swimming is not like getting into a swimming pool. The thing is, you soon learn to embrace that chill, and then you begin to enjoy the buzz. After a few dips, you'll have to admit that all those nutcases who were banging on about the merits of wild swimming were actually onto something!
 
 > The water is always pure and very cold -- so cold that it was said to be certain death to attempt to swim across. We, however, know of several who have performed the feat and are still alive to tell the tale."
 
